@@ -1,0 +1,12 @@
+.btn {
+    border: none;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+@media screen and (max-width:1199px){
+    .btn{
+        padding-left: 15px;
+        padding-right:15px;
+    }
+}

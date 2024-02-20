@@ -1,0 +1,1688 @@
+pk_project_ID,fk_beneficiary_ID,fk_overseasconference_ID,projects_DateProjectReceived,projects_ProjectName,projects_ProjectComments,project_OverseasProject_ID,project_LocalCurrency,projects_ProjectValueLocal,project_ExchangeRate,c_projects_ProjectValue_AUD,c_projects_TotalPaid,c_projects_BalanceOwing,c_projects_Paid_Flag,projects_Paid_Date,projects_AmountPaid,projects_CompletionReportDate
+22,20,2244,17/11/2006,"Buying and Selling Patis, Vinegar and other Primary Needs","AUD $625.00 
+
+",NIL,PHP,25000,40,625,625,0,1,03/08/2007,,
+23,20,2244,17/11/2006,Candle Making,AUD $656.50,Phillipines,PHP,25000,31.25,800,800,0,1,08/03/2007,,
+24,15,1868,30/12/2006,Distribution of Sewing Machines,,P-48/06-07/MDY,INR,30000,33.95,883.65243,884,-0.347569956,1,15/04/2008,,10/08/2009
+27,15,6644,22/03/2007,Self Help Project,,P-51/06-07,INR,40000,34.6889,1153.106613,1153,0.106613355,1,03/08/2007,,15/12/2009
+28,15,1677,22/03/2007,Cow Bank Revolving Project,Currently untwinned - was twinned with QLD Conference in Bundaberg until September 2006,P-62/06-07,INR,54000,34.6889,1556.693928,1557,-0.306071971,1,01/02/2008,,01/05/2009
+29,15,6535,22/03/2007,Grameen Bank,Not accepted by QLD. India has been asked to re-submit in 2009 if the need is still present - 150109 KW,P-69/06-07,INR,50000,34.6889,1441.383267,,1441.383267,,,,
+30,15,6512,22/03/2007,Small Business and Petty Shop - Revolving Propject,PROJECT COMPLETE,P-68/06/07,INR,50000,34.6889,1441.383267,1441,0.383266693,1,04/05/2007,,24/08/2008
+31,15,6289,22/03/2007,Self Employment,,P-73/06-07,INR,50000,34.6889,1441.383267,,1441.383267,,,,
+32,15,5790,22/03/2007,Cow Rearing,,P-74/06-07,INR,40000,34.6889,1153.106613,1153,0.106613355,1,04/05/2007,,15/12/2009
+33,15,6051,04/04/2007,Self Help Project - Goat Bank,,P-05/06-07/BLS,INR,40000,34.687,1153.169775,1153,0.16977542,1,03/08/2007,,18/11/2008
+35,15,6119,30/04/2007,Ozanam Evening Study & Training Centre,,P-98/06-07/TRU,INR,45000,34.1141,1319.102658,1319,0.102658432,1,03/08/2007,,
+36,15,1891,30/04/2007,Self Help Project,,P-91/06-07,INR,40000,34.1141,1172.535696,1173,-0.464303616,1,01/02/2008,,01/12/2009
+37,15,6651,30/04/2007,Sewing Machines Distribution,,P-86/06-07,INR,43000,34.1141,1260.475874,1260,0.475873612,1,02/09/2008,,05/08/2009
+38,15,484,30/04/2007,Self help Project ,,P-59/06-07,INR,45000,34.1141,1319.102658,1319,0.102658432,1,23/10/2007,,17/07/2008
+39,15,1730,30/04/2007,Cow Bank,,P-118/06-07/TCR,INR,48400,34.1141,1418.768193,1419,-0.231807376,1,01/02/2008,,
+40,15,600,30/04/2007,Rabbit Rearing,"Please note: In April 2007 when this project was received it was erroneously listed against the new Indian twin SRN: 6180, St George which replaces St Antony SRN: 600 in March 2002. The project was for St Antony and this is where the funds have gone.",P-114/06-07/KRY,INR,40000,34.1141,1172.535696,1173,-0.464303616,1,02/11/2007,,01/05/2009
+41,15,2582,30/04/2007,Cow Bank,,P-110/06-07/KTM,INR,55000,34.1141,1612.236583,1612,0.236582527,1,03/08/2007,,09/04/2012
+43,15,6595,30/04/2007,Goat Bank,,P-115/06-07/MDY,INR,35000,33.0428,1059.232268,1059,0.232268452,1,23/10/2007,,21/09/2008
+44,15,642,30/04/2007,Hiring Service,,P-113/06-07/KRY,INR,40000,33.1303,1207.353993,1207,0.353993172,1,02/11/2007,,01/05/2009
+45,16,2340,07/06/2007,Cattle breeding project,,,IDR,10000000,7450.71,1342.153969,1342,0.153969219,1,02/11/2007,,
+46,16,2342,07/06/2007,Cattle breeding project,,,IDR,10000000,7450.71,1342.153969,1342,0.153969219,1,09/05/2008,,
+47,16,732,07/06/2007,Cattle breeding,,Pyk/II/2007,IDR,9500000,7450.71,1275.046271,1275,0.046270758,1,02/05/2008,,
+50,16,6686,07/06/2007,Cow project,,Pyk/II/2007,IDR,8500000,7450.71,1140.830874,1141,-0.169126164,1,02/05/2008,,
+51,16,698,07/06/2007,Cattle breeding project,,,IDR,12000000,7450.71,1610.584763,1611,-0.415236937,1,09/05/2008,,
+52,16,1365,07/06/2007,Cattle breeding project,Offered to SRN: 2069 Broken Hill who can not pay it as per email from Doug Puxty of 22/10/07. He will offer them to Canberra/Goulburn who will pay.  KW,,IDR,10000000,7450.71,1342.153969,1342,0.153969219,1,01/02/2008,,
+53,16,2337,07/06/2007,Cattle breeding project,,,IDR,10000000,7450.71,1342.153969,1342,0.153969219,1,09/10/2007,,
+54,16,1363,07/06/2007,Cattle breeding project,Offered to SRN: 1363 Parkes NSW who can not pay it as per email from Doug Puxty of 22/10/07. He will offer them to another Diocese.  KW,,IDR,10000000,7450.71,1342.153969,1342,0.153969219,1,01/02/2008,,
+55,15,2131,07/06/2007,Goatery Self help revolving project,,02/07-08/BAM,INR,50000,34.4242,1452.466579,1452,0.466578744,1,01/02/2008,,
+56,15,2451,07/06/2007,Goatery - Aid to the poor self employment,,03/07-08/BAM,INR,54000,34.4242,1568.663905,1569,-0.336094956,1,01/02/2008,,
+57,16,6684,07/06/2007,Brahman Cow Project,,Pyk/II/2007,IDR,7900000,7450.71,1060.301636,1060,0.301635683,,,,
+58,15,758,11/06/2007,Self Help Project,,60/06-07,IDR,47500,34.3666,1382.15593,1382,0.155930467,1,02/05/2008,,
+59,15,6192,11/06/2007,Grameen Bank,,P-61/06-07,IDR,47500,34.3666,1382.15593,1382,0.155930467,1,01/02/2008,,19/01/2009
+60,15,485,11/06/2007,Cow Rearing,,83/06-07/TKY,IDR,40000,34.3666,1163.920784,1164,-0.079216449,1,23/10/2007,,
+61,15,5769,11/06/2007,Cow Rearing,,84/06-07,IDR,40000,34.3666,1163.920784,1164,-0.079216449,,,,
+62,15,6170,11/06/2007,Cow Project,,95/06-07,IDR,42500,34.3666,1236.665833,1237,-0.334167477,1,01/02/2008,,30/01/2009
+63,15,2483,11/06/2007,Cow Bank,,101/06-07,IDR,54000,34.3666,1571.293058,1571,0.293057794,1,30/01/2009,,01/12/2009
+64,15,6590,11/06/2007,Rickshaws for economic generation,,P-112/06-07/GTR,IDR,60000,34.3666,1745.881175,1746,-0.118824673,1,03/08/2007,,
+65,15,6609,11/06/2007,Various economic generation activities,,113/06-07,IDR,40000,34.3666,1163.920784,1164,-0.079216449,1,02/11/2007,,
+66,15,2576,11/06/2007,Night study centre,,121/06-07,IDR,54000,34.3666,1571.293058,1571,0.293057794,1,01/02/2008,,
+67,15,6611,11/06/2007,Various economic generation activities,,122/06-07,IDR,40000,34.3666,1163.920784,1164,-0.079216449,1,02/11/2007,,
+68,15,2571,11/06/2007,Tailoring shop and petty shop,,44/06-07,INR,40000,34.2557,1167.688881,1168,-0.311119025,1,01/02/2008,,14/01/2009
+69,23,604,04/05/2007,Mushroom Farming,,,BAHT,30000,27.1961,1103.099341,1103,0.09934145,1,02/11/2007,,
+70,23,2642,04/05/2007,Water Storage for villagers,,,BAHT,29000,27.1961,1066.329363,1066,0.329363401,1,23/10/2007,,
+72,15,1807,23/02/2007,Milch Animals,,P-26/06-07/DRM,INR,50000,34.5878,1445.596424,1446,-0.403575827,1,03/08/2007,,
+73,15,6050,27/06/2007,Self Help Project ,,P-3/06-07/BLS,INR,40000,34.5878,1156.477139,1156,0.477139338,1,01/02/2008,,
+74,15,2586,23/02/2007,Cow Project,,P-86/06-07/KTM,INR,40000,34.5878,1156.477139,1156,0.477139338,1,02/11/2007,,
+75,15,6073,23/02/2007,Cow Project,,P-89/06-07/KTM,INR,40000,34.5878,1156.477139,1156,0.477139338,1,01/02/2008,,
+76,15,2300,23/02/2007,Cow Project,,P-88/06-07/KTM,INR,40000,34.5878,1156.477139,1156,0.477139338,1,02/11/2007,,
+77,15,6545,23/02/2007,Goat Farm ,,P-49/06-07/COM,INR,40000,34.5878,1156.477139,1156,0.477139338,1,01/02/2008,,
+78,15,6636,23/02/2007,Revolving Business Project,,P-29/06-07/PLY,INR,45000,34.5878,1301.036782,1301,0.036781755,1,01/10/2008,,
+79,15,160,23/02/2007,Sewing Machine Distribution,,P-91/06-07/TCR,INR,40000,34.5878,1156.477139,1156,0.477139338,1,01/02/2008,,
+80,15,6070,23/02/2007,Cow Project,,P-87/06-07/KTM,INR,40000,34.5878,1156.477139,1156,0.477139338,,,,
+81,15,6196,13/08/2007,Sewing Machine Project,,P-14/07-08/VIS,INR,40000,34.3759,1163.605898,1164,-0.394101682,1,02/11/2007,,
+82,15,6076,25/09/2006,Goat Bank,,P-54/06-07/TVM,INR,40000,35.625,1122.807018,1123,-0.192982456,1,04/05/2007,,
+83,23,566,16/08/2007,School lunch for hill tribe students,,5/2007,BAHT,33000,26.62,1239.669421,1240,-0.330578512,1,23/10/2007,,
+84,23,2645,17/08/2007,Growing hard corn for income,,6/2007,BAHT,49500,26.62,1859.504132,1860,-0.495867769,1,23/10/2007,,10/12/2008
+85,23,2326,16/08/2007,Fertilizer Bank Project,This overseas conference was previously  linked to the Townsville DC. Would they consider taking the project?,4/2007,BAHT,33000,26.72,1235.02994,1235,0.02994012,1,01/02/2008,,
+86,15,6303,03/09/2007,Milk Cows,"Emails were sent in March and April 2011 about a completion report for this project put none has been received yet. 
+
+
+This is a project from October 2005 that was never funded and we are resending it - KW 030907",P-138/04-05/OOT,INR,40000,33.6132,1190.008687,1190,0.008687063,1,01/02/2008,,
+87,15,6527,04/09/2007,Goat Bank,KW,P-03/07-08/VJP,INR,40000,33.3104,1200.826168,1201,-0.173831596,1,23/10/2007,,19/01/2009
+88,15,376,04/09/2007,Rabbit Rearing,,P-04/07-08/VJP,INR,40000,33.3104,1200.826168,1201,-0.173831596,1,02/05/2008,,19/01/2009
+89,15,716,04/09/2007,GOAT BANK,,P-05/07-08/VJP,INR,40000,33.3104,1200.826168,1201,-0.173831596,1,02/05/2008,,19/01/2009
+90,15,6537,04/09/2007,GOAT BANK,,P-06/07-08/VJP,INR,40000,33.3104,1200.826168,1201,-0.173831596,1,01/02/2008,,
+91,15,6596,04/09/2007,GOAT BANK,Note that Project rejected as the conference has disbanded as per email from Doug Puxty on 26/10/07 but then paid Q2 08 (???) ,P-07/07-08/MDY,INR,35350,33.3104,1061.230126,1061,0.230126327,1,02/05/2008,,09/04/2012
+92,15,5931,04/09/2007,HOUSING,,P-08/07-08/TMY,INR,40000,33.3104,1200.826168,1201,-0.173831596,,,,
+94,15,5973,04/09/2007,LATRINE,,P-10/07-08/KTM,,40000,33.3104,1200.826168,1201,-0.173831596,1,01/12/2007,,09/04/2012
+95,15,6525,04/09/2007,GOAT BANK,,P-11/07-08/TVM,INR,40000,33.3104,1200.826168,1156,44.8261684,1,01/02/2008,,30/11/2010
+96,15,1740,04/09/2007,COW BANK,,P-12/07-08/TVM,INR,40000,33.3104,1200.826168,1201,-0.173831596,1,02/11/2007,,05/11/2008
+97,15,6260,04/09/2007,GOAT BANK,,P-13/07-08/TCR,INR,40000,33.3104,1200.826168,1201,-0.173831596,1,01/02/2008,,01/08/2009
+98,15,191,04/09/2007,ROOFING,,P-15/07-08/NYA,INR,40000,33.3104,1200.826168,1201,-0.173831596,1,01/02/2008,,07/09/2009
+99,15,148,04/09/2007,ROOFING,,P-16/07-08/NYA,INR,40000,33.3104,1200.826168,1201,-0.173831596,1,01/02/2008,,07/09/2009
+100,15,825,04/09/2007,GOAT BANK,,P-17/07-08/PAL,INR,35000,33.3104,1050.722897,1051,-0.277102647,1,23/10/2007,,01/05/2009
+101,15,49,04/09/2007,SELF HELP,,P-19/07-08/TVR,INR,40000,33.3104,1200.826168,1201,-0.173831596,1,01/02/2008,,07/09/2009
+102,15,1222,04/09/2007,SEWING MACHINE DISTRIBUTION,,P-20/07-08/PLR,INR,40000,33.3104,1200.826168,1201,-0.173831596,1,01/02/2008,,
+103,15,98,05/09/2007,GOAT BANK,St Antony is Untwinned - 17/10/07 KW,P-13/07-08/TCR,INR,40000,33.4415,1196.118595,1196,0.118595159,1,18/10/2007,,05/08/2009
+104,15,143,05/09/2007,FISH VENDING,O.L. of Sorrows is Untwinned - 17/10/07 KW,P-18/07-08/TVR,INR,40000,33.4415,1196.118595,1196,0.118595159,1,18/10/2007,,
+105,15,763,05/09/2007,HOUSING,,P-09/07-08/TMY,INR,40000,33.4415,1196.118595,1196,0.118595159,1,02/05/2008,,15/11/2012
+107,15,6635,03/10/2007,Self Help,,P-38/07-08,INR,32000,35.0614,912.6846047,913,-0.315395278,,,,
+108,15,1251,03/10/2007,Self Help,"The National Council of Australia is sending this project through again to Victoria with updated project information as requested by the Victorian Project Officer.
+
+Thank you,
+
+Kimberly Watson
+NOPDC Admin Support Officer",P-40/07-08,INR,40000,35.0614,1140.855756,1141,-0.144244097,1,01/06/2008,,01/12/2009
+109,15,1877,03/10/2007,Vegetable Vending,,P-66/07-08,INR,40000,35.0614,1140.855756,1141,-0.144244097,,,,
+111,15,1902,03/10/2007,Self Help,"The National Council of Australia is sending this project through again to Victoria with updated project information as requested by the Victorian Project Officer.
+
+Thank you,
+
+Kimberly Watson
+NOPDC Admin Support Officer",P-36/07-08,INR,32000,35.0614,912.6846047,913,-0.315395278,1,20/08/2008,,01/12/2009
+112,15,1716,30/04/2007,House Repair,,P-111/06-07/IRK,INR,40000,36.4961,1096.007519,1096,0.007518612,1,20/08/2008,,30/11/2010
+113,19,1467,03/10/2007,Classroom Repairs,Please note that there is a suggestion to add $50 to $100 to this project.,NA,PKR,40000,53.8417,742.9185928,843,-100.0814072,1,01/02/2008,,
+115,23,2326,03/10/2007,Beans for Income,Townsville DC did not accept this project and it has been requested of Thailand to re-submit this project as Victoria might take it on. 150109 - KW,07/2007,BAHT,33000,27.8809,1183.605981,1184,-0.394018844,1,01/05/2009,,
+116,23,849,30/01/2007,Water Supply from Mountain,,NA,BAHT,50000,27.8809,1793.342396,1793,0.34239569,,,,
+117,23,1133,30/01/2007,Fish Nets,,10/2006,BAHT,25000,27.8809,896.6711978,897,-0.328802155,1,01/04/2008,,
+118,15,1934,30/04/2007,Revolving Self Help ,"A donor has not been listed yet. This O/S Conference used to be twinned with St Augustine, Longford TAS  AUS SRN: 1934
+
+The National Council is forwarding this project to see if St Augustine or the State Council wish to fund it. 
+
+Kimberly Watson, NOPDC Admin",P-111/06-07/MADRAS,INR,40000,34.8124,1149.015868,1149,0.015867909,1,01/02/2008,,
+120,15,1574,30/04/2007,Cow Distribution,"This O/S conference was previously twinned with Taperoo (L)  DC: Adelaide RC: Western AUS SRN: 1581. Would this conference or the DC consider funding this project?
+
+Kimberly Watson, NOPDC Admin",P-112/06-07,INR,40000,34.8124,1149.015868,1149,0.015867909,1,01/02/2008,,30/11/2010
+121,15,1946,,Goat Distribution,"This O/S conference was previously twinned with St Patrick, Camperdown but surrendered it’s twinning according the replacement against 15 years policy. 
+
+Kimberly Watson, NOPDC Admin",P-53/06-07/MDY,INR,35000,34.8124,1005.388884,1005,0.38888442,1,01/02/2008,,01/02/2010
+123,15,1851,03/10/2007,House Repair,,P-07/07-08/BAM,INR,50000,36.0087,1388.553322,1389,-0.446678164,1,01/02/2008,,
+124,15,2217,03/10/2007,Rickshaw Distribution,,P-08/07-08/BLS,INR,36000,36.0087,999.7583917,1000,-0.241608278,1,01/02/2008,,
+125,15,6513,21/11/2007,Cow Bank,,P-53/07-08,INR,54000,34.1791,1579.912871,1580,-0.087129269,1,01/02/2008,,01/05/2009
+126,15,6572,21/11/2007,Self Help Loan Project,,P-70/07-08,INR,40000,34.1791,1170.30583,1170,0.305830171,,,,
+127,15,6301,21/11/2007,Self Help,,p-27/06-07/mrdm,INR,40000,34.1791,1170.30583,1170,0.305830171,1,01/05/2008,,15/11/2011
+128,15,2626,21/11/2007,Cow Bank,,P-13/07-08/BAM,INR,54000,34.1791,1579.912871,1580,-0.087129269,,,,
+129,15,2627,21/11/2007,Goat Bank,,P-21/07-08/BAM,INR,55000,34.1791,1609.170516,1609,0.170516485,1,02/09/2008,,
+130,16,1334,02/12/2007,Cow Bank,,01/Cow/PYK/DN/IX/07,IDR,7500000,8120.53,923.5850369,924,-0.414963063,,,,
+131,15,2450,21/11/2007,House Repairs,,P-11/07-08/BAM,INR,50000,34.1791,1462.882288,1463,-0.117712286,1,01/02/2008,,
+132,15,1848,21/11/2007,Goat Bank,,P-9/07-08/BAM,INR,50700,34.1791,1483.36264,1483,0.362639742,1,15/04/2008,,
+133,15,1849,21/11/2007,Loan Scheme,,P-12/07-08/BAM,INR,50000,34.1791,1462.882288,1463,-0.117712286,1,15/04/2008,,
+134,15,1196,28/11/2007,Goat Bank,,P-19/07-08/BAM,INR,51750,34.1791,1514.083168,1514,0.083167784,1,15/04/2008,,
+135,15,6682,28/11/2007,Loan Scheme,,P-50/07-08,INR,39000,34.6361,1125.992823,1126,-0.007177482,1,01/02/2008,,
+136,15,2353,28/11/2007,Vegetable Vending,,P-86/07-08,INR,39680,34.6361,1145.625518,1146,-0.374482115,1,01/02/2008,,05/08/2009
+137,15,557,28/11/2007,Education Project,,P-35/07-08/CHY,INR,25000,34.6361,721.7902708,722,-0.209729155,1,01/02/2008,,15/11/2011
+138,15,809,28/11/2007,House Repair,"This is an inactive conference that was previously twinned with SRN: 809 St Gerards Conference, Rusden Street, Armidale NSW ",P-36/07-08/CHN,INR,40000,34.6361,1154.864433,1155,-0.135566649,1,02/05/2008,,05/08/2009
+139,15,1967,28/11/2007,Horticulture Nursery,"This is an untwinned conference due to the 15 years policy but was previously twinned with SRN: 1967 St Peter’s Conference C/O St Nicholas Parish, Nariyos Street, Tamworth NSW 2340.
+
+This is the project that was accidentally paid by India with funds meant for another project. We received a completion report 5/11/08 but the project was actually paid 30/1/09
+",P-37/07-08/MDY,INR,40000,34.6361,1154.864433,1155,-0.135566649,1,30/01/2009,,05/11/2008
+140,15,1830,28/11/2007,Cow Bank,,P-39/07-08/IRK,INR,40000,34.6361,1154.864433,1155,-0.135566649,1,01/02/2008,,15/11/2011
+141,15,1535,28/11/2007,Educational Loan,,P-40/07-08/KTM,INR,40000,34.6361,1154.864433,1155,-0.135566649,,,,
+142,15,5975,28/11/2007,House Construction,NSW will make no further contribution to this project. 150508; India notified on 210508,P-42/07-08/KTM,INR,40000,34.6361,1154.864433,800,354.8644334,1,07/05/2008,,09/04/2012
+143,15,1541,28/11/2007,House Construction,NSW will make no further contribution to this project. 150508; India notified on 210508,P-43/07-08/KTM,INR,40000,34.6361,1154.864433,800,354.8644334,1,01/05/2008,,09/04/2012
+144,15,1938,28/11/2007,Cow Bank,"This conference is untwinned due to 15 years policy but was previously twinned with AUS SRN: 1938 St Edward Conference, South Tamworth.",P-44/07-08/MDY,INR,40000,34.6361,1154.864433,1155,-0.135566649,1,02/05/2008,,05/11/2008
+145,15,5960,28/11/2007,Training Centre for Unemployed  Women,,P-22/07-08/PTA,INR,40000,34.6361,1154.864433,1155,-0.135566649,1,02/05/2008,,05/11/2008
+146,15,2629,28/11/2007,Goat Bank,,P-20/07-08/BAM,INR,51750,34.6361,1494.105861,1494,0.105860648,,,,
+148,19,,05/11/2007,Pakistan Literacy 2007-2008,,67/115,PKR,120000,100,1200,1200,0,1,01/02/2008,,
+149,19,,05/11/2007,Pakistan Literacy 2007-2008,,67/115,PKR,120000,100,1200,1200,0,1,01/02/2008,,
+150,19,,,Pakistan Literacy 2007-2008,This is an ongoing annual project associated with AAS.,67/115,PKR,600000,100,6000,6000,0,,,,
+151,15,779,15/01/2008,Gramean Bank,,P-44/07-08,INR,40000,37.3573,1070.741194,1071,-0.258806177,1,30/06/2008,,
+152,15,6195,15/01/2008,Gramean Bank,,P-45/07-08/TKLY,INR,40000,37.3573,1070.741194,1071,-0.258806177,1,07/05/2008,,01/05/2009
+153,15,5772,15/01/2008,Gramean Bank,,P-48/07-08,INR,40000,37.3573,1070.741194,1071,-0.258806177,,,,
+154,15,5770,15/01/2008,Gramean Bank,,P-49/07-08,INR,40000,37.3573,1070.741194,1071,-0.258806177,1,02/05/2008,,
+155,15,6503,15/01/2008,Self Help Project,,P-30/07-08,INR,40000,37.3573,1070.741194,1071,-0.258806177,,,,
+156,15,16891,15/02/2008,Drinking Water for Tsunami Affected Aged Orphans,,p-29/07-08,INR,100000,37.3573,2676.852985,2677,-0.147015443,1,01/06/2008,,
+157,15,463,15/01/2008,Self Help,,P-35/07-08,INR,40000,37.3573,1070.741194,1071,-0.258806177,1,05/05/2008,,01/12/2009
+158,15,1927,15/01/2008,Self Help Project,,P-34/07-08,INR,40000,37.3573,1070.741194,1071,-0.258806177,1,05/05/2008,,01/12/2009
+159,20,16897,16/03/2008,SSVP Guinsaugon Orphan  Scholars,"1st Semester, $905.87USD = $985.00AUD
+2nd Semester, $788.39USD=$857.32AUD
+
+
+Please confirm if the Victorian State Council will be paying this project.",Special Project-VOPDC,USD,1695,0.919597,1843.198706,1843,0.19870552,,,,
+160,20,16898,16/03/2008,SSVP Guinsaugon Orphan  Scholars,"1st Semester, $1873.90USD = $2037.00AUD
+2nd Semester, $1622.68USD=$1764.40AUD
+
+
+Please confirm if the Victorian State Council will be paying this project.",Special Project-VOPDC,USD,3497,0.919597,3802.752728,3803,-0.247272447,,,,
+161,20,16899,16/03/2008,SSVP Guinsaugon Orphan  Scholars,"1st Semester, $1232.92USD = $1339.87AUD
+2nd Semester, $874.39USD=$950.24AUD
+
+
+Please confirm if the Victorian State Council will be paying this project.",Special Project-VOPDC,USD,2107,0.919597,2291.221046,2291,0.221045741,,,,
+163,15,2620,01/04/2007,Housing,"Project sent to VIC, returned and then sent to Br. Doug as per his request. 210508 KW
+
+Had also been put in as Project ID: 187
+
+This project is closed as a resolution could not be found as to support for this project. 190109 KW",P-117/06-07/MTZ,INR,40000,36.4961,1096.007519,,1096.007519,,,,
+164,15,5773,30/04/2007,Tailoring and Garment Making,,P-23/06-07,INR,88053,36.4961,2412.668751,2413,-0.331249092,1,06/06/2008,,01/05/2009
+165,15,810,30/04/2007,House Repair,,P-90/06-07/CHN,INR,35500,36.4961,972.7066728,973,-0.293327232,1,30/01/2009,,
+166,15,868,30/04/2007,Cow Bank - Milch Animal,"This conference was previously twinned with Holy Family, Granville East, NSW -  SRN: 868
+
+Please let us know if one of the Regional Councils would like to take this project.",P-25/06-07,INR,45000,36.4961,1233.008458,1233,0.008458438,,,,
+167,15,2166,30/04/2007,Self Help,"This conference was previously twinned with St Charles, Ryde, NSW  - SRN: 2166
+
+Please confirm whether or not one of the RC’s would like to take this project.",P-119/06-07/TVL,INR,40000,36.4961,1096.007519,1096,0.007518612,1,02/05/2008,,01/02/2010
+168,15,1038,30/04/2007,Self Help,"This conference was previously twinned with Sacred Heart, NSW - SRN: 793
+
+Please confirm whether or not one of the RC’s would like to take this project.",P-58/06-07,INR,40000,36.4961,1096.007519,1096,0.007518612,1,06/06/2008,,
+169,15,5770,30/04/2007,Petty Businesses,Doug Puxty notified via email in April 2009 that St Michael can not pay this project as they strangely received this project and PID 154 within a month. 154 has been paid.,P-55/06-07,INR,42500,36.4961,1164.507989,1165,-0.492011475,1,07/07/2009,,
+170,15,853,30/04/2007,Self Help,"This conference was twinned with Mary the Immaculate, NSW - SRN 853.
+
+Please confirm whether or not one of the RC’s would like to take this project.",P-89/06-07,INR,40000,36.49161,1096.142374,1096,0.142373548,1,02/05/2008,,
+171,15,1867,30/04/2007,Goat Bank,"This project is closed as a resolution could not be found as to support for this project. 190109 KW
+
+This conference was twinned with SVDP, Morwell East, VIC - SRN: 1867
+
+Please confirm whether or not one of the RC’s would like to this project.
+
+Project sent to VIC, returned and then sent to Br. Doug as per his request. 210508 KW
+
+",P-51/06-07/MDY,INR,30000,36.4961,822.005639,,822.005639,,,,
+172,15,1900,30/04/2007,Self Help,"This conference was twinned with OL of the Rosary, Kyneton, Vic - Aus SRN: 1900
+
+Please confirm whether or not one of the RC’s would like to take this project.
+
+Project sent to VIC, returned and then sent to Br. Doug as per his request. 210508 KW",P-92/06-07,INR,35000,36.4961,959.0065788,959,0.006578785,1,03/11/2008,,
+174,23,566,25/04/2008,School Lunch for 200 Hill Tribe Students,,4/2008,BAHT,33000,29.7477,1109.329461,1109,0.329460765,,,,
+175,15,6116,23/04/2008,"Self Help: Veg, Rice and Fish Vending",,P-67/07-08/NYA,INR,40000,37.65,1062.416999,1062,0.416998672,1,01/10/2008,,01/02/2010
+176,15,189,23/04/2008,Self Help: Fish Vending,,P-68/07-08/NYA,INR,40000,37.65,1062.416999,1062,0.416998672,1,31/07/2008,,07/09/2009
+178,15,2609,23/04/2008,"Self Help: Materials for Mat Weaving, Goat Rearing, Etc.",,P-70/07-08/KPM,INR,40000,37.65,1062.416999,1062,0.416998672,1,30/06/2008,,05/08/2009
+179,15,957,23/04/2008,Housing: renovation of Tsunami affected houses,"The twinning partnership has been surrendered. Was twinned with St John Massias, Manuka which is now in recess. Please indicate donor. KW
+
+1/9/08 - sent down to VIC.",P-71/07-08/QLN,INR,40000,37.65,1062.416999,1062,0.416998672,1,03/11/2008,,
+180,15,2109,23/04/2008,Housing: family in need,,P-72/07-08/QLN,INR,40000,37.65,1062.416999,1062,0.416998672,1,20/08/2008,,01/02/2010
+181,15,592,23/04/2008,Goat Bank,This conference partnership has been surrendered but this Indian conference was twinned with Newton. Please indicate the donor - KW,P-73/07-08/KRY,INR,40000,37.65,1062.416999,1062,0.416998672,,,,
+182,15,1605,23/04/2008,Goat Bank,,P-74/07-08/KRY,INR,40000,37.65,1062.416999,1062,0.416998672,1,20/08/2008,,
+183,15,988,23/04/2008,Goat Bank,,P-75/07-08/PAL,INR,40000,37.65,1062.416999,1062,0.416998672,1,20/08/2008,,05/08/2009
+184,15,2696,23/04/2008,Toilet,,P-76/07-08/PAL,INR,40000,37.65,1062.416999,1062,0.416998672,1,20/08/2008,,05/08/2009
+185,15,6206,30/04/2008,Self Help - Sewing Machines,,P-69/07-08/NYA,INR,40000,39.0054,1025.499033,1025,0.499033467,1,20/08/2008,,01/02/2010
+188,15,6003,01/05/2008,Tailoring Institute,"This is the first and only project from this conference so India has asked that the application please be considered.
+
+Kim Watson",P-88/07-08,AUD,45000,40.5541,1109.628866,,1109.628866,,,,
+189,27,6722,26/06/2008,Agricultural Project,"Paid by WA to NC on 30/06/08 but we were holding it until Q4, 2008. See emails in Remittance/Issues on email. KW",Special Project of the WOPDC,AUD,4500,1,4500,4800,-300,1,05/08/2008,,
+190,15,6312,17/07/2008,Goat Bank,,P-22/08-09/TMY,INR,40000,40.0823,997.9467246,998,-0.053275386,1,01/05/2009,,15/02/2011
+191,15,1025,17/07/2008,Goat Bank,,P-24/08-09/CHN,INR,40000,40.0823,997.9467246,998,-0.053275386,1,03/11/2008,,05/08/2009
+192,15,5765,17/07/2008,Goat Bank,,P-25/08-09/TEL,INR,40000,40.0823,997.9467246,998,-0.053275386,1,03/11/2008,,01/05/2009
+193,15,203,17/07/2008,Fish Vending,,P-26/08-09/TVR,INR,40000,40.0823,997.9467246,998,-0.053275386,1,03/11/2008,,07/09/2009
+194,15,6489,17/07/2008,Sewing Machine Distribution,,P-29/08-09/TCR,INR,40000,40.0823,997.9467246,998,-0.053275386,1,01/05/2009,,30/11/2010
+195,15,139,17/07/2008,Fish Vending,,P27/08-09/TVR,INR,40000,40.0823,997.9467246,998,-0.053275386,1,01/10/2008,,
+196,15,6267,31/07/2008,Self Help,,P-6/07-08/NYA,INR,40000,39.6437,1008.987557,1009,-0.012443339,1,03/11/2008,,01/02/2010
+197,15,6101,31/07/2008,Roofing,,P-65/07-08/NYA,INR,40000,35.9479,1112.721466,1113,-0.278533656,1,30/01/2009,,
+198,15,750,31/07/2008,Computer Unit,Email sent from Wendy Scott to Roshan on 5/9/08 copying Amanda and myself.,P-64/07-08/CHY,INR,40000,39.6437,1008.987557,1009,-0.012443339,1,05/09/2008,,
+199,15,582,31/07/2008,Cow Bank,"Currently untwinned but was twinned with AUS SRN: 725 Craft Ladies, Brookvale. ",P-63/07-08/CHY,INR,40000,39.6437,1008.987557,1009,-0.012443339,1,30/01/2009,,15/11/2011
+200,15,659,31/07/2008,Latrine,"Currently untwinned but was twinned with Maria Regina Avalon, AUS SRN: 1066",P-62/07-08/CHY,INR,40000,39.6437,1008.987557,1009,-0.012443339,1,30/01/2009,,15/11/2011
+201,15,5775,31/07/2008,Goat Bank,,P-59/07-08/TVM,INR,40000,39.6437,1008.987557,1009,-0.012443339,1,01/12/2008,,09/04/2012
+202,15,1230,31/07/2008,Goat Bank,,P-57/07-08/TVM,INR,40000,39.6437,1008.987557,1009,-0.012443339,1,03/11/2008,,
+203,15,6277,13/08/2008,Martury Van for Carrying Sick People to Hospital,,,INR,55000,37.8,1455.026455,1455,0.026455026,1,03/11/2008,,15/05/2010
+204,15,6480,24/08/2008,Cow Bank,,P-90/07-08,INR,40000,35.9479,1112.721466,1113,-0.278533656,1,03/11/2008,,
+205,23,2646,24/08/2008,Cement Water Storage Tanks,,P-3/2008,BAHT,55000,27.6304,1990.561121,1991,-0.438878916,1,03/11/2008,,
+206,15,6481,24/08/2008,Housing Project,This housing project was approved to send to NSW by Br. Doug Walsh on 12/08/08.,P-61/07-08/TMY,INR,40000,35.9479,1112.721466,1113,-0.278533656,1,03/11/2008,,30/11/2010
+207,15,1017,24/08/2008,Housing Project,This housing project was approved to send to NSW by Br. Doug Walsh on 12/08/08.,P-23/08-09/TMY,INR,40000,35.9479,1112.721466,1113,-0.278533656,1,01/05/2009,,15/11/2011
+208,15,2471,24/08/2008,Housing Project,This housing project was approved to send to VIC by Br. Doug Walsh on 12/08/08.,P-60/07-08/TMY,INR,40000,35.9479,1112.721466,1113,-0.278533656,1,03/11/2008,,01/02/2010
+209,15,2379,11/08/2008,Roofing Project,This roofing project was approved to send to VIC by Br. Doug Walsh on 12/08/08.,P-30/07-08/NYA,INR,40000,35.9479,1112.721466,1113,-0.278533656,1,03/11/2008,,
+210,15,1799,01/09/2008,Piggery,,P-39/07-08/BBS,INR,40000,35.9479,1112.721466,1113,-0.278533656,,,,
+211,15,1909,01/09/2008,Pump set for agriculture,,P-30/07-08/BUX,INR,51300,35.9479,1427.065281,1427,0.065280587,1,03/11/2008,,
+212,15,6610,01/09/2008,Vegetable and Fruit Vending,,P-5/08-09,INR,40000,35.9479,1112.721466,1113,-0.278533656,1,03/11/2008,,05/08/2009
+213,15,6706,01/09/2008,Multipurpose - Self Help,,P-6/08-09/SIVA,INR,40000,35.9479,1112.721466,1113,-0.278533656,1,03/11/2008,,
+214,15,5776,01/09/2008,Cow Project,,P-07/08-09/VLOR,INR,40000,36.222,1104.301253,1104,0.301253382,1,01/11/2010,,
+215,15,6749,01/09/2008,Petty Shop and Cattle Purchase,,P-35/07-08/MANG,INR,32400,36.222,894.4840152,894,0.484015239,1,03/11/2008,,15/11/2011
+216,15,2368,01/09/2008,Self Help,,P-34/07-08/MANG,INR,50400,36.222,1391.419579,1391,0.419579261,1,03/11/2008,,15/11/2011
+217,15,6748,01/09/2008,Flower Cultivation and Cattle Purchase,Notify India if indication of support hasn’t been given by Q2 09 - May,P-04/08-09/MANG,INR,40000,36.222,1104.301253,1104,0.301253382,1,29/07/2009,,
+218,15,6757,01/09/2008,"Flower Cultivation, Cattle Purchase and Petty Shop",Springsure can not accept this project. 060509 KW,P-05/08-09/MANG,INR,40000,36.222,1104.301253,,1104.301253,,,,
+219,15,151,01/09/2008,Self Help Project,"Notify India if indication of support hasn’t been given by Q2 09 - May
+
+OL of Assumption SRN: 151 was previously twinned with St Catherine, Mansfield. Please let me know if St Catherine or someone else will be supporting this project.
+
+Thank you,
+
+Kim Watson",P-116/06-07/TUR,INR,40000,36.222,1104.301253,1104,0.301253382,1,30/01/2009,,15/02/2011
+220,15,2628,01/09/2008,Self Help - Dairy,,P-10/08-09/BAM,INR,54000,36.222,1490.806692,1491,-0.193307934,1,03/11/2008,,
+221,15,5764,17/09/2008,Roofing,,P-60/08-09/NYA,INR,40000,36.222,1104.301253,1104,0.301253382,1,03/11/2008,,
+222,15,280,17/09/2008,Cow Bank,"30/07/10 Julie Abrahams sent a message that Marist Primary College will not get back to her about this project so she is sending it back.
+
+
+This conference is untwinned but Marist Primary College, Ashgrove wanted a Cow Bank project.",P-62/08-09/KHM,INR,40000,36.222,1104.301253,,1104.301253,,,,
+223,15,1053,21/09/2008,Housing,"St Thomas, Koorachund is a previous twin of St John, Mullumbimby. Please notify me if they do not wish to support this project.
+
+Thank you,
+
+Kim Watson",P-61/08-09/TMY,INR,40000,38.3959,1041.777898,1042,-0.222101839,1,01/05/2009,,15/11/2011
+224,15,5953,21/09/2008,Tailoring Training Centre,,P-11/08-09/PTA,INR,40000,38.3959,1041.777898,1042,-0.222101839,1,30/01/2009,,
+225,15,2482,21/09/2008,Housing,,P-53/08-09/QLN,INR,40000,38.3959,1041.777898,1042,-0.222101839,1,30/01/2009,,
+226,15,6063,21/09/2008,Goat Bank,,P-59/08-09/KNR,INR,40000,38.3959,1041.777898,1042,-0.222101839,1,03/11/2008,,
+227,15,630,21/09/2008,Goat Bank,,P-57/08-09/KRY,INR,36000,38.3959,937.6001083,938,-0.399891655,1,03/11/2008,,
+228,15,16954,20/10/2008,Running Cost of Jeevan Jyothi Home,"This is an ongoing project and will remain in the red Projects 2008 folder.
+
+Rs. 40,000 per month for one year. Rs. 40,000 = $1193.58 per month for 12 months = $14, 323.00",16954a,INR,480000,33.5126,14322.97106,13529.38,793.5910616,,,,
+229,15,16954,20/10/2008,Funding for Capital Expenditure of Jeevan Jyothi Home,"The exchange rate would have been different when India calculated the Rs. 160000 which would have been equivalent to $4000.00 AUD, now equivalent to $4774.00",16954b,INR,160000,33.5126,4774.323687,4774,0.32368721,1,03/11/2008,,
+230,23,16972,06/11/2008,Two Homes for the Aged,,,BAHT,145000,36.25,4000,4000,0,1,30/01/2009,,
+231,23,6408,07/11/2008,"Hungry orphans, aged people and deserted people",,5/2008,BAHT,33000,23.078,1429.93327,1430,-0.066730219,1,30/01/2009,,
+232,15,6462,06/11/2008,Self Help,,P-03/08-09/RAN,INR,50000,31.5683,1583.867361,,1583.867361,,,,
+233,15,654,30/10/2008,Goat Bank,,P-58/08-09/KRY,INR,36000,32.8672,1095.316912,1095,0.316911693,1,30/01/2009,,
+234,15,1912,07/11/2008,Goats & Pigs for Self Help,,P-13/08-09/PTA,INR,50000,31.3534,1594.723379,1595,-0.276620717,1,30/01/2009,,
+235,15,2502,17/11/2008,Piggery,,P-19/08-09/BBS,INR,40000,31.3534,1275.778703,1276,-0.221296574,1,30/01/2009,,
+236,15,2534,17/11/2008,Piggery,,P-20/08-09/BBS,INR,40000,31.3534,1275.778703,1276,-0.221296574,1,30/01/2009,,
+237,15,2536,17/11/2008,Piggery,,P-21/08-09/BBS,INR,40000,31.3534,1275.778703,1276,-0.221296574,1,30/01/2009,,
+238,15,2503,17/11/2008,Self Help - Egg Shops,,P-18/08-09/BBS,INR,40000,31.3534,1275.778703,,1275.778703,,,,
+239,15,,23/06/2000,Medical Assistance to Cancer Patients,"0006 IN11
+
+$19,000.00
+
+Paid by NSW
+
+No SRN listed",P-15/00-01/TVM ,,,,,,,1,01/05/2001,,03/04/2003
+240,15,498,23/06/2000,Sewing Machine Distribution,"0006 IN12
+$1543.00
+Paid by WA",P-24/00-01/TVM,,,,,,,1,01/02/2001,,30/01/2002
+241,15,507,18/07/2000,Cow Distribution,"0007 IN03
+$1587.00 
+Paid by WA",P-51/00-01/TVM,,,,,,,1,01/02/2001,,30/01/2002
+242,15,1738,11/09/2000,Sewing Machine Distribution,"0010 IN01
+$1745.00
+$1713.00 Paid by WA",P-54/00-01/TVM,,,,,,,1,01/02/2001,,21/08/2003
+243,15,2367,11/09/2000,Goat Distribution,"0010 IN02
+$1745.00
+$1500.00 Paid by NSW",P-58/00-01/TVM,,,,,,,1,01/02/2001,,28/12/2001
+244,15,1031,11/09/2000,Self Help - Job Oriented,"0010 IN03
+$1875.00
+$1842.00 Paid by NSW",P-79/00-01/TKLY,,,,,,,1,01/02/2002,,08/11/2002
+245,15,1000,11/09/2000,Self Help - Banana Plantation,"0010 IN04
+$1920.00
+$1800.00 Paid by NSW
+
+No Completion Report listed as received",P-80/00-01/TKLY,,,,,,,1,01/02/2001,,
+246,15,2477,08/11/2000,Agriculture - Revolving Self Help,"0011 IN01
+$1713.00
+Paid by Vic",P-104/00-01/TSY,,,,,,,1,01/05/2001,,03/01/2003
+247,15,5766,08/11/2000,Goat/Cow Milk Distribution,"0011 IN02
+$1713.00
+Paid by NSW",P-103/00-01/TLRY,,,,,,,1,01/02/2002,,14/05/2003
+248,15,1955,08/11/2000,Drinking Water,"0011 IN03
+$2141.00
+$2000.00 Paid by NSW in two lots over 2 years",P-102/00-01/MNDY,,,,,,,1,01/05/2002,,12/04/2002
+249,15,1770,08/11/2000,Self Help - Petty Shops,"0011 IN04
+$1692.00
+$1500.00 Paid by NSW",P-90/00-01/TKLY,,,,,,,1,01/02/2001,,08/11/2002
+250,15,782,08/11/2000,Cow Rearing,"0011 IN05
+$1713.00
+$1500.00 Paid by NSW",P-89/00-01/TKLY,,,,,,,1,01/02/2001,,08/11/2002
+251,15,769,08/11/2000,No Project Name Listed,"0011 IN06
+$1713.00
+Paid by NSW",P-88/00-01/TKLY,,,,,,,1,01/08/2001,,15/01/2003
+252,15,503,08/11/2000,Cycle Distribution,"0011 IN07
+$1713.00
+Paid by WA",P-77/00-01/TVM,,,,,,,1,01/05/2001,,29/07/2003
+253,15,1767,08/11/2000,2 Wheeler for Fish Sales,"0011 IN08
+$1710.00
+Paid by NSW
+
+No Completion Report listed as received",P-34/00-01/TVLa,,,,,,,1,01/05/2001,,
+254,15,261,08/11/2000,House Repairs - Special Request,"0011 IN09
+$1713.00
+Paid by QLD",P-76/00-01/KPRM,,,,,,,1,01/02/2001,,16/08/2001
+255,15,2169,08/11/2000,2 Wheeler for Fish Sales,"0011 IN10
+$1884.00
+$1700.00 Paid by NSW",P-33/00-01/TVLA,,,,,,,1,01/02/2001,,14/07/2004
+256,15,1618,16/01/2001,Small Business,"0101 IN06
+$1605.00
+Paid by WA",P-81/00-01/MRDM,,,,,,,1,01/02/2001,,08/11/2002
+257,15,1240,16/01/2001,Cow Rearing,"0101 IN02
+$2005.00
+$2000.00 Paid by NSW",P-117/00-01/TVM,,,,,,,1,01/02/2001,,27/11/2001
+258,15,142,16/01/2001,Fish Net Making Unit,"0101 IN03
+$2005.00
+Paid by QLD",P-114/00-01/TVM,,,,,,,1,01/08/2001,,12/08/2003
+259,15,948,16/01/2001,Self Help ,"0101 IN04
+$1705.00
+$1500.00 Paid by NSW",P-111/00-01/KTR,,,,,,,1,01/05/2001,,23/04/2003
+260,15,1238,16/01/2001,Self Help,"0101 IN05
+$1670.00
+$1500.00 Paid by NSW",P-110/00-01/KTP,,,,,,,1,01/05/2001,,29/07/2002
+261,15,1044,16/01/2001,Small House,"0101 IN07
+$1725.00
+$1250.00 Paid by Vic
+
+No Completion Report listed as received",P-32/00-01/GOA,,,,,,,1,01/05/2001,,
+262,15,2661,16/01/2001,Tailoring and Garment Making,"0101 IN08
+$1725.00
+$1500.00 Paid by NSW",P-123/00-01/MNDY,,,,,,,1,01/02/2001,,31/12/2001
+263,15,,22/01/2001,Self Help,"0101 IN09
+Untwinned
+$1605.00 Paid by Vic",P-108/00-01/KTR,,,,,,,1,01/08/2001,,23/04/2003
+264,15,1022,27/06/2001,Cattle Rearing,"0101 IN10
+$1680.00
+Paid by Vic",P-149/00-01/CHRY,,,,,,,1,01/02/2002,,29/07/2003
+265,15,1528,02/02/2001,Cow Farming,"0102 IN16
+$1650.00
+Paid by NSW",P-150/00-01/CHRY,,,,,,,1,01/02/2002,,29/07/2003
+266,15,60,,Interest Free Loan for Petty Business,,P-151/00-01/NYA,,,,,,,,,,
+267,15,1807,02/02/2001,Distribution of Milch Animals,"0102 IN18
+$1650.00
+Paid by TAS",P-134/00-01/DRPI,,,,,,,1,01/05/2001,,25/11/2002
+268,15,868,02/02/2001,Milk Animal & Dairy Development,"0102 IN09
+$1650.00
+Paid by NSW
+
+No Completion Report listed as received",P-135/00-01/DRPI,,,,,,,1,01/08/2001,,
+269,15,629,02/02/2001,Low Cost Latrine,"0102 IN10
+$2050.00
+Paid by SA",P-136/00-01/KPLY,,,,,,,1,01/05/2001,,17/02/2004
+270,15,2570,02/02/2001,Poultry Farming,,P-137/00-01/CLCA,,,,,,,1,01/08/2001,,26/06/2003
+271,15,394,02/02/2001,Goat Bank,"0102 IN12
+$1400.00
+Paid by NSW",P-139/00-01/VJPIN,,,,,,,1,01/08/2001,,21/08/2003
+272,15,1839,02/02/2001,Self Help - Grocery Shop,"0102 IN13
+$750.00
+Paid by Vic",P-142/00-01/CLCA,,,,,,,1,01/05/2001,,26/06/2003
+273,15,814,02/02/2001,Attire Ornamentation Centre,"0102 IN14
+$1650.00
+$1500.00 Paid by NSW",P-144/00-01/CHN,,,,,,,1,01/05/2001,,21/08/2003
+274,15,1633,02/02/2001,Supplying of Milch Cow,"0102 IN15
+$1650.00
+Paid by WA",P-149/00-01/TVM,,,,,,,1,01/05/2001,,04/04/2002
+275,15,1730,08/02/2001,Ozanam Industrial Training,"Not Lodged as a Formal Project
+$2000.00
+Paid by QLD",P-279/98-99,,,,,,,1,01/02/2001,,01/04/2005
+276,15,2570,09/04/2001,Mobile Beautician,"0904 IN20
+$1090.00
+Paid by NSW",P-171/00-01/CLCA,,,,,,,1,01/08/2001,,26/06/2003
+277,15,401,09/04/2001,Tailoring Machine Distribution,"0904 IN21
+$2000.00
+Paid by NSW",p-175/00-01/VJPM,,,,,,,1,01/08/2001,,21/08/2003
+278,15,2660,09/04/2001,Distribution of Milking Cows,"0904 IN19
+$2020.00
+$1850.00 Paid by NSW",P-156/00-01/MNDY,,,,,,,1,01/08/2001,,14/05/2003
+279,23,1598,09/05/2001,Rice Bank,"0501 TH01
+$1430.00
+$1450.00 Paid by SA",05/2000,,,,,,,1,01/08/2001,,11/02/2004
+280,23,1588,09/05/2001,Tomato Growing,"0501 TH02
+$1320.00
+Paid by SA",06/2000,,,,,,,1,01/08/2001,,11/02/2004
+281,23,589,09/05/2001,Cucumber Growing,"0501 TH03
+$1310.00
+Paid by SA",07/2000,,,,,,,1,01/08/2001,,11/02/2004
+282,23,2646,09/05/2001,Duck Raising,"0501 TH04
+$525.00
+Paid by NSW",11/2000,,,,,,,1,01/08/2001,,11/02/2004
+283,23,851,09/05/2001,Fish Farming in Rice Field,"0501 TH05
+$525.00
+Paid by NSW",13/2000,,,,,,,1,01/08/2001,,11/02/2004
+284,16,1342,16/05/2001,Chillies Farm,"0501 IA01
+$950.00
+Paid by NSW",,,,,,,,1,01/08/2001,,14/04/2004
+285,16,705,16/05/2001,Goat Farm,"0501 IA02
+$1185.00
+Paid by NSW",,,,,,,,1,01/08/2001,,14/04/2004
+286,16,1103,16/05/2001,Pig Farm,"0501 IA03
+$850.00
+Paid by NSW",,,,,,,,1,01/08/2001,,14/04/2004
+287,16,,16/05/2001,Pig Farm,"0501 IA04
+Untwinned
+$875.00
+Paid by SA
+
+No Completion Report listed as received",,,,,,,,1,01/11/2001,,
+288,15,238,04/07/2001,Readymade Dress Manufacturing,"0407 IN23
+$1680.00
+$1686.00 Paid by QLD",P-179/00-01/7CR,,,,,,,1,01/08/2002,,14/02/2006
+289,15,146,04/07/2001,Self Help,"0407 IN24
+$2100.00
+Paid by QLD",P-73/00-01/NYA,,,,,,,1,01/02/2002,,20/02/2003
+290,15,630,04/07/2001,Distribution of Sewing Machines,"0407 IN25
+$1470.00
+Paid by SA
+
+No Completion Report listed as received",P-181/00-01/KPLY,,,,,,,1,01/08/2001,,
+291,15,388,04/07/2001,Educational Project,"0407 IN26
+$1000.00
+Paid by Vic
+
+No Completion Report listed as received",P-185/00-01/GOA,,,,,,,1,01/11/2001,,
+292,15,1217,04/07/2001,Self Help,"0407 IN27
+$2100.00
+Paid by Vic",P-74/00-01/NYD,,,,,,,1,01/11/2001,,21/08/2003
+293,15,1022,04/07/2001,Cattle Rearing,"No Australian Project ID listed
+$1680.00
+Paid by Vic
+
+No Completion Report listed as received",P-149/00-01/CHRY,,,,,,,1,01/02/2002,,
+294,15,2606,09/07/2001,Vegetable Vending,"0407 IN28
+$1665.00
+ Paid by QLD 
+
+No completion report listed as received",P-62/00-01/ELR,,,,,,,1,01/02/2002,,
+295,15,1612,23/07/2001,Goat Bank,"0407 IN30
+$1545.00
+ Paid by WA",P-8/01-02/TVM,,,,,,,1,01/11/2001,,14/07/2004
+296,15,1787,23/07/2001,Distribution of Sewing Machines,"0407 IN31
+$1715.00
+$1500.00 Paid by NSW
+
+No completion report listed as received",P-14/01-02/VJDA,,,,,,,1,01/11/2001,,
+297,15,331,23/07/2001,Drinking Water & Sanitation,"0407 IN32
+$1715.00
+Paid by WA",P-9/01-02/TVM,,,,,,,1,01/11/2001,,29/07/2003
+298,15,763,23/07/2001,Fresh Water Supply,"0407 IN33
+$1715.00
+ Paid by NSW",P-12/01-02/TSY,,,,,,,1,01/02/2002,,14/05/2003
+299,15,2501,09/08/2001,Cow Distribution,"0407 IN34
+$1670.00
+$1470.00 paid by SA",P-48/01-02/TCR,,,,,,,1,01/11/2001,,03/01/2003
+300,15,1629,09/08/2001,Cow Bank,"0407 IN35
+$1670.00
+Paid by WA",P042/01-02/TVM,,,,,,,1,01/11/2001,,14/07/2004
+301,15,340,09/08/2001,Goat Bank,"0407 IN36
+$1045.00
+Paid by WA",P-43/01-02/TVM,,,,,,,1,01/11/2001,,20/02/2003
+302,15,2500,09/08/2001,Cow Bank,"0407 IN37
+$1670.00
+Paid by Vic
+
+No completion report listed as received",P-49/01-02/TCR,,,,,,,1,01/11/2001,,
+303,15,534,09/08/2001,Electricity for 15 Houses,"0407 IN38
+$1775.00
+Paid by Vic",P-53/01-02/EKM,,,,,,,1,01/02/2002,,01/06/2004
+304,15,1841,09/08/2001,Self Help - Repair Shop,"0407 IN39
+$210.00
+Paid by Vic",P-36/01-02/CLCA,,,,,,,1,01/11/2001,,26/06/2003
+305,15,,09/08/2001,Ration Shop,"0407 IN40
+$335.00
+$355.00 Paid by Vic",P-37/01-02/CLCA,,,,,,,1,01/11/2001,,26/06/2003
+306,15,758,09/08/2001,Self Help - Revolving,"0407 IN41
+$1670.00
+Paid by NSW",P-129/00-01/TKLY,,,,,,,1,01/02/2002,,15/01/2003
+307,15,2434,09/08/2001,Sewing Machine Distribution,"0407 IN42
+$1630.00
+Paid by NSW",P-45/01-02/CHN,,,,,,,1,01/02/2002,,21/08/2003
+308,15,892,09/08/2001,Roof Maintenance,"0407 IN43
+$2085.00
+$1000.00 paid by NSW",P-35/01-02/KTM,,,,,,,1,01/11/2001,,21/08/2003
+309,15,136,09/08/2001,Self Employment,"0407 IN44
+$1660.00
+$1668.00 Paid by QLD
+
+No completion report listed as received",P-40/01-02/NYA,,,,,,,1,01/05/2003,,
+310,15,5759,09/08/2001,Self Employment for 10 Women,"0407 IN45
+$1775.00
+Paid by QLD",P-52/01-02/KPRM,,,,,,,1,01/11/2001,,21/08/2003
+311,15,683,09/08/2001,Educational Aid to Poor Families,"0407 IN46
+$1880.00
+Paid by  QLD",P-33/01-02/VPLY,,,,,,,1,01/11/2001,,21/08/2003
+312,15,42,09/08/2001,Cow Bank,"0407 IN47
+$2210.00
+Paid by QLD
+
+No completion report listed as received",P-50/01-02/MORI,,,,,,,1,01/02/2002,,
+313,23,2646,19/08/2001,Weed Pesticide for Agriculture,"0901 TH06
+$2095.00
+$2000.00 paid for NSW",07/2001,,,,,,,1,01/02/2002,,11/02/2004
+314,23,2117,19/08/2001,Utility Communal Pavilion,"001 TH07
+$1730.00
+Paid by QLD",05/2001,,,,,,,1,01/11/2001,,11/02/2004
+315,23,6310,19/08/2001,Water Resource (Village Pond),"0901 TH08
+$1750.00
+Paid by SA",06/2001,,,,,,,1,01/11/2001,,11/02/2004
+316,15,2703,09/09/2001,Sewing & Embroidery Machines,"0904 IN22
+$1800.00
+Paid by NSW
+
+No completion report listed as received",P-160/00-01/VJDA,,,,,,,1,01/02/2003,,
+317,15,1911,24/09/2001,Goat Distribution,"0901 IN48
+$1885.00 Q102 & $826 Q302
+Paid by Vic",P-64/01-02/PTA,,,,,,,1,01/02/2002,,26/06/2003
+318,15,1007,24/09/2001,Revolving Self Help,"0901 IN49
+$2010.00
+$2000.00 paid by NSW",P-29/01-02/TKLY,,,,,,,1,01/02/2002,,15/01/2003
+319,15,722,24/09/2001,Cow Bank - Revolving,"0901 IN50
+$1745.00
+$1500.00 paid by NSW",P-31/01-02/TKLY,,,,,,,1,01/11/2001,,15/01/2003
+320,15,1006,24/09/2001,Self Help - Revolving,"0901 IN51
+$1745.00 paid by NSW",P-32/01-02/TKLY,,,,,,,1,01/02/2002,,15/01/2003
+321,15,485,24/09/2001,Self Help - Revolving,"0901 IN52
+$1745.00
+Paid by NSW",P-28/01-02/TKLY,,,,,,,1,01/05/2002,,23/04/2003
+322,15,918,24/09/2001,Self Help,"0901 IN53
+$1790.00
+Paid by NSW",P-67/01-02/KTR,,,,,,,1,01/02/2002,,23/04/2003
+323,15,2630,24/09/2001,Distribution of Sewing Machines,"0901 IN54
+$1790.00
+$1715 paid by NSW",P-60/01-02/TCR,,,,,,,1,01/02/2002,,03/01/2003
+324,15,713,24/09/2001,Goat Rearing,"0901 IN55
+$1835 paid by NSW",P-71/01-02/VJPM,,,,,,,1,01/02/2002,,17/02/2004
+325,15,2480,24/09/2001,Goat Bank,"0901 IN56
+$2415.00
+$2000.00 paid by NSW",P-72/01-02/VJPM,,,,,,,1,01/02/2002,,21/08/2003
+326,15,901,24/09/2001,Commercial Institute Typewriting,"0901 IN57
+$1340.00
+$1300.00 paid by NSW",P-76/01-02/KTM,,,,,,,1,01/02/2002,,21/08/2003
+327,15,484,24/09/2001,Cow Rearing,"0901 IN58
+$1745.00 paid by NSW",P-30/01-02/TKLY,,,,,,,1,01/05/2002,,15/01/2003
+328,15,2583,08/11/2001,Milking Cows to 5 Poor Families,"0901 IN59
+$1670.00
+$1800.00 paid by NSW",P-93/01-02/KTM,,,,,,,1,01/02/2002,,21/08/2003
+329,15,1792,08/11/2001,Paddy Cultivation,"0901 IN60
+$1880.00 paid by VIC",P-94/01-02/ALPY,,,,,,,1,01/08/2002,,12/08/2003
+330,15,1275,08/11/2001,Low Cost Latrine,"0901 IN61
+$1460.00
+$1400.00 paid by SA",P-96/01-02/KPLY,,,,,,,1,01/02/2002,,17/02/2004
+331,15,638,08/11/2001,Low Cost Latrine,"0901 IN62
+$1460.00
+$1880.00 paid by SA",P-100/01-02/KPLY,,,,,,,1,01/02/2002,,21/08/2003
+332,15,716,08/11/2001,Toilets,"0901 IN63
+$1985.00
+Paid by NSW",P-73/01-02/VJPM,,,,,,,1,01/02/2002,,21/08/2003
+333,15,1711,08/11/2001,Cow Bank,"0901 IN64
+$1670.00
+Paid by QLD",P-101/01-02/IKDA,,,,,,,1,01/08/2002,,21/08/2003
+334,15,876,08/11/2001,Distribution of Sewing Machines,"0901 IN65
+$1690.00
+$1650.00 paid by NSW",P-85/01-02/CHN,,,,,,,1,01/02/2002,,21/08/2003
+335,15,2633,08/11/2001,Distribution of Sewing Machines,"0901 IN66
+$1670.00
+Paid by NSW",P-89/01-02/TCR,,,,,,,1,01/02/2002,,03/01/2003
+336,15,153,08/11/2001,Cow Bank,"0901 IN67
+$1670.00 paid by QLD",P-102/01-02/IKDA,,,,,,,1,01/02/2002,,17/02/2004
+337,15,1614,22/11/2001,Cow Bank,"1101 IN68
+$1465.00 paid by WA",P-10/01-02/TVM,,,,,,,1,01/08/2002,,15/07/2004
+338,16,1357,22/11/2001,Cow Farm,"2211 IA04
+$1100.00
+Paid by NSW",,,,,,,,1,01/02/2002,,14/04/2004
+339,16,2638,22/11/2001,Cow Farm,"2211 IA05
+$1285.00
+Paid by NSW",,,,,,,,1,01/02/2002,,14/04/2004
+340,16,1320,22/11/2001,Pig Farm,"2211 IA06
+$1375.00 paid by NSW
+No record of completion report listed as received",,,,,,,,1,01/05/2002,,
+341,16,1355,22/11/2001,Pig Farm,"2211 IA07
+$1285.00
+Paid by NSW",,,,,,,,1,01/02/2002,,14/04/2004
+342,16,1084,22/11/2001,Duck Farm,"2211 IA08
+$1285.00 paid by NSW",,,,,,,,1,01/02/2002,,14/04/2004
+343,15,1978,09/01/2002,Cow Bank,"0102 IN01
+$1420.00 paid by NSW
+No completion report listed as received",P-163/01-02/MNDY,,,,,,,1,01/02/2002,,
+344,15,190,09/01/2002,Pledged Palm Trees,"0102 IN02
+$1220.00 paid by QLD",P-109/01-02/NYA,,,,,,,1,01/08/2002,,21/08/2003
+345,15,109,09/01/2002,Cow Bank,"0102 IN03
+$1420.00
+paid by QLD",P-126/01-02/TCR,,,,,,,1,01/08/2002,,14/01/2004
+346,15,83,09/01/2002,Sewing Machine Distribution,"0102 IN04
+$1420.00
+Paid by QLD",P-122/01-02/TCR,,,,,,,1,01/08/2002,,14/01/2004
+347,15,2373,09/01/2002,Distribution of Milking Cows,"0102 IN05
+$1420.00
+Paid by NSW",P-119/01-02/TLCY,,,,,,,1,01/02/2002,,03/01/2003
+348,15,345,13/02/2002,Goat Bank,"0202 IN01
+$1470.00 paid by WA",P-130/01-02/TVM,,,,,,,1,01/05/2002,,29/07/2003
+349,15,1803,13/02/2002,Livelihood Assurance through Micro Credit,"0202 IN02
+$1470.00 paid by Vic
+No completion report listed as received",P-158/01-02/BMPR,,,,,,,1,01/05/2002,,
+350,15,5981,13/02/2002,Grameen Bank,"0202 IN03
+$1470.00
+paid by Vic",P-183/01-02/TNJR,,,,,,,1,01/05/2002,,15/01/2003
+351,15,2381,13/02/2002,Interest free loan for petty business,"0202 IN04
+$1470.00 paid by Vic",P-187/01-02/NYA,,,,,,,1,01/05/2002,,20/02/2003
+352,15,5902,13/02/2002,Grameen Bank,"0202 IN05
+$1470.00 paid by Vic
+No completion report listed as received",P-180/01-02/TNJR,,,,,,,1,01/05/2002,,
+353,15,2503,13/02/2002,Piggery ,"0202 IN06
+$1470.00 paid by Vic",p-190/01-02/BMPR,,,,,,,1,01/05/2002,,01/04/2005
+354,15,1548,13/02/2002,Cattle Rearing,"0202 IN07
+$1470.00 paid by NSW
+No completion report listed as received",P-132/01-02/CHRY,,,,,,,1,01/11/2002,,
+355,15,1535,13/02/2002,Ozanam Study Centre,"0202 IN08 
+$1470 paid by NSW",P-135/01-02/KTM,,,,,,,1,01/05/2002,,21/08/2003
+356,15,1876,13/02/2002,Mobile fruit and veg vending on wheels,"0202 IN09
+$1470.00 PAID BY nsw",P-150/01-02/ELR,,,,,,,1,01/05/2002,,
+357,15,781,12/02/2002,DIST OF HOUSE COWS,"0202 IN10
+$1470.00 PAID BY NSW",P-182/01-02/CHRY,,,,,,,1,01/05/2002,,14/07/2004
+358,15,1956,26/02/2002,SELF EMPLOYMENT,"0203 IN02
+$1190.00 PAID BY VIC",P-212/01-02/NYA,,,,,,,1,01/08/2002,,29/07/2003
+359,15,2379,26/02/2002,GRAMEEN BANK,"0203 IN03
+$1072 PAID BY NSW",P-206/01-02/CRN,,,,,,,1,01/05/2008,,20/02/2003
+360,15,5808,26/02/2002,GRAMEEN BANK,"0203 IN04
+$1072.00 PAID BY TAS",P-210/01-02/TCRN,,,,,,,1,01/05/2002,,23/04/2003
+361,15,2383,26/02/2002,GOAT BANK,"0203 IN05
+$1340 PAID BY SA",P-215/01-02/TVM (M),,,,,,,1,01/05/2002,,20/02/2003
+362,19,,26/10/2008,School of Midwifery,"This is an ongoing project paid for by Victoria from donations they receive and funding that they raise. Started in Victoria, payments were going direct but that was rectified in 2012 KW Payments to the Columban Brothers:
+
+1/5/2009 = $83,900.00
+
+22/3/2010 = $92,000.00
+
+10/5/2011 = $92,000.00
+
+I cannot find anything for 2008, this was before I started, but we normally try to raise $92,000.00.
+
+$40,000 for the School of Midwifery
+$40,000.00 for Centre of Academic Excellence
+$12,000.00 for the Youth Development Centre
+",,AUD,40000,1,40000,191900,-151900,,,,
+363,19,,26/10/2008,Centre of Academic Excellence,"This is an ongoing project paid for by Victoria from donations they receive and funding that they raise. $40,000.00 for Centre of Academic Excellence. Started in Victoria, payments were going direct but that was rectified in 2012 KW",,AUD,40000,1,40000,203625,-163625,,,,
+364,19,,26/10/2008,Catholic Youth Development,This is an ongoing project paid funded by Gippsland. ,,PKR,608625,50.7199,11999.72792,27456,-15456.27208,,,,
+365,15,1027,26/02/2002,CONSTRUCTION OF 10 TOILETS,"0203 IN06
+$1340 PAID BY NSW",P-223/01-02/CHRY,,,,,,,1,01/05/2002,,
+366,15,277,13/02/2002,DISTRIBUTION OF 20 COTS,"0202 IN11
+$1260 PAID BY QLD",P-185/01-02/KLM,,,,,,,1,01/02/2002,,17/02/2004
+367,15,5764,13/02/2002,INTEREST FREE LOAN FOR JOBS-SELF HELP,"0202 IN12
+$1470 PAID BY QLD",P-186/01-02/NYA,,,,,,,1,01/05/2003,,14/07/2004
+368,15,2187,21/02/2002,GRAMEEN BANK,"0202 IN13
+$1115 PAID BY VIC",P-181/01-02/TCRN,,,,,,,1,01/08/2002,,23/04/2003
+369,15,658,26/02/2002,GOAT PROJECT,"0203 IN01
+$1340 PAID BY VIC",P-173/01-02/TNJR,,,,,,,1,01/05/2002,,15/08/2003
+370,15,2210,26/02/2002,GOAT BANK,"0203 IN07
+$1340 PAID BY WA",P-217/01-02/TVM (M),,,,,,,1,01/08/2002,,14/07/2004
+371,16,1165,23/05/2002,PIG FARM,"0502 IA01
+$1500 PAID BY NSW",XXII/2002,,,,,,,1,01/08/2002,,14/04/2004
+372,16,1365,23/05/2002,COW FARM,"0502 IA02
+$1500 PAID BY NSW",XXIII/2002,,,,,,,1,01/02/2003,,
+373,15,1584,12/06/2002,LOW COST LATRINE,"0602 IN01
+$1295 PAID BY SA",P-14/02-03KPLY,,,,,,,1,01/08/2002,,21/08/2003
+374,15,5773,12/06/2002,REVOLVING SELF HELP,"0602 IN02
+$1110 PAID BY NSW",P-17/02-03/TKLY,,,,,,,1,01/11/2002,,15/08/2003
+375,15,779,12/06/2002,REVOLVING SELF HELP,"0602 IN03
+$1110 PAID BY NSW",P-18/02-03/TKLY,,,,,,,1,01/11/2002,,15/08/2003
+376,15,5769,12/06/2002,REVOLVING SELF HELP,"0602 IN04
+$1110 
+$1000 PAID BY NSW",P-20/02-03/TKLY,,,,,,,1,01/11/2002,,15/08/2003
+377,15,112,31/07/2002,COW BANK,"0702 IN05
+$1370 PAID BY QLD",P-36/02-03/PGT,,,,,,,1,01/05/2003,,
+378,15,1541,31/07/2002,COW BANK,"0702 IN06
+$1370
+$1350 PAID BY NSW",P-35/02-03/KTM,,,,,,,1,01/11/2002,,
+379,15,908,31/07/2002,COW BANK,"0702 IN07
+$1370 PAID BY NSW",P-34/02-03/KTM,,,,,,,1,01/11/2002,,
+380,15,1775,31/07/2002,SHEEP REARING,"0702 IN08
+$1370 PAID BY SA",P-28/02-03/TVM (M),,,,,,,1,01/08/2002,,17/04/2007
+381,15,2158,31/07/2002,OZANAM STUDY CENTRE,"0702 IN09
+$1370
+$1500 PAID BY VIC",P-241/01-02/TRCY,,,,,,,1,01/11/2002,,
+382,15,1014,31/07/2002,SELF EMPLOYMENT PROJECT,"0702 IN10
+$1370 PAID BY NSW (UNTWINNED)",P-30/02-03/TLCY,,,,,,,1,01/11/2002,,14/01/2004
+383,15,332,20/09/2002,GOAT PROJECT,"0902 IN01
+$1360 PAID BY WA",P-54/02-03/TVM (M),,,,,,,1,01/05/2003,,01/04/2005
+384,15,1960,20/09/2002,SELF HELP PROJECT,"0902 IN02
+$1360 PAID BY VIC",P-50/02-03/TVM,,,,,,,1,01/02/2003,,17/05/2006
+385,15,6199,20/09/2002,CHARITABLE HOMEOPATHIC CLINIC,"0902 IN03
+$1550
+$1500 PAID BY NSW",P-46/02-03/CLCA,,,,,,,1,01/02/2003,,
+386,15,141,20/09/2002,SELF HELP PROJECT,"0902 IN04
+$1360 paid by qld",P-52/02-03/TVM,,,,,,,1,01/05/2003,,
+387,15,2362,20/09/2002,SELF HELP PROJECT,"0902 IN05
+$1360 PAID BY NSW",P-42/02-03/TVM,,,,,,,1,01/02/2003,,14/10/2004
+388,15,5973,20/09/2002,COW BANK,"0902 IN06
+$1360
+$1300 PAID BY NSW",P-43/02-03/KTM,,,,,,,1,01/11/2002,,
+389,23,,18/10/2002,AGRICULTURE PROJECT,"0902 TH01
+$1650 PAID BY SA",04/2002,,,,,,,1,01/02/2003,,11/02/2004
+390,15,5790,08/11/2002,COCONUT LEAF KNITTING,"1102 IN01
+$1315 PAID BY NSW",P-72/02-03KTR,,,,,,,1,01/02/2003,,30/04/2004
+391,15,5793,08/11/2002,"PETTY SHOP, VEG. VENDING, MAT MAKING","1102 IN02
+$1315 PAID BY NSW",P-73/02-03KTR,,,,,,,1,01/02/2003,,30/04/2004
+392,15,2565,08/11/2002,GOAT REARING,"1102 IN03
+$1315 PAID BY NSW",P-76/02-03/PLR,,,,,,,1,01/05/2003,,20/12/2004
+393,15,80,08/11/2002,GOAT DISTRIBUTION,"1102 IN04
+$1315
+$1300 PAID BY NSW",P-47/02-03/MNDY,,,,,,,1,01/02/2003,,20/07/2004
+394,15,2473,08/11/2002,AGRICULTURAL SELF HELP,"1102 IN05
+$940 PAID BY QLD",P-91/02-03/TSY,,,,,,,1,01/05/2003,,20/07/2004
+395,15,1850,13/11/2002,AWARENESS PROGRAM FOR YOUNGSTERS,"1102 IN06
+$1335 PAID BY WA",P-93/02-03KPLY,,,,,,,1,01/02/2003,,17/02/2004
+396,15,2185,13/11/2002,SELF HELP,"1102 IN07
+$1130 PAID BY VIC",P-70/02-03/TCRN,,,,,,,1,01/02/2003,,
+397,15,2713,13/11/2002,SEWING MACHINES,"1102 IN08
+$1335 PAID BY NSW",P-89/02-03/VJPM,,,,,,,1,01/02/2003,,17/02/2004
+398,15,2511,13/11/2002,COW BANK,"1102 IN09
+$1335
+$1365 PAID BY NSW",P-63/02-03/MNDY,,,,,,,1,01/02/2003,,20/07/2004
+399,15,5752,13/11/2002,COW BANK,"1102 IN10
+$1335 PAID BY NSW",P-68/02-03/CHRY,,,,,,,1,01/02/2003,,
+400,23,1133,14/11/2002,FISHING GEAR,"1102 TH01
+$1000 PAID BY NSW",10/2002 2,,,,,,,1,01/02/2003,,11/02/2004
+401,15,1615,24/12/2002,VARIOUS SELF HELP,"1202 IN01
+$1335 PAID BY WA",P-112/02-03/MRDM,,,,,,,1,01/05/2003,,30/04/2004
+402,15,2356,24/12/2002,SEWING MACHINES,"1202 IN02
+$835 PAID BY QLD
+$500 PAID BY QLD",P-97/02-03/TCR,,,,,,,1,01/05/2003,,08/09/2005
+403,15,1731,24/12/2002,SUPPLY OF FEMALE GOATS,"1202 IN03
+$1335 PAID BY QLD",P-96/02-03/TCR,,,,,,,1,01/05/2003,,
+404,15,5998,24/12/2002,SEWING MACHINES,"1202 IN04
+$1335 PAID BY QLD",P-95/02-03/TCR,,,,,,,1,01/05/2003,,08/09/2005
+405,15,1870,24/12/2002,COW BANK,"1202 IN05
+$1335 PAID BY VIC",P-120/02-03/MNDY,,,,,,,1,01/02/2003,,14/01/2004
+406,15,1932,24/12/2002,DIGGING OF A WELL,"1202 IN06
+$1530 PAID BY VIC",P-107/02-03/RNHI,,,,,,,1,01/02/2003,,
+407,15,1794,24/12/2002,FABRIC SHOP,"1202 IN07
+$1335 PAID BY VIC",P-116/02-03/CLCA,,,,,,,1,01/02/2003,,
+408,15,5955,24/12/2002,SELF HELP,"1202 IN08
+$1335 PAID BY NSW",P-114/02-03/MRDM,,,,,,,1,01/02/2003,,18/12/2003
+409,15,6113,24/12/2002,GOAT PROJECT,"1202 IN09
+$1335 PAID BY NSW",P-101/02-03/MRDM,,,,,,,1,01/02/2003,,
+410,15,6130,24/12/2002,SELF HELP,"1202 IN10
+$1335 PAID BY NSW",P-113/02-03MRDM,,,,,,,1,01/02/2003,,18/12/2003
+411,15,2662,24/12/2002,GOAT BANK,"1202 IN11
+$1335
+$1200 PID BY NSW",P-121/02-03MNDY,,,,,,,1,01/02/2003,,14/01/2004
+412,15,188,07/01/2003,FISH VENDING,"0103 IN01
+$1305 PAID BY QLD",P-142/02-03/TVM,,,,,,,1,01/05/2003,,10/10/2004
+413,15,189,07/01/2003,SELF HELP,"0103 IN02
+$1305 paid by QLD",P-130/02-03/NYA,,,,,,,1,01/05/2003,,14/10/2004
+414,15,2491,07/01/2003,DISTRIBUTION OF GOATS,"0103 IN03
+$1305 PAID BY VIC",P-136/02-03/MNDY,,,,,,,1,01/02/2003,,14/01/2004
+415,15,2308,07/01/2003,SELF HELP,"0103 IN04
+$1175 PAID BY VIC",P-154/02-03/TCRN,,,,,,,1,01/02/2003,,
+416,15,2490,07/01/2003,DISTRIBUTION OF GOATS,"0103 IN05
+$1305 PAID BY VIC",P-137/02-03/MNDY,,,,,,,1,01/02/2003,,14/01/2003
+417,15,151,07/01/2003,SELF HELP,"0103 IN06
+$1305 PAID BY QLD",P-140/02-03/TVM,,,,,,,1,01/05/2003,,10/10/2004
+418,15,2311,07/01/2003,GRAMEEN BANK,"0103 IN07
+$1075 PAID BY VIC",P-156/02-03/TCRN,,,,,,,1,01/02/2003,,18/12/2003
+419,,,07/01/2003,GRAMEEN BANK,"0103 IN08
+$1060 PAID BY VIC",P-157/02-03/TCRN,,,,,,,1,01/02/2003,,18/12/2003
+420,15,419,07/01/2003,FISH VENDING,"0103 IN09
+$1305 
+$1300 PAID BY NSW",P-141/02-03/TVM,,,,,,,1,01/02/2003,,15/10/2004
+421,15,2081,07/01/2003,FISH VENDING,"0103 IN10
+$1305 PAID BY NSW",P-144/02-03/TVM,,,,,,,1,01/02/2003,,14/10/2004
+422,15,1214,07/01/2003,CONSTRUCTION OF CLOSETS,"0103 IN11
+$1265 PAID BY NSW",P-125/02-03/MNDY,,,,,,,1,01/02/2003,,20/07/2004
+423,15,1038,28/01/2003,SEWING MACHINE,"0103 IN12
+$1285 PAID BY NSW",P-183/02-03/TKLY,,,,,,,1,01/02/2003,,18/12/2003
+424,15,5771,28/01/2003,SELF HELP - REVOLVING,"0103 IN13
+$1135 PAID BY NSW",P-185/02-03/TKLY,,,,,,,1,01/08/2003,,02/08/2005
+425,15,5772,28/01/2003,SELF HELP - REVOLVING,"0103 IN14
+$1100 PAID BY NSW",P-186/02-03/TKLY,,,,,,,1,01/05/2003,,30/04/2004
+426,15,789,28/01/2003,COW REARING & WEAVING,"0103 IN15
+$1285 PAID BY NSW",P-160/02-03/TKLY,,,,,,,1,01/05/2003,,18/12/2003
+428,15,2594,28/01/2003,INTEREST FREE LOAN FOR PETTY ,"0103 IN16
+$1285 
+$1335 PAID BY NSW",P-169/02-03/NYA,,,,,,,1,01/02/2003,,
+429,15,2161,28/01/2003,CATTLE DISTRIBUTION,"0103 IN17
+$1285 PAID BY NSW",P-179/02-03/TVLA,,,,,,,1,01/02/2003,,17/02/2004
+430,15,1765,28/01/2003,CATTLE DISTRIBUTION,"0103 IN18
+$1285
+$1200 PAID BY NSW",P-180/02-03/TVLA,,,,,,,1,01/02/2003,,17/02/2004
+431,15,6192,28/01/2003,SEWING MACHINE,"0103 IN19
+$1285 PAID BY SA",P-187/02-03/TKLY,,,,,,,1,01/02/2003,,30/04/2004
+432,15,680,28/01/2003,GRAMEEN BANK,"0103 IN20
+$1285 PAID BY QLD",P-177/02-03/VPLY,,,,,,,1,01/02/2003,,
+433,14,16988,17/04/2009,Annual Scholarship Project,"*This project is on hold; new donor needed as at 221009 per Br. Doug
+*This project crosses over a bit with Assist a Student
+*This is an annual scholarship program
+*Record of contributions will also be kept in the AAS database at NC",,FJD,9799.15,1.63319,6000.006123,,6000.006123,,,,
+434,15,1680,01/12/2008,"Self Help, Cattle Purchase","OL of Mt. Carmel SRN: 1680 was twinned with St Catherine, Proserpine up until 2003 when it was replaced by SRN: 6288. Please indicated whether or not St Catherine would like to support this project from their previous twin.
+
+Thank you.",P-06/08-09/MANG,INR,40000,33.3322,1200.040801,1200,0.040801387,1,01/05/2009,,15/11/2011
+435,15,6117,01/12/2008,Roofing,,P-78/08-09/NYA,INR,40000,33.3322,1200.040801,1200,0.040801387,1,01/05/2009,,15/02/2011
+436,15,5907,01/12/2008,"Self Help, Goat Distribution",,P-24/08-09/BUX,INR,50500,33.3322,1515.051512,1515,0.051511751,1,30/01/2009,,15/02/2011
+437,15,2586,01/12/2008,Loan Scheme,"St George, Chempukadavu SRN: 2586 was surrendered in April 2008, so please indicate whether or not St Michael & St John would like to support this project.
+
+Thank you.",P-83/08-09/TMY,INR,40000,33.3322,1200.040801,1200,0.040801387,1,15/03/2009,,
+438,15,2507,01/12/2008,Sewing Machine Distribution,,P-81/08-09/TCR,INR,44000,33.3322,1320.044882,1320,0.044881526,1,30/01/2009,,
+439,15,2447,01/12/2008,Agriculture Units,"St Mary, Kakkadampoil SRN: 2447 was twinned with Semaphore Conference up until 2005 when it was replaced by SRN: 6512. Please indicated whether or not Semaphore would like to support this project from their previous twin.
+
+Thank you.",P-85/08-09/TMY,INR,40000,33.3322,1200.040801,1200,0.040801387,1,30/01/2009,,15/02/2011
+440,15,6193,12/02/2003,SELF HELP REVOLVING,"0203 IN01
+$1835 PAID BY SA",P-184/02-03/TKLY,,,,,,,1,01/05/2003,,30/04/2004
+441,15,1523,19/02/2003,PURCHASE AND DISTRIBUTION OF GOATS,"
+0203 IN02
+$1285 PAID BY NSW",P-188/02-03/TLCY,,,,,,,1,01/05/2003,,20/07/2004
+442,15,692,19/02/2003,COW BANK,"0203 IN03
+$1285
+$1200 PAID BY NSW",P-195/02-03/PLI,,,,,,,1,01/05/2003,,01/04/2005
+443,15,520,19/02/2003,COW BANK,"0203 IN04
+$1285 PAID BY NSW",P-194/02-03/VJPM,,,,,,,1,01/05/2003,,02/09/2005
+444,15,1855,19/02/2003,TAILORING INSTITUTE,"0203 IN05
+$1285 PAID BY VIC",P-193/02-03/TNJR,,,,,,,1,01/05/2003,,
+445,15,537,27/02/2003,LATRINE,"0203 IN06
+$1255 PAID BY VIC",P-205/02-03/EKM,,,,,,,1,01/05/2003,,02/09/2005
+446,15,861,27/02/2003,HOUSE WIRING,"0203 IN07
+$1255 PAID BY NSW",P-203/02-03/EKM,,,,,,,1,01/05/2003,,08/09/2005
+447,15,1245,27/02/2003,SEWING MACHINE,"0203 IN08
+$1255
+$1245 PAID BY NSW",P-201/02-03/TCR,,,,,,,1,01/05/2003,,08/09/2005
+448,15,2352,27/02/2003,VEGETABLE VENDING,"0203 IN09
+$1255 PAID BY NSW",P-210/02-03/ELR,,,,,,,1,01/05/2003,,
+449,15,1874,27/02/2003,BUFFALOES,"0203 IN10
+$1255
+$1200 PAID BY NSW",P-214/02-03/ELR,,,,,,,1,01/05/2003,,
+450,15,2167,11/03/2003,CATTLE DISTRIBUTION,"0203 IN11
+$1235
+$1200 PAID BY nsw",P-235/02-03/TVLA,,,,,,,1,01/05/2003,,01/06/2004
+451,15,1061,19/06/2003,TENT HOUSE PROJECT,"0603 IN01
+$1800 PAID BY NSW",P-11/03-04/HYD,,,,,,,1,01/11/2003,,
+452,15,529,29/07/2003,SANITARY LATRINES FOR 8 FAMILIES,"0703 IN01
+$1175 PAID BY VIC",P-5/03-04/EKM,,,,,,,1,01/11/2003,,02/09/2005
+453,15,2361,29/07/2003,GOAT BANK,"0703 IN02
+$840 PAID BY QLD",P-7/PAL/03-04,,,,,,,1,01/11/2003,,14/02/2006
+454,15,16,29/07/2003,SUPPLIES FOR MEDICAL CLINIC,"0703 IN03
+$2350
+$1000 PAID BY TAS 01/08/03
+$1350 PAID BY TAS 01/11/03",P-1/03-04/MDRS,,,,,,,1,01/08/2003,,
+455,15,813,29/07/2003,HAWKING - SELF EMPLOYMENT,"0703 IN04
+$1610
+$1600 PAID BY NSW",P-6/CHN/03-04,,,,,,,1,01/11/2003,,04/05/2005
+456,15,583,29/07/2003,DRINKING WATER STORAGE TANK,"0703 IN05
+$2012 PAID BY SA",P-8/KRY/03-04,,,,,,,1,01/08/2003,,14/10/2004
+457,15,583,15/08/2003,MILCH BUFFALO,"0803 IN01
+$1715
+$1750 PAID BY NSW",P-29/03-04/NLR,,,,,,,1,01/11/2003,,25/08/2005
+458,15,1231,15/08/2003,SELF HELP REVOLVING,"0803 IN02
+$1200 PAID BY VIC",P-26/03-04/KTR,,,,,,,1,01/11/2003,,25/08/2005
+459,15,1926,15/08/2003,OZANAM DRIVING TRAINING INSTITUTE,"0803 IN03
+$2745 PAID BY VIC",P-25/03-04/PBI,,,,,,,1,01/11/2003,,22/04/2005
+460,15,1607,27/08/2003,LOW COST LATRINE,"0803 IN04
+$1410 PAID BY SA",P-15/03-04/KRY,,,,,,,1,01/11/2003,,08/09/2005
+461,15,2364,27/08/2003,FISH VENDING,"0803 IN05
+$1410 PAID BY NSW",P-17/03-04/TVR,,,,,,,1,01/11/2003,,08/09/2003
+462,15,816,27/08/2003,LATRINES,"0803 IN06
+$1400 PAID BY NSW",P-16/03-04/CHN,,,,,,,1,01/11/2003,,04/05/2004
+463,15,139,16/10/2003,FISH VENDING,"1003 IN01
+$1515 PAID BY QLD",P-21/03-04/TVR,,,,,,,1,01/11/2004,,08/09/2005
+464,15,1714,16/10/2003,PLASTERING WALLS OF 9 HOUSES,"1003 IN02
+$1316 PAID BY NSW",P-22/03-04/TRK,,,,,,,1,01/02/2004,,08/09/2005
+465,15,964,16/10/2003,HOUSING - SUPPORTING 4 FAMILIES,"1003 IN03
+$3290 PAID BY NSW",P-23/03-04/PLR,,,,,,,1,01/02/2004,,12/07/2006
+466,15,2667,15/12/2008,Housing,,P-84/08-09/TMY,INR,40000,32.8163,1218.906458,1219,-0.093541929,1,30/01/2009,,15/02/2011
+467,15,813,15/12/2008,Poultry,,P-80/08-09/CHN,INR,44000,32.8163,1340.797104,1341,-0.202896122,1,31/10/2009,,15/11/2011
+468,15,780,15/12/2008,Computer Unit Renovation,,P-79/08-09/CHN,INR,39000,32.8163,1188.433797,1188,0.433796619,1,30/07/2009,,15/11/2011
+469,15,1087,15/12/2008,Latrine,,P-77/08-09/PAL,INR,38000,32.8163,1157.961135,1158,-0.038864832,1,01/05/2009,,30/11/2010
+470,15,5728,15/12/2008,Goat Bank,,P-76/08-09/PAL,INR,36000,32.8163,1097.015812,1097,0.015812264,1,01/05/2009,,30/11/2010
+471,15,5933,15/12/2008,Self Help -Buffalo Distribution,,P-23/08-09/BUX,INR,50500,32.8163,1538.869403,1539,-0.130596685,1,01/05/2009,,
+472,15,1520,14/02/2006,Self Help,"0206 IN10
+$1185.00 Paid by QLD",P-128/05-06/KPM,INR,40000,33.75,1185.185185,,1185.185185,1,01/08/2006,,14/01/2009
+473,15,788,29/10/2003,Cow Rearing,"1003 IN04
+($1792) $1700 paid by NSW",NS/P/02,INR,,,,,,1,30/01/2004,,
+474,23,851,04/11/2003,Fish feeding in rice farm,"1101 TH01
+($700.00) $2000.00 paid by NSW",04/2003,,,,,,,1,30/10/2003,,14/09/2004
+475,15,1052,07/11/2003,Milking Cows,"1103 IN01
+$1292.00 paid by NSW",P-32/03-04/TEL,,,,,,,1,30/01/2004,,04/05/2005
+476,15,715,07/11/2003,Goat Bank,"1103 IN02
+$1292 paid by NSW",P-33/03-04/VJP,,,,,,,1,30/01/2004,,02/09/2005
+477,15,806,07/11/2003,Dairy Unit,"1103 IN03
+$807.00 paid by NSW",P-36/03-04/CHY,,,,,,,1,30/01/2004,,
+478,15,557,07/11/2003,Educational Help for 3 Students,"1103 IN04
+$1292 paid by NSW",P-37/03-04/CHY,,,,,,,1,30/10/2003,,
+479,15,1779,07/11/2003,Toilets,"1103 IN05
+$1130 paid by NSW",P-35/03-04/PAL,,,,,,,1,30/01/2004,,20/05/2005
+480,15,533,07/11/2003,Latrine,"1103 IN06
+$1130 paid by VIC",P-34/03-04/ERM,,,,,,,1,30/01/2004,,20/05/2005
+481,15,617,30/01/2009,Cow Bank,,P-94/08-09/KRY,INR,40000,32.3106,1237.98382,1238,-0.016180449,1,01/05/2009,,01/02/2010
+482,15,1585,30/01/2009,Sewing Machine,"This conference is currently untwinned but was previously twinned with the Para Hills conference. If Para Hills does not want to take up this project could it please be offered to a Regional Council?
+
+Thank you,
+
+Kimberly",P-95/08-09/KRY,INR,40000,32.3106,1237.98382,1238,-0.016180449,1,01/05/2009,,
+483,20,1602,14/01/2009,Feeding Program,,N/A,PHP,35500,31.6302,1122.345101,1122,0.345100568,1,01/05/2009,,
+484,15,6586,30/01/2009,Cow Bank,,P-89/08-09/TVM,INR,40000,32.3106,1237.98382,,1237.98382,,,,
+485,15,1614,30/01/2009,Goat Bank,,P-87/08-09/TVM,INR,40000,32.3106,1237.98382,1238,-0.016180449,1,01/05/2009,,
+486,15,327,30/01/2009,Cow Bank,,P-88/08-09/TVM,INR,40000,32.3106,1237.98382,1238,-0.016180449,1,01/05/2009,,
+487,15,6463,30/01/2009,Goat Project,,P-52/08-09/MAR,INR,40000,32.3106,1237.98382,1238,-0.016180449,1,01/05/2009,,15/11/2011
+488,15,886,30/01/2009,Latrine,"Please note: St Brigid, Fitzroy handed this twin back in 2002, so it is currently untwinned. Please let me know if any other Victorian conference or council might be able to take up this project. 
+
+Thank you,
+
+Kimberly",P-98/08-09/ERM,INR,40000,32.3106,1237.98382,1238,-0.016180449,1,15/03/2009,,09/04/2012
+489,15,2477,30/01/2009,Agriculture,"This Indian conference is untwinned, but was previously twinned with St. Dominic, East Camberwell. Please let us know if this project can be taken up by St Dominic or another Victorian conference.
+
+Thank you,
+
+Kimberly",P-96/08-09/TMY,INR,40000,32.3106,1237.98382,1238,-0.016180449,1,15/03/2009,,
+490,15,365,30/01/2009,Latrine,"This Indian conference is untwinned, but was previously twinned with Holy Redeemer Conference, Box Hill North. Please let us know if this project can be taken up by Holy Redeemer or another Victorian conference.
+
+Thank you,
+
+Kimberly",P-92/08-09/ERM,INR,40000,32.3106,1237.98382,1238,-0.016180449,1,15/03/2009,,
+491,15,1949,30/01/2009,Housing,,P-86/08-09/QLN,INR,40000,32.0991,1246.140858,1246,0.140857532,1,15/03/2009,,30/11/2010
+492,15,2191,30/01/2009,Gramin Bank (Revolving Project),"This Indian conference was once twinned with Sacred Heart, Kew which is now defunct according to NC records. Please indicate whether or not another Victorian conference would like to take up this project.
+
+Thank you,
+
+Kimberly Watson",P-33/08-09/TUTI,INR,31000,32.0991,965.7591646,966,-0.240835413,1,15/03/2009,,15/11/2011
+493,15,2311,30/01/2009,Computer Training Centre,"This India conference was previously twinned with St Patrick’s, Kilmore but was surrendered by India in 2001. Please indicate whether St Patrick’s or another Victorian conference would like to take up this project.
+
+Thank you,
+
+Kimberly Watson",p-32/08-09,INR,40000,32.0991,1246.140858,1246,0.140857532,1,15/03/2009,,
+494,20,2080,15/01/2009,Livelihood: Plantation,,,PHP,33500,30.8403,1086.241055,1086,0.241054724,1,01/05/2009,,
+495,20,2079,15/01/2009,Computers for Library,,,PHP,66300,30.8403,2149.784535,2150,-0.21546483,1,01/05/2009,,
+496,20,1294,15/01/2009,Livelihood: Fish Vending,,,PHP,15000,30.8403,486.3765917,486,0.376591667,1,07/07/2009,,
+497,15,6630,30/01/2009,Latrine,,P-100/08-09/ERM,INR,40000,32.0991,1246.140858,1246,0.140857532,1,01/05/2009,,09/04/2012
+498,15,2598,30/01/2009,Computer Unit,,P-99/08-09/VJP,INR,40000,32.0991,1246.140858,,1246.140858,,,,
+499,15,2148,30/01/2009,Cow Bank,,P-97/08-09/PAL,INR,40000,32.0991,1246.140858,1246,0.140857532,1,01/05/2009,,30/11/2010
+500,15,818,30/01/2009,Goat Bank,,P-93/08-09/ERM,INR,40000,32.0991,1246.140858,1246,0.140857532,1,01/05/2009,,09/04/2012
+501,15,394,30/01/2009,Rabbit Rearing,,P-91/08-09/VJP,INR,40000,32.0991,1246.140858,1246,0.140857532,1,07/07/2009,,
+502,15,2600,30/01/2009,House Repair,,P-90/08-09/VJP,INR,40000,32.0991,1246.140858,,1246.140858,,,,
+503,15,2498,30/01/2009,Sewing Machine Project,,P-133/07-08,INR,40000,32.0991,1246.140858,1246,0.140857532,1,01/05/2009,,01/12/2009
+504,15,6479,30/01/2009,Goat Rearing,,P-114/07-08,INR,40000,32.0991,1246.140858,1246,0.140857532,1,01/05/2009,,
+505,15,6659,30/01/2009,Sewing Machine Project,,P-51/08-09,INR,40000,32.0991,1246.140858,1246,0.140857532,1,01/05/2009,,
+506,15,853,30/01/2009,Self Help Projects (Various),"This Indian conference used to be twinned with St Mary Immaculate, Charlestown. Please let us know whether or not St Mary would like to take up this project or possibly another NSW conference.
+
+Thank you,
+
+Kimberly Watson",P-49/08-09,INR,40000,32.0991,1246.140858,1246,0.140857532,1,01/05/2009,,01/07/2010
+507,15,6478,30/01/2009,Cow Bank,,P-112/07-08,INR,40000,32.0991,1246.140858,1246,0.140857532,1,07/07/2009,,
+508,15,2567,30/01/2009,Dairy Project,,P-34/08-09,INR,40000,32.0991,1246.140858,1246,0.140857532,1,31/10/2009,,15/05/2010
+509,15,2572,30/01/2009,Cooking Vessels for Rent,,P-97/07-08/THR,INR,40000,32.0991,1246.140858,1246,0.140857532,1,07/07/2009,,15/11/2011
+510,20,2239,15/01/2009,Livelihood: Thrift Store,,,PHP,45000,30.8403,1459.129775,1459,0.129775002,1,01/05/2009,,
+511,20,16965,30/01/2009,Livelihood: Goat and Poultry Raising,,,PHP,40000,30.8403,1297.004244,1297,0.004244446,1,31/10/2009,,
+512,15,6570,30/01/2009,Sewing Machines Project,,P-50/08-09,INR,40000,32.0991,1246.140858,1246,0.140857532,1,07/07/2009,,
+513,15,6645,30/01/2009,Self Help,,P-146/08-09,INR,60000,32.0991,1869.211286,1869,0.211286298,1,01/05/2009,,15/05/2010
+514,15,6533,30/01/2009,Cow Bank,,P-136/07-08,INR,40000,32.0991,1246.140858,1246,0.140857532,1,01/05/2009,,15/05/2010
+515,15,2385,30/01/2009,Petty Shop,,P-95/07-08,INR,40000,32.0991,1246.140858,1246,0.140857532,1,07/07/2009,,
+516,20,5646,15/01/2009,Livelihood: Backyard Hog Raising,,,PHP,70000,30.8403,2269.757428,2270,-0.242572219,1,01/05/2009,,
+517,20,16981,15/01/2009,Livelihood: Hog Raising and Disposal,"Supposed to have been paid in Quarter 4 2009, but funds left NCA Q1 2010
+
+
+* SPECIAL PROJECT: this conference is new and is currently untwinned",,PHP,147500,30.8403,4782.703151,2000,2782.703151,1,26/03/2010,,
+518,15,1728,30/01/2009,Goat Bank,,P-82/08-09/TCR,INR,40000,32.0991,1246.140858,1275,-28.85914247,1,01/05/2009,,01/11/2012
+519,20,2248,15/01/2009,Feeding & Livelihood Projects,,,PHP,40000,30.8403,1297.004244,1310,-12.99575555,1,01/05/2009,,
+520,15,16982,02/03/2009,Dispensary Project,,P-140/08-09,INR,200000,32.91,6077.180188,6100,-22.81981161,1,15/03/2009,,
+521,15,446,01/04/2009,Educational Assistance,,P-36/08-09/GOA,INR,30000,35.29,850.0991782,850,0.099178237,1,07/07/2009,,15/11/2011
+522,20,,29/04/2009,Guinsaugon Orphans Education Project,"Dennis Lacorte
+Marychel Omela
+Charry Abejaron
+Jessa Cabanas
+Joan M. Pilo
+Anthony Esguerra
+James Esguerra
+Dysibel Cajes",Special Project,PHP,209415.12,34.195,6124.144466,6124.15,-0.005534435,1,01/05/2009,,
+523,23,6740,08/06/2009,To Help Friends and Support Friends,,,BAHT,50000,27.0257,1850.090839,1850,0.09083946,1,09/10/2009,,
+524,15,2159,15/04/2009,Goat Bank,,P-129/08-09/TVM,INR,40000,38.4967,1039.0501,1039,0.050100398,1,31/08/2009,,30/11/2010
+525,15,652,15/04/2009,Goat Bank,,P-130/08-09/KRY,INR,40000,38.4967,1039.0501,1039,0.050100398,1,31/08/2009,,30/11/2010
+526,15,651,15/04/2009,Latrine,"Please note: St Mary, Upputhara is currently untwinned but was previously twinned with All Saints, Port Augusta.",P-131/08-09/KRY,INR,40000,38.4967,1039.0501,1039,0.050100398,1,31/08/2009,,30/11/2010
+527,15,1584,15/04/2009,Goat Bank,Please note:Christ Raj is currently untwinned but was previously twinned with the Gawler Conference.,P-141/08-09/KRY,INR,38000,38.4967,987.0975954,987,0.097595378,1,31/08/2009,,30/11/2010
+528,15,384,15/04/2009,Fish Vending,,P-123/08-09/TVR,INR,40000,38.4967,1039.0501,1039,0.050100398,1,30/07/2009,,15/02/2011
+529,15,2160,15/04/2009,Latrine,,P-124/08-09/PAL,INR,35000,38.4967,909.1688378,909,0.168837848,1,30/07/2009,,15/11/2011
+530,15,6501,15/04/2009,Cow and Goat Project,,P-17/09-10/Palai,INR,35000,38.4967,909.1688378,909,0.168837848,1,30/07/2009,,30/11/2010
+531,15,6500,01/04/2009,Cow Bank,Not paid as at 24/05/2010,P-15/09-10/Palai,INR,35000,38.4967,909.1688378,,909.1688378,,,,
+532,15,2145,01/06/2009,Cow Bank,,P-14/09-10/Palai,INR,36000,38.4967,935.1450904,935,0.145090358,1,30/07/2009,,30/11/2010
+533,15,1519,15/06/2009,Computers,,P-25/09-10/TUML,INR,40000,38.4967,1039.0501,1039,0.050100398,1,31/10/2009,,15/02/2011
+534,15,102,15/05/2009,Goat Bank,,P-126/08-09/TCR,INR,40000,38.4967,1039.0501,1039,0.050100398,1,29/07/2009,,30/11/2010
+535,15,6710,15/05/2009,Latrine,,P-125/08-09/PAL,INR,35000,38.4967,909.1688378,909,0.168837848,1,29/07/2010,,
+536,15,2192,15/05/2009,Computer Project,"St James is untwinned but was previously twinned with St John the Evangelist, Heidelberg",P-31/08-09,INR,40000,38.4967,1039.0501,1039,0.050100398,1,07/07/2009,,15/11/2011
+537,15,188,15/06/2009,Fish Vending,"St Bartholomew is untwinned but was previously twinned with Holy Family, Runaway Bay",P-12/09-10/TVML,INR,40000,38.4967,1039.0501,1039,0.050100398,1,01/07/2009,,01/02/2010
+538,15,140,15/06/2009,Fish Vending,"St Catherine, Eraviputhenthura is untwinned but was previously twinned with St Catherine, Mansfield",P-22/09-10/TVML,INR,40000,38.4967,1039.0501,1039,0.050100398,1,07/07/2009,,15/02/2011
+539,15,16924,15/05/2009,Goat Project,,P-62/08-09,INR,45000,38.4967,1168.931363,1169,-0.068637052,1,31/10/2009,,01/02/2013
+540,15,16925,15/05/2009,Cow Project,,P-63/08-09,INR,45000,38.4967,1168.931363,1169,-0.068637052,1,30/07/2010,,01/02/2013
+541,15,6261,15/05/2009,Leaf Plate Machine,Please note: this project got lost in the mail in 2008 and just reached us in May 2009 after being resent by India.,P-32/07-08/BLS,INR,36000,38.4967,935.1450904,935,0.145090358,1,14/09/2009,,
+542,20,2083,15/06/2009,Black Pepper Repacking and Retailing,,,PHP,21720,38.9062,558.2657777,558,0.265777691,1,14/09/2009,,
+543,15,1895,15/06/2009,Chair Hire,"Holy Redeemer is untwinned but was previously twinned with St Timothy, Forest Hill.",P-60/08-09/thanj,INR,40000,38.4967,1039.0501,1039,0.050100398,1,14/09/2009,,15/11/2011
+544,15,6520,15/05/2009,Goat Bank,,P-127/08-09/TVM,INR,40000,38.4967,1039.0501,1039,0.050100398,1,14/09/2009,,09/04/2012
+545,15,2381,15/05/2009,Self Help,,P-122/08-09/NYA,INR,40000,38.4967,1039.0501,1039,0.050100398,1,14/09/2009,,01/11/2012
+546,15,6266,01/06/2009,Goat Bank,,P-16/09-10/Thama,INR,40000,38.4967,1039.0501,1039,0.050100398,1,14/09/2009,,
+547,27,6722,16/06/2009,Cow Bank,,,AUD,3000,1,3000,3000,0,1,30/06/2009,,
+548,27,6725,16/06/2009,Andong Chroh Catholic Elderly Centre,This  project is paid up to what the conferences and committee could fund. There will be no further payments. 070709 KW ,,USD,3894,0.794917,4898.624636,3500,1398.624636,1,30/06/2009,,
+549,20,16989,01/06/2009,Rain Fed Water System,"*Untwinned
+*Special Project",,PHP,70000,37.6785,1857.823427,1858,-0.176572847,1,14/09/2009,,02/03/2010
+550,23,16878,21/07/2009,Better Lunch Project,,,BAHT,30800,27.0257,1139.655957,1140,-0.344042893,,,,
+551,23,835,30/09/2009,Making straw and bamboo hats for wholesale,,,BAHT,28000,27.0257,1036.05087,1037,-0.949129902,1,31/10/2009,,
+552,14,16991,09/07/2009,Consumer Goods for Resale,"18/05/2010 funds now flowing freely, project approved and to be paid from NCA.
+
+Project on Hold in 2009",,AUD,800,1,800,800,0,1,30/07/2010,,
+553,15,6658,01/08/2009,Tailoring Training Centre,,P-57/09-10/KNR,INR,40000,39.6998,1007.561751,1008,-0.438249059,1,31/01/2010,,
+554,15,260,01/08/2009,Tailoring Training Centre,,P-56/09-10/KNR,INR,40000,39.6998,1007.561751,1008,-0.438249059,1,31/10/2009,,
+555,15,107,01/08/2009,Cow Bank,,P-35/09-10/TCR,INR,50000,39.6998,1259.452189,1259,0.452188676,1,31/10/2009,,30/11/2010
+556,15,106,01/08/2009,Goat Bank,"This is an untwinned project. SRN: 106 was replaced by 6636 in July 2005. SRN: 6636 is twinned with Stella Maris, Maroochydore",P-31/09-10/TCR,INR,40000,39.6998,1007.561751,1008,-0.438249059,1,31/10/2009,,15/02/2011
+557,15,109,01/08/2009,Sewing Machine Distribution,,P-29/09-10/TCR,INR,45000,39.6998,1133.50697,1134,-0.493030192,1,30/04/2010,,01/11/2012
+558,23,2647,02/04/2009,Fish Raising Ban Nongkae,,,BAHT,27500,23.8,1155.462185,1155,0.462184874,1,31/10/2009,,
+559,23,851,02/04/2009,Vegetables and Poultry,,,BAHT,55000,23.81,2309.953801,2310,-0.046199076,1,31/10/2009,,
+560,23,851,02/04/2009,Fish Raising,,,BAHT,27500,23.81,1154.9769,1155,-0.023099538,1,31/10/2009,,
+561,23,1587,02/04/2009,Hog Raising,,,BAHT,44000,23.79,1849.516604,,1849.516604,,,,
+562,23,832,02/04/2009,Organic Fertilizer,,,BAHT,48400,23.8,2033.613445,2035,-1.386554622,1,31/10/2009,,
+563,23,1133,02/04/2009,Vocational Training - furniture,,,BAHT,50000,24.035,2080.299563,,2080.299563,,,,
+564,23,6408,02/04/2009,Pond Project,,,BAHT,20000,22.73,879.8944127,880,-0.10558733,1,31/01/2010,,
+565,23,6408,20/04/2009,Food and Medicine,,,BAHT,33000,23.83,1384.809064,1385,-0.190935795,1,01/11/2009,,
+566,23,849,02/04/2009,"Sources of Income: Poultry, fish and vegetables",,,BAHT,48400,23.795,2034.040765,2035,-0.959235133,1,31/10/2009,,
+567,23,850,02/04/2009,Meals for Junior Seminaries,,,BAHT,33000,23.755,1389.181225,1390,-0.818774995,1,31/10/2009,,
+568,23,566,02/04/2009,Lunch support for hill tribe children,,,BAHT,33000,23.755,1389.181225,1390,-0.818774995,1,31/10/2009,,
+569,23,6408,02/04/2009,Meals for hill tribe children at the Parish Relief Center,,,BAHT,21000,23.6,889.8305085,890,-0.169491525,1,31/01/2010,,
+570,23,,02/04/2009,Long Beans and Vegetables,"This project is for untwinned St Irene Parish, Ampur Muang in the Nongkhai Province.",,BAHT,49500,23.68,2090.371622,2090,0.371621622,1,14/09/2009,,
+571,23,,02/04/2009,Lunch for Hill Tribe Students,This project is for untwinned St Michael Garicoits Church in the Chiang Mai Province.,,BAHT,33000,23.83,1384.809064,1385,-0.190935795,1,14/09/2009,,
+572,23,,02/04/2009,Organic Vegetables,"This project is for untwinned St John the Apostle Church, Pong Yen Phon Phisai in the Nongkhai Province.
+
+South Australian Schools to support as per email from Ron Hoogland, 1/9/2009. Check Q4,2009 remittance",,BAHT,32450,23.77,1365.166176,1365,0.166175852,1,31/10/2009,,
+573,23,,02/04/2009,Duck Raising,"This project is for untwinned St Christopher Church,  Phon Phisai in the Nongkhai Province.
+
+South Australian Schools to support as per email from Ron Hoogland, 1/9/2009. Check Q4,2009 remittance",,BAHT,30800,23.79,1294.661623,1295,-0.33837747,1,31/10/2009,,
+574,16,1331,01/03/2009,Cow and Goat Fertilizing,,23-PYK/XIII/2009,IDR,8500000,8295.03,1024.709977,1025,-0.290023062,1,31/10/2009,,
+575,16,1332,01/03/2009,Cattle Food and Medicines,,23-PYK/III/2009,IDR,7500000,8295.03,904.155862,904,0.155862004,1,31/10/2009,,
+576,16,1745,01/03/2009,Cow Fertilizing,,22-PYK/III/2009,IDR,10000000,8295.03,1205.541149,1206,-0.458850661,1,31/10/2009,,
+577,16,1753,01/03/2009,Cow Fertilizing,,21-PYK/III/2009,IDR,5000000,8295.03,602.7705747,603,-0.229425331,1,31/10/2009,,
+578,16,1064,01/03/2009,Cow Fertilizing,,20-Pyk/III/2009,IDR,6000000,8295.03,723.3246896,723,0.324689603,1,31/10/2009,,
+579,16,909,01/03/2009,Cemetery Equipment Shop,,19-PYK/III/2009,IDR,10000000,8295.03,1205.541149,1206,-0.458850661,1,31/10/2009,,
+580,16,1074,01/03/2009,Sewing Course,,18/PYK/III/2009,IDR,9500000,8295.03,1145.264092,1143,2.264091872,1,31/10/2009,,
+581,15,2448,17/08/2009,Aid to Poor - Self Employment,,P-2/09-10/BAM,INR,54000,40.4181,1336.035093,1336,0.035093188,1,31/10/2009,,
+582,15,537,17/08/2009,Sewing Machine Distribution,"This is an untwinned conference but was previously twinned with Sacred Heart, Wodonga now disbanded. Please confirm who will take this on this project if it is accepted.",P-50/09-10/ERN,INR,40000,40.4181,989.6556246,990,-0.344375416,1,31/10/2009,,
+583,15,912,17/08/2009,Sewing Machine Distribution,,P-53/09-10/ERN,INR,40000,40.4181,989.6556246,990,-0.344375416,1,31/01/2010,,15/02/2011
+584,15,2528,17/08/2009,Cow Bank,,OLL/1/09/DIN/TN,INR,45000,40.4181,1113.362578,1113,0.362577657,1,31/10/2009,,15/05/2010
+585,15,1814,17/08/2009,Self Help,"This is an untwinned conference that was previously twinned with Sacred Heart, Casteron.  Sacred Heart Casteron can not support this project as per email from Pam Dent on 07/10/2009. Email sent to India to notify on 09/10/2009",P-43/09-10/ALDY,INR,40000,40.4181,989.6556246,990,-0.344375416,1,31/01/2010,,
+586,15,1788,17/08/2009,Tailoring Machine Distribution,"Supposed to have been paid in Quarter 4 2009, but funds left NCA Q1 2010",P-42/09-10/ALPY,INR,40000,40.4181,989.6556246,990,-0.344375416,1,26/03/2010,,
+587,15,6082,01/07/2009,House Repair,,P-44/09-10/TVL,INR,40000,40.4181,989.6556246,990,-0.344375416,1,01/10/2009,,15/11/2011
+588,15,6032,01/07/2009,House Repair,,P-48/09-10/PAL,INR,40000,40.4181,989.6556246,990,-0.344375416,1,31/10/2009,,15/11/2011
+589,15,93,01/07/2009,House Repair,,P-30/09-10/TCR,INR,40000,40.4181,989.6556246,990,-0.344375416,1,31/10/2009,,15/02/2011
+590,15,2490,01/07/2009,House Repair,,P-40/09-10/MDY,INR,40000,40.4181,989.6556246,990,-0.344375416,1,31/10/2009,,30/11/2010
+591,15,1974,01/07/2009,Roof Changing,"This conference is currently untwinned but was previously twinned with St Thomas the Apostle, Blackburn.",P-24/09-10/TVML,INR,40000,40.4181,989.6556246,990,-0.344375416,1,31/10/2009,,15/11/2011
+592,15,1556,01/07/2009,Housing,Supposed to have been paid Q4 2009 but for some reason was paid in Q1 2010.,P-128/08-09/QLN,INR,40000,40.4181,989.6556246,990,-0.344375416,1,26/03/2010,,
+593,15,1564,01/07/2009,Goat Bank,,P-39/09-10/TCR,INR,45000,40.4181,1113.362578,1113,0.362577657,1,31/01/2010,,30/11/2010
+594,15,1518,01/07/2009,Cow Bank,,,INR,45000,40.4181,1113.362578,1113,0.362577657,1,31/10/2009,,15/05/2010
+595,15,696,01/07/2009,Cow Bank,,P-51/09-10/PAL,INR,36000,40.4181,890.6900621,891,-0.309937874,1,31/10/2009,,09/04/2012
+596,15,2569,01/07/2009,Sewing Machine Project,,P-1/09-10/BAM,INR,54000,40.4181,1336.035093,1336,0.035093188,1,31/01/2010,,
+597,15,5768,01/07/2009,Computer Project,,P-58/08-09/TKLY,INR,99500,40.4181,2461.768366,2462,-0.231633847,1,31/10/2009,,
+598,15,5957,01/07/2009,House Repair,,P-54/09-10/PAL,INR,40000,40.4181,989.6556246,990,-0.344375416,1,31/01/2010,,15/11/2011
+599,15,2362,01/07/2009,Housing,,P-11/09-10/TVML,INR,40000,40.4181,989.6556246,990,-0.344375416,1,31/10/2009,,09/04/2012
+600,15,2363,01/07/2009,Roof Changing,,P-13/09-10/TVML,INR,42000,40.4181,1039.138406,1039,0.138405813,1,31/10/2009,,15/11/2011
+601,15,6799,01/07/2009,Housing,,P-132/08-09/PGT,INR,40000,40.4181,989.6556246,990,-0.344375416,1,31/10/2009,,15/11/2011
+602,15,1765,01/07/2009,Housing,,P-133/08-09/MTZ,INR,40000,40.4181,989.6556246,990,-0.344375416,1,31/10/2009,,15/11/2011
+603,15,1766,01/07/2009,Housing,,P-134/08-09/MTZ,INR,40000,40.4181,989.6556246,990,-0.344375416,1,31/10/2009,,30/11/2010
+604,15,1552,01/07/2009,Tailoring Institute Construction,Supposed to have been paid Q4 2009 but for some reason was paid in Q1 2010.,P-HF/01-09/KTR/TN,INR,100000,40.4181,2474.139061,2474,0.13906146,1,26/03/2010,,01/02/2013
+605,23,,02/04/2009,Pineapple Growing ,Supposed to have been paid Q4 2009 but for some reason was paid in Q1 2010.,,BAHT,42900,23.77,1804.795961,1805,-0.204038704,1,26/03/2010,,
+606,23,17012,02/04/2009,Chili Growing,,,BAHT,32500,23.8175,1364.542878,1365,-0.457121864,1,31/10/2009,,
+607,23,17013,02/04/2009,Rice Growing,,,BAHT,44000,23.85,1844.863732,2305,-460.1362683,1,31/10/2009,,
+608,18,540,15/08/2009,Sewing Training for the Poor,,,USD,2089,0.924491,2259.621781,2260,-0.378218933,1,31/01/2010,,
+609,18,6559,15/08/2009,Rental of Slow Moving Vehicle (Trishaw),Supposed to have been paid Q4 2009 but for some reason was paid in Q1 2010.,,USD,1812,0.924491,1959.997447,1960,-0.002552756,1,26/03/2010,,
+610,18,17014,15/08/2009,Motor Boat Rental,"Supposed to have been paid Q4 2009 but for some reason was paid in Q1 2010.
+
+
+Please note that the conference that this project is for is untwinned. ",,USD,1904,0.924491,2059.511666,2060,-0.48833358,1,26/03/2010,,
+611,18,17015,15/08/2009,Cardamon Seed and Betel Nut Trading,"Supposed to have been paid Q4 2009 but for some reason was paid in Q1 2010.
+
+
+Please note that the conference that this project is for is untwinned. ",,USD,2006,0.924491,2169.842649,2170,-0.157351451,1,26/03/2010,,
+612,18,17016,15/08/2009,Unhusk Rice Storing and Selling,"Supposed to have been paid in Q4 2009 but paid in Q1 2010.
+
+
+Please note that the conference that this project is for is untwinned. ",,USD,2034,0.924491,2200.129585,2200,0.12958482,1,26/03/2010,,
+613,15,6122,01/10/2009,Goat Bank,Unable to locate paperwork from India for this project. 23/02/10 KW,P-59/09-10/KRY,INR,40000,42.3942,943.5252936,944,-0.474706446,1,31/01/2010,,
+614,15,2442,01/10/2009,House Repair,Unable to locate paperwork from India for this project. 23/02/10 KW,P-66/09-10/TVR,INR,40000,42.3942,943.5252936,944,-0.474706446,1,31/01/2010,,15/11/2011
+615,15,2636,01/10/2009,Housing, ,P-77/09-10/TCR,INR,50000,42.3942,1179.406617,1179,0.406616943,1,30/04/2010,,
+616,15,381,01/10/2009,Self Help,,P-79/09-10/NYA,INR,45000,42.3942,1061.465955,1061,0.465955249,1,30/04/2010,,15/12/2016
+617,27,,01/07/2009,Andong Chroh Catholic Child Care Centre,This is an ongoing project supported by WA,,,,,,2180,-2180,,,,
+618,15,261,01/11/2009,Self Employment,SRN: 261 was replaced by SRN: 6710 in 2006,P-64/09-10/KPM,INR,40000,42.1528,948.9286595,949,-0.071340457,1,30/04/2010,,09/04/2012
+619,15,16831,01/11/2009,Housing,"Guardian Angels, Wynnum can not fund this project. 30/03/10 sent out to the states. SA expressed interest on 19/04/2010, wait to hear back from Richard Hoskings.",P-76/09-10/TCR,INR,50000,42.1528,1186.160824,,1186.160824,,,,
+620,26,17035,18/01/2010,Housing for the Chittagong Catholic Diocese,"***THIS IS THE FIRST PROJECT OF 2010
+
+
+
+The Housing projects were received in 2009 but needed perusal and approval from the National Project Officer. Sent out 18/01/10.",,BDT,52500,52.5,1000,,1000,,,,
+621,26,17035,18/01/2010,Housing for the Chittagong Catholic Diocese,The Housing projects were received in 2009 but needed perusal and approval from the National Project Officer. Sent out 18/01/10.,,BDT,52500,52.5,1000,1000,0,1,30/04/2010,,
+622,26,17035,18/01/2010,Housing for the Chittagong Catholic Diocese,The Housing projects were received in 2009 but needed perusal and approval from the National Project Officer. Sent out 18/01/10.,,BDT,52500,52.5,1000,1000,0,1,30/04/2010,,
+623,26,17035,18/01/2010,Housing for the Chittagong Catholic Diocese,The Housing projects were received in 2009 but needed perusal and approval from the National Project Officer. Sent out 18/01/10.,,BDT,52500,52.5,1000,1000,0,1,30/04/2010,,
+624,26,17035,18/01/2010,Housing for the Chittagong Catholic Diocese,The Housing projects were received in 2009 but needed perusal and approval from the National Project Officer. Sent out 18/01/10.,,BDT,52500,52.5,1000,1000,0,1,30/04/2010,,
+625,26,17035,18/01/2010,Housing for the Chittagong Catholic Diocese,The Housing projects were received in 2009 but needed perusal and approval from the National Project Officer. Sent out 18/01/10.,,BDT,52500,52.5,1000,1000,0,1,30/04/2010,,
+626,26,17035,18/01/2010,Housing for the Chittagong Catholic Diocese,The Housing projects were received in 2009 but needed perusal and approval from the National Project Officer. Sent out 18/01/10.,,BDT,52500,52.5,1000,1000,0,1,30/04/2010,,
+627,26,17035,18/01/2010,Housing for the Chittagong Catholic Diocese,The Housing projects were received in 2009 but needed perusal and approval from the National Project Officer. Sent out 18/01/10.,,BDT,52500,52.5,1000,1000,0,1,30/04/2010,,
+628,26,17035,18/01/2010,Housing for the Chittagong Catholic Diocese,The Housing projects were received in 2009 but needed perusal and approval from the National Project Officer. Sent out 18/01/10.,,BDT,52500,52.5,1000,1000,0,1,30/04/2010,,
+629,26,17035,18/01/2010,Housing for the Chittagong Catholic Diocese,The Housing projects were received in 2009 but needed perusal and approval from the National Project Officer. Sent out 18/01/10.,,BDT,52500,52.5,1000,1000,0,1,30/07/2010,,
+630,26,17035,18/01/2010,Housing for the Chittagong Catholic Diocese,The Housing projects were received in 2009 but needed perusal and approval from the National Project Officer. Sent out 18/01/10.,,BDT,52500,52.5,1000,1000,0,1,30/07/2010,,
+631,26,17035,18/01/2010,Housing for the Chittagong Catholic Diocese,The Housing projects were received in 2009 but needed perusal and approval from the National Project Officer. Sent out 18/01/10.,,BDT,52500,52.5,1000,1000,0,1,30/07/2010,,
+632,26,17035,18/01/2010,Housing for the Chittagong Catholic Diocese,The Housing projects were received in 2009 but needed perusal and approval from the National Project Officer. Sent out 18/01/10.,,BDT,52500,52.5,1000,1000,0,1,30/04/2010,,
+633,26,17035,18/01/2010,Housing for the Chittagong Catholic Diocese,The Housing projects were received in 2009 but needed perusal and approval from the National Project Officer. Sent out 18/01/10.,,BDT,52500,52.5,1000,1000,0,1,01/11/2010,,
+634,26,17035,18/01/2010,Housing for the Chittagong Catholic Diocese,The Housing projects were received in 2009 but needed perusal and approval from the National Project Officer. Sent out 18/01/10.,,BDT,52500,52.5,1000,1000,0,1,30/04/2010,,
+635,26,17035,18/01/2010,Housing for the Chittagong Catholic Diocese,The Housing projects were received in 2009 but needed perusal and approval from the National Project Officer. Sent out 18/01/10.,,BDT,52500,52.5,1000,1000,0,1,30/04/2010,,
+636,26,17035,18/01/2010,Housing for the Chittagong Catholic Diocese,The Housing projects were received in 2009 but needed perusal and approval from the National Project Officer. Sent out 18/01/10.,,BDT,52500,52.5,1000,1000,0,1,30/04/2010,,
+637,26,17035,18/01/2010,Housing for the Chittagong Catholic Diocese,The Housing projects were received in 2009 but needed perusal and approval from the National Project Officer. Sent out 18/01/10.,,MMK,52500,52.5,1000,1000,0,1,30/04/2010,,
+638,26,17035,18/01/2010,Housing for the Chittagong Catholic Diocese,The Housing projects were received in 2009 but needed perusal and approval from the National Project Officer. Sent out 18/01/10.,,BDT,52500,52.5,1000,1000,0,1,30/04/2010,,
+639,26,17035,18/01/2010,Housing for the Chittagong Catholic Diocese,The Housing projects were received in 2009 but needed perusal and approval from the National Project Officer. Sent out 18/01/10.,,BDT,52500,52.5,1000,1000,0,1,30/04/2010,,
+640,26,17035,18/01/2010,Housing for the Chittagong Catholic Diocese,The Housing projects were received in 2009 but needed perusal and approval from the National Project Officer. Sent out 18/01/10.,,BDT,52500,52.5,1000,1000,0,1,01/11/2010,,
+641,26,17035,18/01/2010,Housing for the Chittagong Catholic Diocese,The Housing projects were received in 2009 but needed perusal and approval from the National Project Officer. Sent out 18/01/10.,,BDT,52500,52.5,1000,500,500,1,30/04/2010,,
+642,26,17035,18/01/2010,Housing for the Chittagong Catholic Diocese,The Housing projects were received in 2009 but needed perusal and approval from the National Project Officer. Sent out 18/01/10.,,BDT,52500,52.5,1000,1000,0,1,30/04/2010,,
+643,26,17035,18/01/2010,Housing for the Chittagong Catholic Diocese,The Housing projects were received in 2009 but needed perusal and approval from the National Project Officer. Sent out 18/01/10.,,BDT,52500,52.5,1000,1000,0,1,01/11/2010,,
+644,26,17035,18/01/2010,Housing for the Chittagong Catholic Diocese,The Housing projects were received in 2009 but needed perusal and approval from the National Project Officer. Sent out 18/01/10.,,BDT,52500,52.5,1000,,1000,,,,
+645,26,17035,18/01/2010,Housing for the Chittagong Catholic Diocese,The Housing projects were received in 2009 but needed perusal and approval from the National Project Officer. Sent out 18/01/10.,,BDT,52500,52.5,1000,,1000,,,,
+646,26,17035,18/01/2010,Housing for the Chittagong Catholic Diocese,The Housing projects were received in 2009 but needed perusal and approval from the National Project Officer. Sent out 18/01/10.,,BDT,52500,52.5,1000,,1000,,,,
+647,15,6466,01/02/2010,Self Help,,P-84/09-10/TVM (L),INR,40000,41.3713,966.8538335,967,-0.146166545,1,30/07/2010,,15/11/2011
+648,15,6032,01/02/2010,Housing Project,,P-85/09-10/PAL,INR,40000,41.3713,966.8538335,967,-0.146166545,1,30/04/2010,,15/11/2013
+649,15,150,01/02/2010,Roof Changing,,P-86/09-10/NYA,INR,50000,41.3713,1208.567292,,1208.567292,,,,
+650,15,6189,01/02/2010,Housing,,p-87/09-10/TMY,INR,40000,41.3713,966.8538335,967,-0.146166545,1,30/04/2010,,09/04/2012
+651,15,342,01/02/2010,Distribution of Goats,,P-88/09-10/MAVL,INR,40000,41.3713,966.8538335,967,-0.146166545,1,30/07/2010,,
+652,15,6125,01/02/2010,Cow Bank,,P-89/09-10/MDY,INR,40000,41.3713,966.8538335,967,-0.146166545,1,30/07/2010,,15/11/2011
+653,15,2443,01/02/2010,Housing,,P-90/09-10/TMY,INR,40000,41.3713,966.8538335,967,-0.146166545,1,30/04/2010,,01/11/2012
+654,15,5957,01/02/2010,Housing,,P-91/09-10/PAL,INR,40000,41.3713,966.8538335,967,-0.146166545,1,30/07/2010,,15/11/2011
+655,15,1004,01/02/2010,Housing Project,"Untwinned Indian Conference, Surrendered in 2004 and replaced by SRN: 6482 St  Sebastian, Thazhekkode",P-92/09-10/TMY,INR,40000,41.3713,966.8538335,967,-0.146166545,1,30/07/2010,,01/11/2012
+656,15,6259,01/02/2010,Interest Free Loan,,p-96/09-10/TCR,INR,40000,41.3713,966.8538335,967,-0.146166545,1,30/07/2010,,15/11/2012
+657,15,2358,01/02/2010,Completion of Semi-finished Houses,,p-94/09-10/CHN,INR,40000,41.3713,966.8538335,967,-0.146166545,1,30/07/2010,,15/11/2011
+658,15,1245,01/02/2010,Goat Bank,,P-95/09-10/TCR,INR,40000,41.3713,966.8538335,967,-0.146166545,1,30/07/2010,,15/11/2011
+659,15,6253,01/02/2010,Interest Free Loan,,P-97/09-10/TCR,INR,40000,41.3713,966.8538335,967,-0.146166545,1,30/07/2010,,15/11/2011
+660,20,5710,03/03/2010,Commercial Crops Production,"This projects was initially forwarded to the Australian Twin, O.L. Queen of Apostles, Stafford but rejected.  Then this project was taken up by Holy Rosary Bundaberg and paid in Q2 2011",,PHP,77840,41.6514,1868.844745,1869,-0.155255286,1,29/04/2011,,
+661,20,,,Guinsaugon Orphans Education Project,This is an ongoing project so the project ID will stop at 661. This project is also referred to as the “Leyte Program” and is for the students who lost their parents in the Leyte mudslide in 2006. ,Special Project,PHP,164000,34.195,4796.02281,10000,-5203.97719,1,26/03/2010,,
+662,20,2068,03/03/2010,Deaf Literacy (Sign Language Class),"15 per class @ P3,000 each = P45,000",Level - Basic,PHP,45000,41.5101,1084.073515,1084,0.073514639,1,30/04/2010,,
+663,15,1622,01/04/2010,Goat Project,"This twin surrendered its twinning grants in 1994 but was originally twinned with O.L. of Victories, Wembley. ",P-141/09-10/TVM,INR,40000,41.0898,973.4776027,973,0.477602714,1,30/07/2010,,15/11/2011
+664,15,1838,01/04/2010,Goat Project,,P-139/09-0/ERN,INR,40000,41.0898,973.4776027,973,0.477602714,1,30/07/2010,,
+665,15,6667,01/04/2010,Goat Project,,p-138/09-10/Khm,INR,30000,41.0898,730.108202,730,0.108202036,1,30/07/2010,,09/04/2012
+666,15,597,01/04/2010,Water Supply ,This twin surrendered it’s twinning grants in 1994 but was twinned with the Semaphore conference.,P-137/09-10/KRY,INR,40000,41.0898,973.4776027,973,0.477602714,1,30/07/2010,,15/11/2011
+667,15,896,01/04/2010,House Building Project,"This twin surrendered it’s twinning grants in 1996 but was twinned with St Patrick, Kogarah.",P-136/09-10/KTM,INR,40000,41.0898,973.4776027,973,0.477602714,1,30/07/2010,,15/11/2012
+668,15,2594,01/04/2010,Self Help,,P-135/09-10/NYA,INR,40000,41.0898,973.4776027,,973.4776027,,,,
+669,15,6279,01/04/2010,Housing Project,,P-134/09-10/MTZ,INR,40000,41.0898,973.4776027,973,0.477602714,1,30/07/2010,,09/04/2012
+670,19,17069,25/03/2010,Education for Exploited Brick Kiln Children,,,USD,1036,0.922863,1122.593494,1123,-0.406505624,1,30/04/2010,,
+671,27,6722,06/05/2010,Village Latrines,,,USD,1000,0.893367,1119.3608,1119,0.360800209,1,30/07/2010,,
+672,15,16820,10/05/2010,Sewing Machine Project,,P-1/mom/2010,INR,40000,39.4589,1013.713003,1014,-0.286997357,1,30/07/2010,,
+673,15,6188,10/05/2010,Self Employment Revolving Project,,P-1/SAL/TN/2010,INR,60000,39.4589,1520.569504,1521,-0.430496035,1,30/07/2010,,15/11/2011
+674,15,6569,10/05/2010,Four  Wheeler Manual Carts,,P-4/4-10/VIJ/AP/2010,INR,48000,39.4589,1216.455603,1216,0.455603172,1,28/01/2011,,
+675,15,6659,10/05/2010,Rickshaw,,P-3/3-10/VIJ/AP/2010,INR,50000,39.4589,1267.141253,1267,0.141253304,1,30/07/2010,,
+676,15,1773,10/05/2010,Self Help Project,,P-3/DIN/TN/2010,INR,45000,39.4589,1140.427128,1140,0.427127974,1,30/07/2010,,15/11/2011
+677,15,2703,10/05/2010,Petty Shop,,P-5/5-10/VIJ/AP/2010,INR,50000,39.4589,1267.141253,1267,0.141253304,1,30/07/2010,,
+678,15,1787,10/05/2010,Petty Shops,This twin was surrendered and REPLACED BY 6236 AS PER INDIAN EMAIL 28/10/02,P-2/2-10/VIJ/AP/2010,INR,50000,39.4589,1267.141253,1267,0.141253304,1,30/07/2010,,
+679,15,6587,10/05/2010,Milk Cows Project,,P-3/3-10/GNT/AP/2010,INR,50000,39.4589,1267.141253,1267,0.141253304,1,30/07/2010,,01/02/2013
+680,15,6735,10/05/2010,Computer Training Centre,,P-1/TIRCHY/TN/2010,INR,60000,39.4589,1520.569504,1521,-0.430496035,1,01/11/2010,,15/11/2011
+681,15,2352,10/05/2010,Sewing Machines,,P-3/ELU/AP/2010,INR,52500,39.4589,1330.498316,1330,0.498315969,1,30/07/2010,,
+682,15,2329,10/05/2010,Sewing Machines,,P-2/ELU/AP/2010,INR,55000,39.4589,1393.855379,1394,-0.144621366,1,30/07/2010,,
+683,15,2440,10/05/2010,Milk Vending,,P-1/ELU/AP/2010,INR,55000,39.4589,1393.855379,1394,-0.144621366,1,30/07/2010,,
+684,15,533,10/05/2010,Goat Bank,"This conference is untwinned but was previously twinned with St Mary, Rutherglen.",p-133/09-10/ERN,INR,40000,39.4589,1013.713003,1014,-0.286997357,1,30/07/2010,,
+685,15,1803,10/05/2010,Training in Candle Making,"This conference is untwinned but was previously twinned with St Patrick, Camperdown.",,INR,93000,39.4589,2356.882731,2357,-0.117268854,1,30/07/2010,,01/07/2013
+686,15,16911,10/05/2010,Computer Training Centre,,,INR,50000,39.4589,1267.141253,1267,0.141253304,1,30/07/2010,,
+687,15,16910,10/05/2010,Various Self Help,,P-1/PAL/TN/2010,INR,33000,39.4589,836.3132272,836,0.313227181,1,30/07/2010,,15/11/2011
+688,15,2428,10/05/2010,Milking Cows,,p-2/THAN/TN/2010,INR,50000,39.4589,1267.141253,1267,0.141253304,1,30/07/2010,,
+689,15,17029,10/05/2010,Milking Cows,,p-1/GNT/AP/2010,INR,50000,39.4589,1267.141253,1267,0.141253304,1,30/07/2010,,15/11/2011
+690,15,17023,10/05/2010,Milking Cows,,P-4-10/GWT/AP/2010,INR,50000,39.4589,1267.141253,1267,0.141253304,1,30/07/2010,,01/02/2013
+692,15,2612,14/06/2010,Petty Trades,,P-4/ELU/AP/2010,INR,50000,40.01,1249.687578,1250,-0.312421895,1,30/07/2010,,
+693,15,277,14/06/2010,Goat Rearing,,P-140/09-10/KHM,INR,30000,40.01,749.8125469,750,-0.187453137,1,30/07/2010,,09/04/2012
+694,14,,26/07/2010,Vincent House Maintenance,"National Council of Fiji Project, approved for Victoria by John O’Brien at the 26/07/10 National Overseas Workgroup Meeting. Felix, please let us know which conference or region will pick this project up.
+
+Thank you,
+
+Kim",,FJD,10475.37,1.74589,6000.017183,6000,0.017183213,1,30/11/2010,,
+695,15,16993,15/07/2010,Goat Distribution,,P2-10/GWT/AP/2010,INR,50000,42.2015,1184.79201,1185,-0.207990237,1,30/07/2010,,30/04/2011
+696,27,6724,13/10/2010,Help for the Elderly,,N/A,USD,729.32,0.997509,731.1412729,731,0.141272911,1,01/11/2010,,02/03/2011
+697,27,17038,13/10/2010,Helping Families with Students,,N/A,USD,2693.36,0.997509,2700.085914,2700,0.085914012,1,01/11/2010,,
+698,15,6131,31/08/2010,Self Help,,P-5/10-11/NYA,INR,40000,43.8806,911.5645638,912,-0.435436161,1,27/01/2012,,
+699,15,2355,31/08/2010,Housing,,p-3/10-11/TMY,INR,40000,43.8806,911.5645638,912,-0.435436161,1,26/04/2013,,
+700,15,6736,31/08/2010,Cow Bank,,P-1/10-11/KTM,INR,40000,43.8806,911.5645638,912,-0.435436161,1,27/01/2012,,15/10/2014
+701,15,6270,31/08/2010,Self Help,,p-4/10-11/NYA,INR,40000,43.8806,911.5645638,912,-0.435436161,1,28/01/2011,,15/11/2011
+702,15,6744,31/08/2010,Cow Project,,P-2/10-11/IRIN,INR,48000,43.8806,1093.877477,1094,-0.122523393,1,28/01/2011,,09/04/2012
+703,27,17003,08/11/2010,Day Care Centre in Phnom Penh,"Though St Catherine is twinned with a Victorian conference WA will be taking up this project.
+
+Annette, please confirm which conference will be taking up this project. 
+
+Thank you,
+
+Kim Watson, NOPDA, 16/11/10",,USD,6370,0.984423,6470.795583,13031.67,-6560.874417,,,,
+704,27,17022,08/11/2010,Two Houses for the Poor,,,USD,1400,0.984423,1422.152875,1422,0.152875339,1,28/01/2011,,01/03/2012
+705,27,17003,08/11/2010,Poor Student Assistance,,,USD,1950,0.984423,1980.855791,1981,-0.144209349,1,29/04/2011,,
+706,20,,15/03/2010,Feeding Program,"Overseas Conference is Our Lady of the Abandoned and it is untwinned
+
+
+This project was paid from Tasmanian State Levy funds",,PHP,77000,40.01,1924.51887,1925,-0.481129718,1,24/11/2010,,
+707,20,,15/03/2010,Disaster Training,"Overseas Parish is St Vincent de Paul Parish, San Marcelino St Ermita, Manila
+
+Tasmania are looking at this projects as at 13/12/10 for payment from the Tasmanian State Levy funds. KW
+
+",,PHP,83000,40.01,2074.48138,,2074.48138,,,,
+708,15,6550,24/01/2011,Cow Bank,,P-1/BAW/WR/2010,INR,60000,39.1,1534.526854,1535,-0.47314578,1,26/08/2011,,15/12/2013
+709,15,2610,24/01/2011,Self Employment,,P-3/SAL/TN/2010,INR,50000,39.1,1278.772379,1279,-0.227621483,1,29/04/2011,,01/02/2013
+710,15,1499,24/01/2011,Cow Bank,"St Xavier in Thanjavur SRN: 1499 was twinned with St Anthony, Glen Huntly DC: Eastern RC: Waverley but the twinning was surrendered in 2001",P-1/THAN/TN/2010,INR,50000,39.1,1278.772379,1279,-0.227621483,1,29/04/2011,,
+711,15,1910,24/01/2011,Computer Training Centre,"Picked up by Essendon RC
+
+St Jospeh, Jamalpur SRN: 1910 was twinned with St Therese’s Parish, Essendon DC: Western RC: Essendon and twinning was surrendered in 1997 .",P-03/10-11/PAT,INR,50000,39.1,1278.772379,1279,-0.227621483,1,29/04/2011,,
+712,15,1911,24/01/2011,Thela Vendar School Children,"REJECTED by Victoria for not enough information 040511, India informed to put together a better description.
+
+
+St Thomas, Fatua was twinned with St James, Richmond North DC: Northern RC: Melbourne but twinning was surrendered in 2002.",P-02/10-11/PAT,INR,50000,39.1,1278.772379,,1278.772379,,,,
+713,15,6273,24/01/2011,Goat Bank,,P-05/COI/TN/2010,INR,52000,39.1,1329.923274,1330,-0.076726343,1,29/04/2011,,
+714,15,6272,24/01/2011,Goat Bank,,P-04/COI/TN/2010,INR,50000,39.1,1278.772379,1279,-0.227621483,1,26/08/2011,,
+715,15,16906,24/01/2011,Milk Animals,,P-6/DHAR/TN/10,INR,50000,39.1,1278.772379,1279,-0.227621483,1,29/04/2011,,01/02/2013
+716,15,,25/01/2011,Tiffin & Tea Centre on Wheels,"Little Flower, Thallapudi
+CC: Nellore
+
+1 of 3 Special Projects sent through from NCI to VIC. The India conferences are untwinned and unlisted in the NCA database.",P-1/NEL/AP/2010,INR,20000,39.1,511.5089514,522,-10.49104859,1,29/04/2011,,15/11/2011
+717,15,,25/01/2011,Dry Fish Vending,"St Antony’s, Krishnapatnam
+CC: Nellore
+
+2nd of 3 Special Projects sent through from NCI to VIC. The India conferences are untwinned and unlisted in the NCA database.",P-2/NEL/AP/10,INR,20000,39.1,511.5089514,512,-0.491048593,1,29/04/2011,,15/11/2011
+718,15,,25/01/2011,Tailoring Shop,"St Peter, Bommarayi Church
+CC: Nellore
+
+3rd of 3 Special Projects sent through from NCI to VIC. The India conferences are untwinned and unlisted in the NCA database.",P-3/NEL/AP/10,INR,20000,39.1,511.5089514,512,-0.491048593,1,29/04/2011,,15/11/2011
+719,15,1640,24/01/2011,Small Businesses,,P-1/MAR/TN/10,INR,50000,39.1,1278.772379,1279,-0.227621483,1,29/04/2011,,
+720,15,6609,24/01/2011,Tailoring Machines,"St Anthony was twinned with O.L. Queen of Peace, Willagee ",P-6/GNT/AP/10,INR,60000,39.1,1534.526854,1535,-0.47314578,1,29/04/2011,,
+721,23,1595,24/01/2011,Mushroom Plantation,,P-17-2010 Thailand,BAHT,36758,30.6318,1199.994777,1200,-0.00522333,1,29/04/2011,,
+722,23,1595,24/01/2011,Straw Mushroom,,P-18-2010 Thailand,BAHT,39822,30.6318,1300.021546,1300,0.021546236,1,29/04/2011,,
+723,15,6325,24/01/2011,Petty Shop,,P-3/COI/TN/2010,INR,52000,39.1,1329.923274,1330,-0.076726343,1,29/04/2011,,
+724,23,6631,24/01/2011,Supplemental Food,,1-2010,BAHT,30640,30.6318,1000.267696,1000,0.267695663,1,26/08/2011,,
+725,23,6631,24/01/2011,Dish Washing Liquid,,2-2010,BAHT,15320,30.6318,500.1338478,500,0.133847831,1,26/08/2011,,
+726,23,6718,24/01/2011,Library,,3-2010,BAHT,45950,30.6318,1500.075085,1500,0.075085369,1,29/04/2011,,
+727,23,832,24/01/2011,Pig Feeding,,5-2010,BAHT,49000,30.6318,1599.644814,1600,-0.35518644,1,26/08/2011,,
+728,23,832,24/01/2011,Floral Plantation,,6-2010,BAHT,36750,30.6318,1199.73361,1200,-0.26638983,1,26/08/2011,,
+729,23,6389,24/01/2011,Luncheon Project for Kindergarten Children,,7-2010,BAHT,45950,30.6318,1500.075085,1500,0.075085369,1,26/08/2011,,
+730,23,16961,24/01/2011,Road Building,,8-2010,BAHT,50550,30.6318,1650.245823,1650,0.245822968,1,26/08/2011,,
+731,23,6415,24/01/2011,Organic Fertilizer,,9-2010,BAHT,45950,30.6318,1500.075085,1500,0.075085369,1,26/08/2011,,
+732,23,6417,24/01/2011,Handmade Brooms,,10-2010,BAHT,42870,30.6318,1399.525983,1400,-0.474017198,1,26/08/2011,,
+733,23,6737,24/01/2011,Buffalo Feeding,,11-2010,BAHT,45950,30.6318,1500.075085,1500,0.075085369,1,26/08/2011,,
+734,23,850,24/01/2011,Lunch for Seminarians,,12-2010,BAHT,36750,30.6318,1199.73361,1200,-0.26638983,1,26/08/2011,,
+735,23,566,24/01/2011,Luncheon of Hill Tribe Children,,13-2010,BAHT,36750,30.6318,1199.73361,1200,-0.26638983,1,29/04/2011,,
+736,23,2644,24/01/2011,Irrigational Water Supply,,14-2010,BAHT,49000,30.6318,1599.644814,1600,-0.35518644,1,29/04/2011,,
+737,23,834,24/01/2011,Fertilizer Project,,15-2010,BAHT,49000,30.6318,1599.644814,1600,-0.35518644,1,26/08/2011,,
+738,23,843,24/01/2011,DAM Project,,16-2010,BAHT,67390,30.6318,2200.001306,2200,0.001305833,1,26/08/2011,,
+739,15,17046,15/02/2011,Heavy Duty Bicycles Project,,P-5/GNT/AP/10,INR,60000,45.1487,1328.941919,,1328.941919,,,,
+740,15,2584,15/02/2011,Cow Bank,,P-4/SAL/TN/10,INR,50000,45.1487,1107.451599,,1107.451599,,,,
+741,15,6761,15/02/2011,Self Employment Project,,P-2/SAL/TN/2010,INR,50000,45.1487,1107.451599,1107,0.451598828,1,29/04/2011,,01/02/2013
+742,15,6296,15/02/2011,Milk Animals Project,,P-5/DHAR/TN/10,INR,50000,45.1487,1107.451599,1107,0.451598828,1,26/08/2011,,01/02/2013
+743,15,5606,15/02/2011,Self Help Project,,P-2/COI/TN/2010,INR,52000,45.1487,1151.749663,,1151.749663,,,,
+744,15,16941,15/02/2011,Cow Bank Project,,P-1/BELT/WR/10,INR,60000,45.1487,1328.941919,1329,-0.058081407,1,26/08/2011,,15/12/2013
+745,15,5940,15/02/2011,Tailoring Training Centre,,P-4/10-11/PAT,INR,50000,45.1487,1107.451599,1107,0.451598828,1,26/08/2011,,
+746,15,1569,15/02/2011,Toilet Construction/House Plastering,,P-1/VASAI/2010,INR,44000,45.1487,974.557407,975,-0.442593031,1,27/01/2012,,
+747,20,603,11/04/2011,Buy and Sell of Palay (Rice),,,PHP,40000,43,930.2325581,930,0.23255814,1,26/08/2011,,
+748,20,1602,11/04/2011,Organic Fertilizer Production,,,PHP,23000,41.85,549.5818399,550,-0.418160096,1,26/08/2011,,
+749,20,2205,11/04/2011,Livelihood and Feeding Program,,,PHP,70000,43.75,1600,1600,0,1,27/01/2012,,
+750,20,1715,11/04/2011,Livelihood - Bakery,,,PHP,76800,42.666,1800.028125,1800,0.028125439,1,26/08/2011,,
+751,15,6638,01/04/2011,Housing,,P-47/10-11/MTZ,INR,40000,46.7875,854.9292012,855,-0.070798824,1,26/08/2011,,
+752,15,99,01/04/2011,Sewing Machine Distribution,,P-46/10-11/TCR,INR,40000,46.7875,854.9292012,855,-0.070798824,1,26/08/2011,,15/11/2012
+753,15,6641,01/04/2011,Housing,,P-42/10-11/MTZ,INR,40000,46.7875,854.9292012,855,-0.070798824,1,26/08/2011,,15/11/2013
+754,20,6145,11/04/2011,Share-A-Meal Feeding Program,,,PHP,70000,43.75,1600,1600,0,1,26/08/2011,,
+755,20,1290,11/04/2011,"Rice Rationing, Medicines and Babies Milk Supplement",,,PHP,70000,43.75,1600,1600,0,1,26/08/2011,,
+756,20,2072,11/04/2011,Livelihood - Pagkabanhaw Project,,,PHP,70000,43.75,1600,1600,0,1,26/08/2011,,
+757,20,2105,11/04/2011,Swine Fattening,,,PHP,70000,43.75,1600,1600,0,1,26/08/2011,,
+758,15,2539,01/04/2011,Sewing Machine Distribution,,P-84/10-11/PLR,INR,40000,46.7875,854.9292012,855,-0.070798824,1,26/08/2011,,09/04/2012
+759,15,1221,01/04/2011,Goat Bank,,P-85/10-11/PLR,INR,40000,46.7875,854.9292012,855,-0.070798824,1,26/08/2011,,01/11/2012
+760,15,6268,01/04/2011,Interest Free Loans for Petty Businesses,,P-83/10-11/NYA,INR,45000,46.7875,961.7953513,962,-0.204648678,1,26/08/2011,,09/04/2012
+761,15,6269,01/04/2011,Interest Free Loans for Petty Businesses,,P-81/10-11/NYA,INR,40000,46.7875,854.9292012,855,-0.070798824,1,26/08/2011,,09/04/2012
+762,15,1217,01/04/2011,Roof Changing,,P-44/10-11/NYA,INR,40000,46.7875,854.9292012,855,-0.070798824,1,26/08/2011,,15/12/2016
+763,27,16893,01/04/2011,Pig Bank and Pump Wells,,,USD,1750,1.0464,1672.400612,1672,0.400611621,1,26/08/2011,,
+764,27,6726,12/03/2011,Housing Project,,,USD,1000,1.0464,955.6574924,956,-0.342507645,1,26/08/2011,,
+765,27,6730,12/03/2011,House building and repair,,,USD,1800,1.0464,1720.183486,1720,0.183486239,1,26/08/2011,,
+766,27,6731,12/03/2011,House building and Self sufficiency,,,USD,1720,1.0464,1643.730887,1644,-0.26911315,1,26/08/2011,,
+767,27,6725,12/03/2011,Building Latrines,"Twinned with Infant Jesus, Morley/Dianella in WA but they couldn’t support this project so Ozanam Villa, Burleigh Heads in QLD will take on this project. ",,USD,1600,1.0464,1529.051988,1529,0.051987768,1,26/08/2011,,
+768,20,6529,11/04/2011,Supplementary Feeding,,,PHP,70000,43.75,1600,1600,0,1,28/10/2011,,
+769,15,16811,01/04/2011,Self Help,,P-82/10-11/NYA,INR,45000,46.7875,961.7953513,962,-0.204648678,1,28/10/2011,,01/11/2012
+770,15,994,01/04/2011,Low Cost Toilets,"St John Baptist is the previous twin of Ozanam, Albury. St John Baptist was replaced by St Pius X (L) SRN: 6093",P-49/10-11/PALA,INR,40000,46.7875,854.9292012,855,-0.070798824,1,27/01/2012,,15/10/2014
+771,15,6491,01/04/2011,Education Aid - Computers,,P-48/10-11/PALA,INR,36000,46.7875,769.4362811,769,0.436281058,1,26/04/2013,,15/10/2014
+772,15,16838,01/04/2011,Housing Project,,P-45/10-11/MTZ,INR,40000,46.7875,854.9292012,855,-0.070798824,1,28/10/2011,,
+773,15,1521,01/04/2011,Mortuary Generator,,P-43/10-11/TEL,INR,40000,46.7875,854.9292012,855,-0.070798824,1,28/10/2011,,15/11/2012
+774,20,,31/05/2011,Feeding Program  - Phase II,"Overseas Conference is Our Lady of the Abandoned, 1009 Sta. Ana, Manila and it is untwinned. Project contact is Mr Alan Laconico.
+
+The previous project (706) was paid from Tasmanian State Levy funds.",Follow On from 706,PHP,90000,45,2000,2000,0,1,26/08/2011,,
+775,20,1276,31/05/2011,Education - Skills Training Program,,,PHP,70000,43.75,1600,1600,0,1,26/08/2011,,
+776,20,2240,31/05/2011,Massage Clinic of Visually Impaired,,,PHP,28272,43.82,645.1848471,645,0.184847102,1,28/10/2011,,
+777,23,849,05/06/2011,Electricity,,,BAHT,30000,30,1000,1000,0,1,28/10/2011,,
+778,23,1130,05/06/2011,Coffin Project,,,BAHT,30000,30,1000,1000,0,1,28/10/2011,,
+779,23,1135,05/06/2011,Frog Raising,,,BAHT,24000,30,800,800,0,1,28/10/2011,,
+780,23,851,05/06/2011,Artesian Well for Growing Vegetables,,,BAHT,33000,30,1100,1100,0,1,28/10/2011,,
+781,23,6417,25/05/2011,Mushroom Plantation," This conference is twinned with Mary Immaculate, Manly but they have already been sent a few projects this year so this one has been offered out. Toowoomba Central Council wants to support it. ",,BAHT,36000,30,1200,1200,0,1,26/08/2011,,
+782,20,,03/06/2011,Cebu Educational Materials ,"This project is for children living on a trash dump in Cebu and was proposed in Victoria first, then Mayleen in Philippines was approached. This all occurred in late 2010, early 2011. ",,USD,5000,1,5000,5000,0,1,08/02/2012,,
+783,15,17173,02/12/2011,Sewing Machine Project,These projects were received directly from the National Project Officer in India by the Project Officer in Victoria. Victoria is to confirm who will take up these projects as they are from untwinned conferences in India. 081211 KW,P-12/GNT/AP/11,INR,20000,53.167,376.1731901,,376.1731901,1,27/01/2012,,
+784,15,17174,02/12/2011,Aiding for Heavy Cycles,These projects were received directly from the National Project Officer in India by the Project Officer in Victoria. Victoria is to confirm who will take up these projects as they are from untwinned conferences in India. 081211 KW,P-13/GNT/AP/11,INR,20000,53.167,376.1731901,,376.1731901,1,27/01/2012,,
+785,15,17175,02/12/2011,Sewing Machine Project,These projects were received directly from the National Project Officer in India by the Project Officer in Victoria. Victoria is to confirm who will take up these projects as they are from untwinned conferences in India. 081211 KW,P-15/GNT/AP/11,INR,20000,53.167,376.1731901,,376.1731901,1,27/01/2012,,
+786,15,16934,02/12/2011,Youth Animation Centre,,p-44/11-12/CHN,INR,45000,53.19,846.0236887,846,0.023688663,1,30/04/2012,,15/02/2015
+787,15,799,02/12/2011,Sewing Machine Distribution,,p-45/11-12/CHN,INR,45000,53.19,846.0236887,846,0.023688663,1,30/04/2012,,15/11/2013
+788,15,6706,01/12/2011,Educational Assistance for 22 Students,,P-2/SIV/TN/11,INR,100800,53.19,1895.093063,1895,0.093062606,1,27/01/2012,,15/12/2013
+789,27,6722,15/06/2011,Furniture - teacher’s room and classroom,,,USD,1559,0.962518,1619.709969,1620,-0.29003094,1,30/04/2012,,
+790,27,6722,15/06/2011,Teacher’s Salary,,,USD,1800,0.962518,1870.094897,2500,-629.9051031,1,27/01/2012,,
+791,27,6724,15/06/2011,Class fees and school materials,,,USD,1203.75,0.962518,1250.625962,,1250.625962,,,,
+792,15,2366,15/11/2011,Self Help Project,,p-10/MAR/TN11,INR,40000,52.2278,765.8756448,,765.8756448,,,,
+793,15,17126,15/11/2011,Petty Businesses,,P-11/mar/tn/11,INR,50000,52.2278,957.344556,,957.344556,,,,
+794,15,6610,15/11/2011,Pulling Cart Project,,P-11/gnt/ap/11,INR,60000,52.2278,1148.813467,,1148.813467,,,,
+795,15,17125,15/11/2011,Interest free loans,,p-1/mar/tn/11,INR,45000,52.2278,861.6101004,,861.6101004,,,,
+796,15,17123,15/11/2011,Interest free loans for petty businesses,,p-2/mar/tn/11,INR,50000,52.2278,957.344556,,957.344556,,,,
+797,15,6610,15/11/2011,Milk Cattle Project,,,INR,60000,52.2278,1148.813467,,1148.813467,,,,
+798,15,6611,15/11/2011,Buffalo Project,,p-9/gnt/ap/11,INR,60000,52.2278,1148.813467,,1148.813467,,,,
+799,22,17176,29/12/2011,Material Assistance for Burns Creek,,,SBD,2500,7.62424,327.9015351,945,-617.0984649,1,27/01/2012,,30/05/2012
+800,15,668,01/12/2011,Buffalo Distribution,,P-7/NEL/AP/11,INR,60000,52.2278,1148.813467,1149,-0.186532843,1,29/10/2012,,15/12/2013
+801,15,1970,01/12/2011,Buffalo Distribution,,P-6/NEL/AP/11,INR,60000,52.2278,1148.813467,1149,-0.186532843,1,27/07/2012,,15/12/2013
+802,15,1832,01/12/2011,Sheep Distribution,,P-8/NEL/AP/11,INR,60000,52.2278,1148.813467,1149,-0.186532843,1,30/04/2012,,15/12/2013
+803,15,1871,01/12/2011,Sheep Distribution,,P-5/NEL/AP/11,INR,60000,52.2278,1148.813467,1149,-0.186532843,1,30/04/2012,,15/12/2013
+804,15,1184,01/12/2011,Sheep Distribution,,P-4/NEL/AP/11,INR,60000,52.2278,1148.813467,1149,-0.186532843,1,27/07/2012,,15/12/2013
+805,15,814,01/12/2011,Drinking Water,,P-46/11-12/CHN,INR,45000,52.2278,861.6101004,862,-0.389899632,1,30/04/2012,,15/02/2015
+806,15,2351,01/12/2011,Multi Purpose (Self Help),,P-7/SIV/TN/11,INR,60000,52.2278,1148.813467,1149,-0.186532843,1,26/04/2013,,
+807,15,16835,01/12/2011,Self Help Project,,P-12/MAR/TN/11,INR,40000,52.2278,765.8756448,766,-0.124355228,1,30/04/2012,,
+808,15,6113,01/12/2011,Self Help,,P-11/MAR/TN/11,INR,40000,52.2278,765.8756448,766,-0.124355228,1,30/04/2012,,
+809,15,6066,01/12/2011,Self Help ,,P-9/MAR/TN/11,INR,45000,52.2278,861.6101004,862,-0.389899632,1,30/04/2012,,
+810,15,2706,01/12/2011,Housing Project,,P-6/MAR/TN/11,INR,45000,52.2278,861.6101004,862,-0.389899632,1,27/07/2012,,15/11/2013
+811,15,16836,01/12/2011,Self Help,,P-7/MAR/TN/11,INR,50000,52.2278,957.344556,957,0.344555964,1,30/04/2012,,
+812,15,17092,01/12/2011,Self Help,,P-8/DIN/TN/11,INR,45000,52.2278,861.6101004,862,-0.389899632,1,30/04/2012,,15/12/2013
+813,15,17097,01/12/2011,Self Help,,P-7/DIN/TN/11,INR,45000,52.2278,861.6101004,862,-0.389899632,1,29/10/2012,,15/12/2013
+814,15,6590,01/12/2011,Milk Cattle,,P-7/GNT/AP/11,INR,60000,52.2278,1148.813467,1149,-0.186532843,1,30/04/2012,,
+815,15,477,01/12/2011,House Maintenance,,p-37/11-12/VPY,INR,35000,52.2278,670.1411892,670,0.141189175,1,27/07/2012,,
+816,15,1767,01/12/2011,Housing Project,,P-33/11-12/MTZ,INR,40000,52.2278,765.8756448,766,-0.124355228,1,30/04/2012,,
+817,15,2633,01/12/2011,Sewing Machine Distribution,,P-29/11-12/TCR,INR,45000,52.2278,861.6101004,862,-0.389899632,1,30/04/2012,,15/11/2013
+818,15,1502,15/11/2011,Housing Project,"Please note: this project was initially received in 2009 when Housing projects weren’t being accepted at all. Since then, housing projects have been more readily accepted and paid by Australian conferences. If you still have questions about this project, though, do not hesitate to contact Kim Watson, kimw@svdp.org.au",P-1/Cheng/TN/2010,INR,60000,52.2278,1148.813467,1149,-0.186532843,1,30/04/2012,,
+819,15,6512,15/11/2011,Multipurpose Project,,P-3/SIV/TN/11,INR,60000,52.2278,1148.813467,1149,-0.186532843,1,30/04/2012,,15/11/2013
+820,15,6645,01/12/2011,Buffalo Project,,P-8/GNT/AP/11,INR,60000,52.2278,1148.813467,1149,-0.186532843,1,27/07/2012,,
+821,15,1677,01/12/2011,Cow Bank,St Joseph SRN: 1677 is untwinned but was previously twinned with a personal twin from Nth Bundaberg,P-1/SIV/TN/11,INR,60000,52.2278,1148.813467,1149,-0.186532843,1,30/04/2012,,15/12/2013
+822,15,89,01/12/2011,Computer Education,"ST Michael SRN: 89 is untwinned but was previously twinned with St Ignatius, Toowong.",p-5/SIV/TN/11,INR,56415,52.2278,1080.171862,1080,0.171862495,1,30/04/2012,,
+823,15,44,01/12/2012,Computer Education Centres,"ST Therese of Child Jesus was previously twinned with St Agatha, Clayfield",P-5/SIV/TN/11,INR,56415,52.2278,1080.171862,1080,0.171862495,1,30/04/2012,,15/11/2013
+824,15,137,01/12/2011,Drinking Water,"St Joseph, Kochuveli was previously twinned with St Catherine, Mansfield",P-42/11-12/TUM,INR,40000,52.2278,765.8756448,766,-0.124355228,1,30/04/2012,,15/11/2013
+825,15,6207,01/12/2011,Roof Changing,,P-28/11-12/NYA,INR,45000,52.2278,861.6101004,862,-0.389899632,1,27/07/2012,,15/12/2016
+826,15,1729,01/12/2011,Housing,"St Anthony, Arimpur was previously twinned with O.L. of Good Counsel, Innisfail",P-30/11-12/TCR,INR,45000,52.2278,861.6101004,862,-0.389899632,,,,
+827,15,92,01/12/2011,Housing," St Mary, Avyanthole was previously twinned with St Peter, Caboolture",P-31/11-12/TCR,INR,45000,52.2278,861.6101004,,861.6101004,,,,
+828,15,164,01/12/2011,Goat Bank,,P-32/11-12/TCR,INR,45000,52.2278,861.6101004,862,-0.389899632,1,30/04/2012,,
+829,15,680,01/12/2011,House Repair,,P-35/11-12/VPY,INR,38000,52.2278,727.5818625,728,-0.418137467,1,30/04/2012,,15/11/2013
+830,15,679,01/12/2011,House Repair,,P-36/11-12/VPY,INR,35000,52.2278,670.1411892,670,0.141189175,1,30/04/2012,,15/11/2013
+831,15,686,01/12/2011,Roof Changing,"Christ the King, Christnagar was previously twinned with St John of God, Rockhampton",P-38/11-12/VPY,INR,35000,52.2278,670.1411892,670,0.141189175,1,27/07/2012,,15/11/2013
+832,15,16950,01/12/2011,Mobile Freezer,,P-39/11-12/CLT,INR,45000,52.2278,861.6101004,,861.6101004,,,,
+833,15,192,01/12/2011,Tailoring,St Anthony was previously twinned with a Labrador conference under the Gold Coast DC,P-41/11-12/TVM,INR,40000,52.2278,765.8756448,766,-0.124355228,1,29/10/2012,,15/11/2013
+834,15,142,01/12/2011,Coffin Project,"St Mathew, Sth Kollemcode was previously twinned with St Bernard, Upper Mt Gravatt",P-43/11-12/TVM,INR,40000,52.2278,765.8756448,766,-0.124355228,1,30/04/2012,,15/11/2013
+835,15,6295,01/12/2011,Self Help,,P-8/MAR/TN/11,INR,45000,52.2278,861.6101004,862,-0.389899632,1,27/07/2012,,
+836,15,6571,01/12/2011,Self Help,,P-5/MAR/TN/11,INR,40000,52.2278,765.8756448,766,-0.124355228,1,30/04/2012,,
+837,15,189,01/12/2011,House Repair,,p-27/11-12/NYA,INR,45000,52.2278,861.6101004,862,-0.389899632,1,27/07/2012,,
+838,15,17119,01/12/2011,"Goat rearing, Cow rearing, Petty Shop",,P-3/MAR/TN/11,INR,50000,52.2278,957.344556,957,0.344555964,1,30/04/2012,,
+839,15,549,01/12/2011,Cow rearing and Home needs shop,,P-2/PAL/TN/11,INR,40000,52.2278,765.8756448,766,-0.124355228,1,30/04/2012,,15/11/2013
+840,15,17030,01/12/2011,Computer Education,,P-6/SIV/TN/11,INR,54000,52.2278,1033.93212,1034,-0.067879558,1,27/07/2012,,15/11/2013
+841,15,2620,01/12/2011,Housing Project,,P-34/11-12/MTZ,INR,40000,52.2278,765.8756448,766,-0.124355228,1,27/07/2012,,
+842,15,1221,01/12/2011,Goat Bank,,P-85/10-11/PLR,INR,40000,52.2278,765.8756448,766,-0.124355228,1,27/07/2012,,
+843,15,2539,01/12/2011,Tailoring,,P-84/10-11/PLR,INR,40000,52.2278,765.8756448,766,-0.124355228,1,27/04/2012,,
+844,15,1235,01/12/2011,House Repairing,,P-40/11-12/TVM (L),INR,40000,52.2278,765.8756448,766,-0.124355228,1,30/04/2012,,
+845,20,,30/05/2011,Educational Assistance for Disabilities Children,"This is an untwinned and the NCA was notified in February 2012 that the WA OPDC would sponsor this project. O.L. of Miraculous Medal, St John the Apostle Parish",,USD,1600,1,1600,,1600,,,,
+846,20,,30/05/2011,Alternative Learning System of the Dept of Education,This is an untwinned and the NCA was notified in February 2012 that the Karratha Conference would sponsor this project. O.L. of the Globe conference. ,,USD,2200,1,2200,,2200,,,,
+847,20,,30/05/2011,Livelihood - boat for fishing,"Untwinned project, Victoria notified NCA in February 2012 of support. Holy Rosary Conference, Bongao",,USD,2400,1,2400,2400,0,1,27/04/2012,,12/07/2013
+848,20,,30/05/2011,Livelihood Skills Training,"Untwinned project from 2011; Christ the King Conference, University of Sta Isabel, Naga City",,USD,1500,1,1500,1500,0,1,30/04/2012,,
+849,20,,30/05/2011,Rent to own “Padyak”/Pedicab,Untwinned project from 2011; St Louise de Marillac School of Bulan,,USD,1600,1,1600,1600,0,1,30/04/2012,,
+850,20,,30/05/2011,Vincentian Tailoring Shop,"Untwinned project from 2011; San Lorenzo Ruiz  - National Shrine of the Divine Mercy, Sta Rosa I, Marilao, Bulacan",,USD,1600,1,1600,1600,0,1,30/04/2012,,
+851,20,,30/05/2011,Credit/Consumer Cooperative,"Untwinned Project from 2011; Our Lady’s Nativity, Calbayog City",,USD,1600,1,1600,1600,0,1,30/04/2012,,
+852,19,,,Youth Development Centre,"$12,000.00 for the Youth Development Centre; Victoria has started this project and it hasn’t gone through NC, which we are trying to rectify as at 160412 - KW",,AUD,12000,1,12000,36000,-24000,,,,
+853,15,441,15/06/2012,House Repair,"St Alphonsa (L) was previously twinned with St Lawrence but was untwinned in 2006 due to the 15 Yr Policy. Project Contact Information:CELIN THOMAS,
+                  MEPPADATHU HOUSE,
+                 16th MILE,
+                  P.O. PADINJARETHARA,
+                  WAYANAD,
+                  KERALA ,SOUTH INDIA,
+                  PIN  673575
+",P-89/11-12/MDY,INR,50000,57.2334,873.6157558,874,-0.384244165,1,29/10/2012,,
+854,15,5908,01/06/2012,Buffalo Distribution,"Given to St Columba, Elwood but picked up by Melbourne RC",,INR,50000,57.2334,873.6157558,874,-0.384244165,1,25/07/2013,,
+855,15,2217,15/06/2012,Self Help - Pig Distribution,,,INR,72000,57.2334,1258.006688,1258,0.006688402,1,29/10/2012,,
+856,15,6633,15/06/2012,Goat Scheme,,,INR,42800,57.2334,747.815087,,747.815087,,,,
+857,20,32,10/07/2012,Sewing Projects,,,PHP,27500,62.25,441.7670683,,441.7670683,,,,
+858,20,,15/07/2012,Backyard Poultry Raising,"Victoria requested to support this project in August 2012; it is for an untwinned conference, Sacred Heart of Jesus, San Isidro de Lipa. Victoria will notify which Australian conference will support this project.",,PHP,76000,42.9,1771.561772,1772,-0.438228438,1,29/10/2012,,
+859,20,,15/07/2012,Skills Training,"Victoria requested to support this project in August 2012; it is for an untwinned conference,  Blessed Rosalie Rendu, San Roque. Victoria will notify which Australian conference will support this project.",,PHP,70000,42.9,1631.701632,1632,-0.298368298,1,29/10/2012,,
+860,15,17020,15/07/2012,Goatery,,,INR,72000,57.2334,1258.006688,1258,0.006688402,1,26/04/2013,,
+861,20,17149,15/07/2012,Skills Training on Caregiving,,,PHP,90000,42.9,2097.902098,2098,-0.097902098,1,25/04/2014,,
+862,15,5534,15/07/2012,Computer Education,,P-91/11-12/VJP,INR,50000,57.2334,873.6157558,,873.6157558,1,20/06/2017,,
+863,15,80,15/07/2012,House Repairs,"Christ the King was previously twinned with St Agnes, Matraville",P-92/11-12/MDY,INR,50000,57.2334,873.6157558,,873.6157558,,,,
+864,15,16955,15/07/2012,Goat Distribution,,,INR,50000,57.2334,873.6157558,874,-0.384244165,1,26/04/2013,,
+865,15,6675,15/07/2012,Toilet Construction,,P-90/11-12/IDK,INR,40000,57.2334,698.8926047,699,-0.107395332,1,29/10/2012,,15/10/2015
+866,27,6725,15/02/2012,Latrine Project,,,USD,1600,1.0464,1529.051988,1529,0.051987768,1,29/10/2012,,
+867,27,16903,15/02/2012,House Repair Project,,,USD,2000,1.0464,1911.314985,1911,0.314984709,1,29/10/2012,,
+868,27,17157,15/07/2012,Soup Kitchen and Education,,,USD,1904,1.0464,1819.571865,1820,-0.428134557,1,26/04/2013,,
+869,27,17159,29/10/2012,Piglet Project,,,USD,1717.5,1.0464,1641.341743,1641,0.341743119,,,,
+870,15,16962,15/07/2012,Petty Business Loan,,,INR,60000,57.2334,1048.338907,1048,0.338907002,1,29/10/2012,,
+871,21,,15/07/2012,Oromosapuo Village Drinking Water,,,PNK,16007.97,2.175,7359.986207,,7359.986207,,,,
+872,21,,15/07/2012,Aberemuba Fishing Camp Drinking Water,,,PNK,8988.61,2.175,4132.694253,,4132.694253,,,,
+873,21,,18/07/2012,Base Community Youth Project - Chicken Project,Mt Hagen,,PNK,5192.6,3.12,1664.294872,,1664.294872,,,,
+874,27,17077,,Piglets and a House,Project A: Self sufficiency Piglet Project and Project B: House,,USD,1980,1.0464,1892.201835,,1892.201835,,,,
+875,15,17104,15/11/2012,Cattle Rearing,,P-12/12-13/MTZ,INR,40000,56.7281,705.1179222,705,0.117922159,1,26/04/2013,,
+876,15,157,15/11/2012,Tailoring Machines,,P-14/12-13/IRIN,INR,50000,56.7281,881.3974027,881,0.397402698,1,26/04/2013,,
+877,15,5906,15/11/2012,House Construction,,P-16/12-13/PAL,INR,50000,56.7281,881.3974027,881,0.397402698,1,26/04/2013,,
+878,15,6357,01/12/2012, Cow Bank,,P-52/12-13/MDY,INR,50000,56.7281,881.3974027,881,0.397402698,1,26/04/2013,,15/10/2014
+879,15,5920,01/12/2012,Computer Training,,P-57/12-13/MDY,INR,40000,56.7281,705.1179222,705,0.117922159,1,26/04/2013,,15/10/2014
+880,15,2210,01/12/2012,Animal Bank,,P-56/12-13/TVM,INR,40000,56.7281,705.1179222,705,0.117922159,1,26/04/2013,,
+881,15,340,01/12/2012,Goat Bank,,p-21/12-13/TVM,INR,50000,56.7281,881.3974027,881,0.397402698,1,26/04/2013,,15/10/2014
+882,15,5764,01/12/2012,Self Help,,P-54/12-13/NYA,INR,50000,56.7281,881.3974027,881,0.397402698,1,25/07/2013,,15/12/2016
+883,15,17107,01/12/2012,Housing,,P-17/12-13/MTZ,INR,40000,56.7281,705.1179222,705,0.117922159,1,26/04/2013,,
+884,15,2609,01/12/2012,Self Employment,,P-19/12-13/KOPM,INR,40000,56.7281,705.1179222,705,0.117922159,1,26/04/2013,,01/06/2014
+885,15,187,01/12/2012,Fish Vending,,P-22/12-13/TVM,INR,40000,56.7281,705.1179222,820,-114.8820778,1,26/04/2013,,01/06/2014
+886,15,1719,01/12/2012,House Repairs,,P-43/12-13/TCR,INR,50000,56.7281,881.3974027,881,0.397402698,1,26/04/2013,,
+887,15,149,01/12/2012,Self Help,,P-44/12-13/NYA,INR,50000,56.7281,881.3974027,881,0.397402698,1,26/04/2013,,
+888,15,683,01/12/2012,Sewing Machine Project,,P-45/12-13/VPY,INR,46500,56.7281,819.6995845,820,-0.300415491,1,26/04/2013,,
+889,15,2361,01/12/2012,House Repairs,,P-50/12-13/PAL,INR,40000,56.7281,705.1179222,705,0.117922159,1,26/04/2013,,
+890,15,6665,01/12/2012,Sewing Machine Project,,P-51/12-13/KHM,INR,40000,56.7281,705.1179222,705,0.117922159,1,26/04/2013,,01/06/2014
+891,15,424,01/12/2012,Roof Changing,,P-55/12-13/TVM,INR,40000,56.7281,705.1179222,,705.1179222,,,,
+892,15,6070,01/12/2012,Housing,,P-53/12/-13/KTM,INR,60000,56.7281,1057.676883,1058,-0.323116762,1,26/04/2013,,15/10/2014
+893,15,432,01/12/2012,Self Help,,P-46/12-13/TVM,INR,40000,56.7281,705.1179222,705,0.117922159,1,26/04/2013,,
+894,15,480,01/12/2012,Goat Project,,P-47/12-13/VJP,INR,50000,56.7281,881.3974027,881,0.397402698,1,26/04/2013,,
+895,15,2367,01/12/2012,Cow Bank,,P-48/12-13/TVM,INR,40000,56.7281,705.1179222,705,0.117922159,1,26/04/2013,,15/12/2016
+896,15,2435,01/12/2012,Goat Project,,P-49/12-13/TEL,INR,42800,56.7281,754.4761767,745,9.47617671,1,24/01/2014,,15/02/2015
+897,15,780,01/12/2012,Mobile Medical Unit,,P-23/12-13/CHN,INR,95000,56.7281,1674.655065,1675,-0.344934874,1,24/01/2014,,15/02/2015
+898,15,2631,01/12/2012,House Repair,,P-20/12-13/TCR,INR,50000,56.7281,881.3974027,881,0.397402698,1,26/04/2013,,
+899,15,989,01/12/2012,Rabbit Bank,,P-18/12-13/PALA,INR,36000,56.7281,634.6061299,635,-0.393870057,1,26/04/2013,,
+900,15,448,01/12/2012,Tailoring Unit,,P-13/12-13/VJP,INR,50000,56.7281,881.3974027,881,0.397402698,1,26/04/2013,,
+901,15,16939,01/12/2012,Calf Rearing,,P-15/12-13/TEL,INR,49000,56.7281,863.7694546,864,-0.230545356,1,26/04/2013,,
+902,15,1302,30/01/2013,Cow Bank,St Lourdu SRN: 1302 surrendered Twinning in March 2008,P-7/SAL/TN/2013,INR,50000,55.93,893.9746111,894,-0.025388879,1,26/04/2013,,
+903,15,6290,30/01/2013,Milk Animal Project,,P-5/DHAR/TN/13,INR,50000,55.93,893.9746111,894,-0.025388879,1,25/07/2013,,
+904,15,2611,30/01/2013,Milk Animals,,P-4/DHAR/TN/2013,INR,50000,55.93,893.9746111,894,-0.025388879,1,24/10/2013,,
+905,15,17078,30/01/2013,Self Help Project,,P-1/SRI/AP/2013,INR,60000,55.93,1072.769533,1073,-0.230466655,1,26/04/2013,,
+906,15,16971,30/01/2013,Cow Project,,P-72/12-13/MDY,INR,50000,55.93,893.9746111,894,-0.025388879,1,24/10/2013,,
+907,15,499,30/01/2013,Sewing Machines,,P-69/12-13/TVM,INR,50000,55.93,893.9746111,894,-0.025388879,1,26/04/2013,,15/12/2016
+908,15,332,30/01/2013,Goat Project,,P-65/12-13/TVM,INR,40000,55.93,715.1796889,715,0.179688897,1,26/04/2013,,
+909,15,1742,30/01/2013,House Maintenance Project,,P-60/12-13/TVM,INR,45000,55.93,804.57715,805,-0.422849991,1,26/04/2013,,15/12/2016
+910,15,2387,30/01/2013,Milking Cow Project,,P-3/THAN/TN/2013,INR,60000,55.93,1072.769533,1073,-0.230466655,1,25/07/2013,,
+911,15,1256,30/01/2013,Toilet Construction,,P-63/12-13/TVM,INR,40000,55.93,715.1796889,715,0.179688897,1,25/07/2013,,
+912,15,1867,30/01/2013,Goat Bank,,P-61/12-13/MDY,INR,40000,55.93,715.1796889,715,0.179688897,1,24/10/2013,,
+913,15,6585,30/01/2013,Loan Scheme Project,,P-58/12/13/TCR,INR,45000,55.93,804.57715,805,-0.422849991,1,26/04/2013,,
+914,15,17096,30/01/2013,Cow Bank,,P-6/SAL/TN/2013,INR,60000,55.93,1072.769533,1073,-0.230466655,1,25/07/2013,,
+915,15,2584,30/01/2013,Cow Bank Project,,P-5/SAL/TN/2013,INR,50000,55.93,893.9746111,894,-0.025388879,1,25/04/2014,,
+916,15,17122,30/01/2013,Medical Camp,,P-3/THUCK/TN/2013,INR,60000,55.93,1072.769533,,1072.769533,1,20/06/2017,,
+917,15,5770,30/01/2013,Self Help Projects,,P-2/THUCK/TN/2013,INR,60000,55.93,1072.769533,1073,-0.230466655,1,25/07/2013,,
+918,15,6717,30/01/2013,Cow Bank,,P-73/12-13/MDY,INR,50000,55.93,893.9746111,894,-0.025388879,1,25/07/2013,,
+919,15,6465,30/01/2013,House Repairing,,P-71/12-13/MDY,INR,50000,55.93,893.9746111,894,-0.025388879,1,25/07/2013,,
+920,15,343,30/01/2013,House Repairing,"SRN: 343 was previously twinned with Mount Carmel, Hilton",P-67/12-13/TVM,INR,45000,55.93,804.57715,805,-0.422849991,1,26/04/2013,,15/02/2015
+921,15,1533,30/01/2013,Housing Project,"SRN: 1533 was previously twinned with St Bernadette, Carlton",P-62/12-13/KTM,INR,48000,55.93,858.2156267,,858.2156267,,,,
+922,15,520,30/01/2013,Tailoring Unit,"SRN: 520 was previously twinned with Corpus Christi, St Ives",P-59/12-13/VJP,INR,50000,55.93,893.9746111,894,-0.025388879,1,25/07/2013,,
+923,27,17157,01/04/2013,Soup Kitchen,,,USD,1904,1,1904,1904,0,1,25/07/2013,,
+924,27,16901,01/04/2013,School Boats,,,USD,2080,1,2080,2080,0,1,25/07/2013,,
+925,27,6722,01/04/2013,Second Hand Clothes Shop,,,USD,1073,1,1073,1073,0,1,25/07/2013,,
+926,27,6725,01/04/2013,Peace Family Workshop,"Given to Infant Jesus, Morley/Dianella but taken up by St Thomas the Apostle, Claremont",,USD,2000,1,2000,2000,0,1,25/07/2013,,
+927,27,17077,01/04/2013,Chicken Project and Housing Project,,,USD,1311.5,1,1311.5,1312,-0.5,1,24/10/2013,,
+928,18,1406,02/04/2013,Medical Clinic,,03/2013,AUD,1500,1,1500,1500,0,1,25/07/2013,,19/01/2015
+929,18,521,02/04/2013,Betal Nut and Bananas Project,,07/2012,AUD,2500,1,2500,2000,500,1,25/07/2013,,
+930,18,,02/04/2013,Revolving Crop Project,"Please note that this is a special, Untwinned Project, if Victoria do not wish to support it then we can offer this Project out to other states. The Diocese is Mawlamyine Diocese and the church is St Joseph’s, Palaw.",02/2013,AUD,3000,1,3000,2000,1000,1,25/07/2013,,
+931,18,6395,02/04/2013,Tailoring Shop,,01/2013,AUD,2500,1,2500,2000,500,1,25/07/2013,,
+932,18,,02/04/2013,Bee Keeping Training,"This appears to be a SSVP Myanmar National Council Project. If Victoria do not wish to support this project it can be offered out to other states.
+Completion report received 23/05/2017",01/2012,AUD,3000,1,3000,2000,1000,,,,
+933,18,6360,02/04/2013,Two Farmers Agricultural Project,"Please note that this project is for a farmer in Sacred Heart Conference and the Untwinned Conference of Our Lady of Lourdes in Thinganai Village. St Kevin, Ormond may only wish to support the one farmer from their Twinned Conference. ",08/2012,AUD,3000,1,3000,2000,1000,1,25/07/2013,,
+934,18,17262,02/04/2013,Eggplant Farm,,02/2012,AUD,2500,1,2500,2000,500,1,25/07/2013,,
+935,18,,02/04/2013,Agriculture Project,This appears to be a Special Untwinned Project for St Theresa Conference in Chin State in the township of Min-Dat.,06/2012,AUD,2500,1,2500,2000,500,1,25/07/2013,,
+936,18,17133,02/04/2013,Sewing Shop,,09/2012,AUD,2500,1,2500,2500,0,1,25/07/2013,,
+937,18,,02/04/2013,Buying and Selling Rice,"This project appears to be a Special, Untwinned project for St Joseph Conference, Southern Shan State, Lashio Diocese.",03/2012,AUD,3000,1,3000,2000,1000,1,25/07/2013,,
+938,18,16858,02/04/2013,Milk Cow Project,,05/2012,AUD,3000,1,3000,2000,1000,1,24/10/2013,,
+939,15,2379,19/04/2013,Roof Changing,,p-14/13-14/NYA,INR,50000,55.5536,900.0316811,900,0.031681115,1,25/07/2013,,
+940,15,6268,19/04/2013,Goat Project,,P-15/13-14/NYA,INR,50000,55.5536,900.0316811,900,0.031681115,1,25/07/2013,,
+941,15,2507,19/04/2013,Sewing Machine Project,,P-19/13-14/TCR,INR,48000,55.5536,864.0304139,864,0.030413871,1,25/07/2013,,15/02/2015
+942,15,6582,19/04/2013,Goat Bank,,P-20/13-14/TVM(M),INR,50000,55.5536,900.0316811,900,0.031681115,1,25/07/2013,,
+943,15,6652,19/04/2013,Goat Bank,,P-22/13-14/KNR,INR,50000,55.5536,900.0316811,900,0.031681115,1,25/07/2013,,
+944,15,1216,19/04/2013,Self Help Project,,P-26/13-14/TVM (L),INR,40000,55.5536,720.0253449,720,0.025344892,1,25/07/2013,,15/12/2016
+945,15,203,19/04/2013,Fish Vending,,P-25/13-14/TVM(L),INR,45000,55.5536,810.028513,810,0.028513004,1,25/07/2013,,15/02/2015
+946,15,419,19/04/2013,Fish Vending,,P-21/13-14/TVM (L),INR,45000,55.5536,810.028513,810,0.028513004,1,25/07/2013,,
+947,15,6660,19/04/2013,Fish Vending,,P-17/13-14/TVM (L),INR,45000,55.5536,810.028513,810,0.028513004,1,25/07/2013,,
+948,15,1613,19/04/2013,Goat Bank,,P-23/13-14/TVM (M),INR,50000,55.5536,900.0316811,900,0.031681115,1,25/07/2013,,
+949,22,17176,10/07/2013,Second Water Tank,,,AUD,883.75,1,883.75,884,-0.25,1,25/07/2013,,
+950,20,2068,30/06/2013,Education Program - ALS and Deaf Literacy,,,PHP,200000,40.1211,4984.90819,5000,-15.09180955,1,24/10/2013,,
+951,20,17201,30/06/2013,Medical/Dental Clinic Renovation,,,PHP,160000,39.38,4062.97613,4063,-0.023869985,1,25/07/2013,,
+952,14,1407,03/09/2013,Balcony Renovation at Father Law Home,Requested by John O’Brien to apply the $5000.00AUD donation.,,AUD,5000,1,5000,,5000,,,,
+953,15,1212,15/11/2013,Agricultural Revolving Fund Project,Lourde Matha Conference was Twinned with Star of the Sea in WA now in recess. Lourde Matha was surrendered by India due to  15 yr Twinning Policy in 2008. ,P-66/13-14,INR,40000,56.5111,707.8255422,708,-0.174457761,1,24/01/2014,,
+954,15,17002,15/11/2013,Cot Distribution,,P-68/13-14,INR,40000,56.5111,707.8255422,,707.8255422,,,,
+955,15,2565,15/11/2013,Business: Hiring of Furniture and Cooking Vessels,,P-01/THAN/TN/13,INR,47000,56.5111,831.6950121,,831.6950121,,,,
+956,15,1816,15/11/2013,Cattle Rearing,,P-47/13-14/AL,INR,60000,56.5111,1061.738313,1062,-0.261686642,1,25/04/2014,,
+957,15,1879,15/11/2013,Sewing Machine Distribution,,P-51/13-14/PNR,INR,55000,56.5111,973.2601206,973,0.260120578,1,25/04/2014,,15/02/2015
+958,15,461,15/11/2013,Poultry Farm,"27/08/09 India sent through a surrender against 15yr policy. Was twinned with ASRN: 461 St Brigid, Mordialloc",P-52/13-14/PNR,INR,40000,56.5111,707.8255422,708,-0.174457761,1,25/04/2014,,15/02/2015
+959,15,1903,15/11/2013,Cow/Goat Banks and Petty Shops,Was twinned with 1903 who surrendered 15 yr policy,P-02/PMK/TN/13,INR,60000,56.5111,1061.738313,1062,-0.261686642,1,25/04/2014,,
+960,15,1200,15/11/2013,Sewing Machine Project,,P-63/13-14,INR,45000,56.5111,796.303735,796,0.303735018,1,25/04/2014,,15/12/2016
+961,15,2363,15/12/2013,Fish Vending,,P-64/13-14,INR,40000,56.5111,707.8255422,708,-0.174457761,1,25/04/2014,,15/02/2015
+962,15,2364,15/11/2013,Fish Vending,,P-60/13-14/TVM (L),INR,40000,56.5111,707.8255422,708,-0.174457761,1,25/04/2014,,
+963,15,16825,15/11/2013,Self Help Revolving Project,,P-03/SVGA/TN/13,INR,60000,56.5111,1061.738313,1062,-0.261686642,1,27/08/2015,,
+964,15,6682,15/11/2013,Self Help Revolving Project,,P-04/PMK/TN/13,INR,50000,56.5111,884.7819278,885,-0.218072202,1,25/04/2014,,
+965,15,1947,15/11/2013,Community House Repairing,"St George, Kallody was previously Twinned with St Nicholas, Tamworth",P-48/13-14/MTDY,INR,60000,56.5111,1061.738313,1062,-0.261686642,1,25/07/2014,,
+966,15,144,15/11/2013,Fish Vending,,P-53/13-14/TVM,INR,45000,56.5111,796.303735,,796.303735,,,,
+967,15,17188,15/12/2013,Cycle Project,,P-1/AHM/WR/2013,INR,30000,56.5111,530.8691567,531,-0.130843321,1,25/04/2014,,
+968,15,16822,15/12/2013,Buffalo Project,,P-2/AHM/WR/2013,INR,40000,56.5111,707.8255422,708,-0.174457761,1,24/01/2014,,
+969,15,1839,15/12/2013,Rickshaws Project,,P-1/CAL/NE/2013,INR,90000,56.5111,1592.60747,1593,-0.392529963,1,25/04/2014,,
+970,15,17121,15/12/2013,Tailoring Project,,p-1/CUD/AP/2013,INR,60000,56.5111,1061.738313,1062,-0.261686642,1,25/04/2014,,
+971,15,17042,15/12/2013,Goat Project,,P-2/CUD/AP/2013,INR,60000,56.5111,1061.738313,1062,-0.261686642,1,25/04/2014,,
+972,15,139,17/12/2013,Fish Vending,,P-88/13-14,INR,50000,56.5111,884.7819278,885,-0.218072202,1,24/10/2014,,
+973,27,17038,21/03/2014,Latrine Project,,,USD,1055,0.928563,1136.164159,1136,0.164159029,1,25/04/2014,,
+974,15,1957,01/06/2014,Petty Businesses,"Sent out to St Mary, Mooroopna but picked up by Corangamite RC",p-8/14-15,INR,50000,56.2321,889.1718431,889,0.171843129,1,24/10/2014,,
+975,15,1628,01/06/2014,Computer Education Centre,,P-91/13-14,INR,50000,56.2321,889.1718431,889,0.171843129,1,24/10/2014,,
+976,15,17269,01/06/2014,Goat Bank,,P-7/14-15,INR,40000,56.2321,711.3374745,711,0.337474503,1,24/10/2014,,
+977,15,6667,01/06/2014,Table and Chair Distribution,,P-72/13-14,INR,25000,56.2321,444.5859216,,444.5859216,,,,
+978,15,6206,01/06/2014,Vending and Petty Shop Projects,,P-9/14-15,INR,50000,56.2321,889.1718431,,889.1718431,,,,
+979,15,17106,01/06/2014,Cow Bank ,,P-5/14-15,INR,40000,56.2321,711.3374745,711,0.337474503,1,24/10/2014,,
+980,15,140,01/06/2014,Fish Vending,"St Catherine, Eraviputhenthurai was untwinned from St Catherine, Mansfield in 1994 but they are still active and this projects was approved and sent by the National Council of India.",P-13/14-15,INR,50000,56.2321,889.1718431,889,0.171843129,1,30/01/2015,,
+981,15,191,01/06/2014,Self Help for Petty Businesses,,P-10/14-15,INR,50000,56.2321,889.1718431,889,0.171843129,1,24/10/2014,,
+982,15,17101,01/06/2014,Fish Vending,,P-11/14-15,INR,45000,56.2321,800.2546588,,800.2546588,,,,
+983,15,763,01/06/2014,Revolving Fund for Agriculture,"St Mary (L) SNR 763 was surrendered in 2004 due to the 15 year Twinning Policy and replaced by SRN 6480. The Conference is still active, though, and in need of help with this project.",P-92/13-14,INR,60000,56.2321,1067.006212,1067,0.006211754,1,27/08/2015,,
+984,23,851,01/06/2014,Organic Fertilizer Project,,P-4/2014,BAHT,60000,30,2000,2000,0,1,24/10/2014,,29/07/2016
+985,23,6415,01/06/2014,Pig Farming Project,,P-5/2014,BAHT,50000,30,1666.666667,1667,-0.333333333,1,25/07/2014,,29/07/2016
+986,23,2645,01/06/2014,Corn Growing and Pig Farming,,P-3/2014,BAHT,60000,30,2000,2000,0,1,24/10/2014,,29/07/2016
+987,23,566,01/06/2014,Food support for Hill Tribe Students,,P-1/2014,BAHT,40000,30,1333.333333,1333,0.333333333,1,24/10/2014,,24/06/2016
+988,15,,01/07/2014,Tiffin & Tea Centre on Wheels,"This project, for Mary Help of Christians Conference Podili (Untwinned) is dated 29/11/13 and reached us in January but needed more signatures and has now come back to be sent out to an Australian Conference. Please let us know which South Australian Conference takes up this project.",P-11/NEL/AP/13,INR,20000,56.2321,355.6687373,356,-0.331262749,1,25/07/2014,,
+989,15,,01/07/2014,Tiffin & Tea Centre on Wheels,"This project, for St Joseph’s Conference Mangapuram(Untwinned) is dated 29/11/13 and reached us in January but needed more signatures and has now come back to be sent out to an Australian Conference. Please let us know which South Australian Conference takes up this project.",P-10/NEL/AP/13,INR,20000,56.2321,355.6687373,356,-0.331262749,1,25/07/2014,,
+990,15,,01/07/2014,Tailoring Centre,"This project, for Our Lady of Good Health Conference Pullayapalli(Untwinned) is dated 29/11/13 and reached us in January but needed more signatures and has now come back to be sent out to an Australian Conference. Please let us know which South Australian Conference takes up this project.",P-12/NEL/AP/13,INR,20000,56.2321,355.6687373,356,-0.331262749,1,25/07/2014,,
+991,15,1731,01/11/2014,Goat Supply,"Please advise who will be taking up this project. St Francis Xavier is a surrendered Twin who gave up their Twinning in 2003 to another needy Conference, SRN 6260 St Xavier Ladies now Twinned with O.L. of Good Counsel, Innisfail. They may wish to support this project. ",P-41/14-15,INR,50000,53.4303,935.7986012,,935.7986012,,,,
+993,27,6725,24/11/2014,Peace Family Workshop,,,USD,1734.8,0.867245,2000.357454,1000,1000.357454,1,30/01/2015,,
+994,27,17038,24/11/2014,Latrine Project,,,USD,1496,0.867245,1725.002739,1725,0.002738557,1,30/01/2015,,
+995,19,,01/11/2014,Community Development Building Project,Paid in Q4 14 before project paperwork was received. Through Fr. Robert to St Elizabeth Hospital; last one for housing projects,,AUD,45300,1,45300,51430,-6130,1,27/10/2014,,
+996,17,,25/11/2014,Ozanam Office Centre for Conferences in Kiribati,,,AUD,15925,1,15925,15925,0,1,30/01/2015,,
+997,26,,03/12/2014,Drinking Water Project,,,AUD,9729,1,9729,9729,0,1,30/01/2015,,16/09/2015
+998,15,1740,15/02/2015,Goat Bank,,P-52/14-15,INR,50000,48.9099,1022.287921,,1022.287921,,,,
+999,15,1519,15/02/2015,Computer Project,,P-69/14-15,INR,50000,48.9099,1022.287921,1022,0.287921259,1,27/08/2015,,15/12/2016
+1000,15,696,15/2/0105,Cow Bank,,P-67/14-15,INR,50000,48.9099,1022.287921,1022,0.287921259,1,27/08/2015,,15/12/2016
+1001,15,16816,15/02/2015,Self Help,,P-71/14-15,INR,50000,48.9099,1022.287921,1022,0.287921259,1,27/08/2015,,15/12/2016
+1002,18,,01/03/2015,Water Piping Project,"St John Conference, Mrs Rose Mary, Tan Taung Gyi Town, Karen State Myanmar, Not Twinned - South Australia will support this project. Donor to be confirmed. ",,MMK,1644688,822.34,2000.009728,,2000.009728,,,,
+1003,23,850,15/04/2015,Vegetable Growing - Agricultural/Development,,P-06/2015,BAHT,30000,29.99,1000.333444,1000,0.333444481,1,31/07/2015,,29/07/2016
+1004,23,6737,15/04/2015,Cow Farming - Agricultural/Development,,P-2/2015,BAHT,55000,29.99,1833.944648,1834,-0.055351784,1,31/07/2015,,29/07/2016
+1005,23,6737,15/04/2015,Cow Farming - Agricultural/Development,This is 1 of 2 Cow Farming Projects for Holy Family Conference,P-03/2015,BAHT,55000,29.99,1833.944648,1834,-0.055351784,1,31/07/2015,,29/07/2016
+1006,23,566,15/04/2015,Food support for Hill Tribe Students - Welfare Project,,P-04/2015,BAHT,40000,29.99,1333.777926,1334,-0.222074025,1,31/07/2015,,29/07/2016
+1007,27,17077,01/05/2015,Latrines Project,,,USD,1810,0.78,2320.512821,,2320.512821,1,24/11/2015,,27/07/2017
+1008,27,6725,01/05/2015,Pump Well for Villagers,,,USD,1300,0.77,1688.311688,1688,0.311688312,1,24/11/2015,,01/08/2016
+1009,27,17038,01/05/2015,Well for Villagers,,,USD,1600,0.77,2077.922078,,2077.922078,,,,
+1010,27,6727,01/05/2015,Latrines Project,,,USD,1704,0.772,2207.253886,,2207.253886,,,,
+1011,27,,01/05/2015,Build a Classroom,This is an untwinned project for Andong Chroh Catholic Child Care Centre. This project is being sent to WA because Conferences from WA support he Andong Chroh Catholic Child Care Centre. ,,USD,1800,0.772,2331.606218,1332,999.6062176,1,29/01/2016,,
+1012,27,,01/05/2015,Latrine Project,This is an untwinned project agreed to be supported by SA with thanks.,,USD,1597,0.772,2068.65285,,2068.65285,,,,
+1013,27,,01/05/2015,Build a Washbasin for Students,This is an untwinned project agreed to be supported by SA with thanks.,,USD,337,0.772,436.5284974,,436.5284974,,,,
+1014,23,,01/05/2015,Pig Farming,This is an untwinned project agreed to be supported by SA with thanks.,P-1/2015,BAHT,38500,28.99,1328.044153,1328,0.044153156,1,31/07/2015,,29/07/2016
+1015,23,,01/05/2015,Food Support for Handicapped Children,This is an untwinned project agreed to be supported by SA with thanks.,P-5/2015,BAHT,30000,29.99,1000.333444,1000,0.333444481,1,31/07/2015,,29/07/2016
+1016,31,,15/04/2015,Light up a Life Project,There are 130 houses that need electricity and SA OPDC is able to support 24 to the value of $6000.00 AUD,,LKR,32500,1,32500,28900,3600,,,,
+1017,14,1407,24/03/2015,Fr Law Home Water Tank Project,Victoria were looking at supporting this project in 2015 but didn’t and then it went to it’s Twin for consideration and was supported over a year later.,,AUD,5600,1,5600,5600,0,1,27/05/2016,,
+1018,19,,01/07/2015,Pakistan Literacy 14-15,This project was restarted mid-2015 and paid with funds that had been held from various states at National Council. Details are 6 teachers paid $127AUD per month for 1 year.,,AUD,9144,1,9144,,9144,,,,
+1019,15,6196,20/10/2015,Sewing Machine Project,,P1-V12/AP/2015-16,INR,55000,47.1388,1166.767079,1167,-0.232920651,1,29/01/2016,,
+1020,15,6267,20/10/2015,Self Help (Petty Businesses) Project,, P-107/14-15,INR,50000,47.1388,1060.697345,1061,-0.302655138,1,27/05/2016,,
+1021,15,17105,20/10/2015,Milk Cattle Project,,P-2/GNT/AP/15-16,INR,60000,47.1388,1272.836814,1273,-0.163186165,1,27/05/2016,,
+1022,15,17023,20/10/2015,Milk Cattle Project,,P-5/GNT/AP/15-16,INR,60000,47.1388,1272.836814,1273,-0.163186165,1,27/05/2016,,
+1023,15,17246,20/10/2015,Petty Footpath Businesses,,P-2/V12/AP/15-16,INR,55000,47.1388,1166.767079,1167,-0.232920651,1,29/01/2016,,
+1024,15,17205,20/10/2015,Self Help Project,,P-2/NK/KR/15-16,INR,50000,47.1388,1060.697345,1061,-0.302655138,1,27/05/2016,,
+1025,15,6270,20/10/2015,Self Help Project,,P-4/NK/KR/15-16,INR,50000,47.1388,1060.697345,1061,-0.302655138,1,29/01/2016,,
+1026,15,192,,Tailoring,"St Anthony SRN: 192 was once Twinned with St Mary, Maffra but India sent a replacement SRN: 2472 in August 2000",P-5/TM(L)/KR/15-16,INR,45000,47.1388,954.6276104,955,-0.372389624,1,27/05/2016,,
+1027,31,17241,20/10/2015,Pre-school Needs Project,,,LKR,220000,101.9,2158.979392,2159,-0.02060844,1,27/05/2016,,
+1028,15,16821,20/10/2015,Handcart Project,,P-2/AHM/WR/15-16,INR,45000,47.1388,954.6276104,955,-0.372389624,1,29/01/2016,,12/09/2016
+1029,15,17046,20/10/2015,Bicycle Project,,P-3/GNT/AP/15-16,INR,60000,47.1388,1272.836814,,1272.836814,,,,
+1030,15,17130,20/10/2015,Sheep Rearing Project,,P-4/GNT/AP/15-16,INR,62500,47.1388,1325.871681,,1325.871681,,,,
+1031,15,16967,20/10/2015,Sewing Machine Project,,P-1/AHM/WR/15-16,INR,40000,47.1388,848.5578759,849,-0.44212411,1,29/01/2016,,
+1032,15,1259,20/10/2015,Sewing Machine Project,"St Paul (M) SRN: 1259 was Twinned with St Peter, Rockhampton but India sent through replacement SRN: 5758 in April 2000",P-8/KP/KR/15-16,INR,90000,47.1388,1909.255221,1909,0.255220752,1,29/01/2016,,
+1033,15,17257,20/10/2015,Mineral Water Plant Project,,P-1/GNT/AP/15-16,INR,95000,47.1388,2015.324955,,2015.324955,,,,
+1034,15,16812,20/10/2015,Self Help,,P-105/14-15,INR,50000,47.1388,1060.697345,1061,-0.302655138,1,29/01/2016,,
+1035,15,1184,20/10/2015,Vegetable Vending Project,,P-5/NEL/AP/15-16,INR,65000,47.1388,1378.906548,1379,-0.093451679,1,27/05/2016,,
+1036,15,5763,20/10/2015,Tailoring Project,,P-4/NEL/AP/15-16,INR,58000,47.1388,1230.40892,1230,0.40892004,1,29/01/2016,,
+1037,15,1970,20/10/2015,Tiffen/Snack Centre on Wheels,,P-3/NEL/AP/15-16,INR,60000,47.1388,1272.836814,1273,-0.163186165,1,29/01/2016,,
+1038,15,668,20/10/2015,Tailoring Project,,P-2/NEL/AP/15-16,INR,58000,47.1388,1230.40892,,1230.40892,,,,
+1039,15,1919,20/10/2015,Tiffen/Snack Centre on Wheels,,P-1/NEL/AP/2015,INR,60000,47.1388,1272.836814,1273,-0.163186165,1,29/01/2016,,
+1040,15,17196,20/10/2015,Self  Help,,P-1/NK/KR/15-16,INR,55000,47.1388,1166.767079,1167,-0.232920651,1,29/01/2016,,
+1041,15,16815,20/10/2015,Goat Project,,P-3/NK/KR/15-16,INR,50000,47.1388,1060.697345,1061,-0.302655138,1,29/01/2016,,
+1042,15,1830,20/10/2015,Education Equipment Project,,P-9/IR/KR/15-16,INR,75000,47.1388,1591.046017,1591,0.046017294,1,27/05/2016,,16/10/2017
+1043,26,6698,15/05/2016,Awareness and Safety Training Project,,,BDT,119000,60,1983.333333,,1983.333333,,,,
+1044,26,6700,15/05/2016,Fishing Project,,,BDT,117000,60,1950,,1950,,,,
+1045,26,6696,15/05/2016,Agricultural Tool Project,,,BDT,112000,60,1866.666667,,1866.666667,,,,
+1046,26,6648,23/05/2016,Cow & Milk Project,,,BDT,110000,60,1833.333333,,1833.333333,,,,
+1047,26,6646,23/05/2016,Tea Stall Project,,,BDT,115000,60,1916.666667,1917,-0.333333333,1,30/08/2016,,
+1048,26,16828,23/05/2016,Rickshaw Pulling Project,,,BDT,117000,60,1950,1950,0,1,30/08/2016,,
+1049,15,,25/06/2016,SSVP Medical Dispensary Building Shillong,"*This is a special project, untwinned and managed through the Shillong Central Council.
+
+*Please confirm if the Regional Council is supporting this project of if the VODC is supporting. Thank you, Kim 04/07/16",,INR,2700000,50.15,53838.48455,53838,0.484546361,1,30/08/2016,,
+1050,15,17029,15/07/2016,Sheep Bank Project,,P1/GNT/AP/2016-17,INR,60000,50.15,1196.410768,1196,0.410767697,1,27/10/2016,,
+1051,15,17136,15/07/2016,Milk Cattle Project,,P4/GNT/AP/2016-17,INR,65000,50.15,1296.111665,1296,0.111665005,1,27/10/2016,,
+1052,15,407,15/07/2016,Sewing Machine Project,"Surrendered against 15 Years Policy by India in April 2008  - KW
+Previous Twin was St Martin of Tours, Macleod",,INR,46500,50.15,927.218345,927,0.218344965,1,27/10/2016,,
+1053,15,17256,15/07/2016,Milk Cattle Project,"$1,100 paid Q3 17",P3/GNT/AP/2016-17,INR,65000,50.15,1296.111665,,1296.111665,1,14/08/2017,,
+1054,23,832,15/07/2016,Siam Tulip Production Project,,,AUD,2000,1,2000,,2000,,,,
+1055,23,832,15/07/2016,Fern Leaves Drying House Project,,,AUD,1885,1,1885,,1885,,,,
+1056,23,566,15/07/2016,Food Support for Hill Tribe Children,,,AUD,1715,1,1715,,1715,,,,
+1057,15,16993,15/07/2016,Sheep Bank Project,,P2/GNT/AP/2016-17,INR,65000,50.15,1296.111665,1296,0.111665005,1,30/08/2016,,
+1058,19,,15/10/2016,Pakistan Literacy Project 16-17 ,"Please consider support for this one teacher’s salary for one year. This is her second year participating in the Pakistan Literacy Program. 
+
+Notify Kimberly Watson, kimw@svdp.org.au, with donor Conference information.",Magdaline Buta,AUD,1525,1,1525,,1525,,,,
+1059,19,,15/10/2016,Pakistan Literacy Project 16-17 ,"Please consider support for this one teacher’s salary for one year. This is her first year participating in the Pakistan Literacy Program. 
+
+Notify Kimberly Watson, kimw@svdp.org.au, with donor Conference information.",Mrs. Asia Paul,AUD,1525,1,1525,,1525,,,,
+1060,19,,15/10/2016,Pakistan Literacy Project 16-17 ,"Please consider support for this one teacher’s salary for one year. This is her second year participating in the Pakistan Literacy Program. 
+
+Notify Kimberly Watson, kimw@svdp.org.au, with donor Conference information.",Farwat Nemat,AUD,1525,1,1525,,1525,,,,
+1061,19,,15/10/2016,Pakistan Literacy Project 16-17 ,"Please consider support for this one teacher’s salary for one year. This is his first year participating in the Pakistan Literacy Program. 
+
+Notify Kimberly Watson, kimw@svdp.org.au, with donor Conference information.",Mr. Fahim Barkat,AUD,1525,1,1525,,1525,,,,
+1062,19,,15/10/2016,Pakistan Literacy Project 16-17 ,"Please consider support for this one teacher’s salary for one year. This is her first year participating in the Pakistan Literacy Program. 
+
+Notify Kimberly Watson, kimw@svdp.org.au, with donor Conference information.",Samina Ashraf,AUD,1525,1,1525,,1525,1,20/06/2017,,
+1063,19,,15/10/2016,Pakistan Literacy Project 16-17 ,"Please consider support for this one teacher’s salary for one year. This is her second year participating in the Pakistan Literacy Program. 
+
+Notify Kimberly Watson, kimw@svdp.org.au, with donor Conference information.",Suneela Rahat Gill,AUD,1525,1,1525,,1525,1,20/06/2017,,
+1064,31,,30/09/2016,Livelihood Projects,"This project is through the Trincomalee Diocesan Council. Please notify Overseas Admin - overseasadmin@svdp.org.au, with the donor Conference details.",Untwinned,AUD,1892,1,1892,,1892,1,20/06/2017,,
+1065,31,,30/09/2016,Poultry Farming Project,"This project is through the Ratnapura Diocesan Council. Please notify Kimberly Watson, kimw@svdp.org.au, with the donor Conference details.",Untwinned,AUD,2271,1,2271,,2271,1,20/06/2017,,
+1066,31,,30/09/2016,Electricity Project,"This project is through the Colombo Archdiocese. Please notify Kimberly Watson, kimw@svdp.org.au, with the donor Conference details.",Untwinned,AUD,1982,1,1982,,1982,,,,
+1067,31,,30/09/2016,Garment Industry/Sewing Machine Project,"This project is through the Kandy Diocesan Council. Please notify Kimberly Watson, kimw@svdp.org.au, with the donor Conference details.",Untwinned,AUD,1847,1,1847,,1847,,,,
+1068,19,,15/10/2016,Pakistan Literacy Project 16-17 ,"Please consider support for this one teacher’s salary for one year. This is his second year participating in the Pakistan Literacy Program. 
+
+Notify Kimberly Watson, kimw@svdp.org.au, with donor Conference information.",Mr. Imran Masih,AUD,1525,1,1525,,1525,,,,
+1069,19,,15/10/2016,Pakistan Literacy Project 16-17 ,"Please consider support for this one teacher’s salary for one year. This is her first year participating in the Pakistan Literacy Program. 
+
+Notify Kimberly Watson, kimw@svdp.org.au, with donor Conference information.",Precis Rose,AUD,1525,1,1525,,1525,,,,
+1070,19,,15/10/2016,Pakistan Literacy Project 16-17 ,"Please consider support for this one teacher’s salary for one year. This is her second year participating in the Pakistan Literacy Program. 
+
+Notify Kimberly Watson, kimw@svdp.org.au, with donor Conference information.",Huma Lal,AUD,1525,1,1525,,1525,1,20/06/2017,,
+1071,19,,15/10/2016,Pakistan Literacy Project 16-17 ,"Please consider support for this one teacher’s salary for one year. This is her first year participating in the Pakistan Literacy Program. 
+
+Notify Kimberly Watson, kimw@svdp.org.au, with donor Conference information.",Poonam William,AUD,1525,1,1525,,1525,,,,
+1072,31,,30/09/2016,Scented Candle Making Project,"This project is through the Batticaloa Diocesan Council. Please notify Kimberly Watson, kimw@svdp.org.au, with the donor Conference details.",Untwinned,AUD,1183,1,1183,,1183,1,20/06/2017,,
+1073,31,,30/09/2016,Home Gardening/Agriculture Project,"This project is through the Galle Diocesan Council. Please notify Kimberly Watson, kimw@svdp.org.au, with the donor Conference details.",Untwinned,AUD,2059,1,2059,,2059,1,20/06/2017,,
+1074,31,,30/09/2016,Garment Sewing and Soft Toy Making,"This project is through the Chilaw Diocesan Council. Please notify Kimberly Watson, kimw@svdp.org.au, with the donor Conference details.",Untwinned,AUD,2163,1,2163,,2163,,,,
+1075,31,,30/09/2016,Poultry Pens Project,"This project is through the Badulla Diocesan Council. Please notify Kimberly Watson, kimw@svdp.org.au, with the donor Conference details.",Untwinned,AUD,2537,1,2537,,2537,,,,
+1076,31,,30/09/2016,Sanitation/Latrines Project,"This project is through the Kurunegala Diocesan Council. Please notify Kimberly Watson, kimw@svdp.org.au, with the donor Conference details.",Untwinned,AUD,2253,1,2253,,2253,,,,
+1077,19,,15/10/2016,Pakistan Literacy Project 16-17 ,"Please consider support for this one teacher’s salary for one year. This is his first year participating in the Pakistan Literacy Program. 
+
+Notify Kimberly Watson, kimw@svdp.org.au, with donor Conference information.",Toshiba Nixon,AUD,1525,1,1525,,1525,,,,
+1078,19,,15/10/2016,Pakistan Literacy Project 16-17 ,"Please consider support for this one teacher’s salary for one year. This is her second year participating in the Pakistan Literacy Program. 
+
+Notify Kimberly Watson, kimw@svdp.org.au, with donor Conference information.",Sidra Tabusum,AUD,1525,1,1525,,1525,,,,
+1079,15,17336,15/10/2016,Sewing Machine Project,,,INR,47700,51.2,931.640625,932,-0.359375,1,07/11/2016,,
+1080,15,6520,15/12/2016,Cow Project,,P-13/TVM(M)IKR/16-17,INR,60000,48.6725,1232.728954,,1232.728954,,,,
+1081,15,1235,15/12/2016,Toilet Project,,P-08/TVM(L)/KR/16-17,INR,60000,48.675,1232.665639,,1232.665639,,,,
+1082,15,1960,15/12/2016,Computer Project,"This project has been offered to St Brendan, Shepparton because they were the previous twin to SRN: 1960 St Jude Conference, that was replaced in 2011 by India due to the 15 Year Twinning Policy.",P-07/TVM (W)/KR/16-17,INR,48000,48.675,986.1325116,,986.1325116,,,,
+1083,15,6277,15/12/2016,Toilet and Sanitation Project,"The project was sent for St Thomas the Apostle, Blackburn because they were the previous Twin of SRN: 6277 St Mary Conference relinquished by India due to the 15 yr policy but still active.",P-04/TVM(L)/KR/16-17,INR,45000,48.675,924.4992296,,924.4992296,,,,
+1084,15,597,15/12/2016,Community LPG Connection Project,This project has been forwarded to the Semaphore Conference because it was the previous Twin of SRN: 597 Infant Jesus Conference relinquished by India due to the 15 yr policy but still active.,P-03/KP/KR/16-17,INR,40000,48.675,821.777093,,821.777093,,,,
+1085,15,1628,15/12/2016,Computer Project,,P-16/TVM(M)/KR/16-17,INR,60000,48.675,1232.665639,,1232.665639,,,,
+1086,15,504,15/12/2016,Goat Project,,P-15/TVM(M)/KR/16-17,INR,60000,48.675,1232.665639,,1232.665639,,,,
+1087,15,1740,15/12/2016,Goat Project,,P-14/TVM(M)/KR/16-17,INR,60000,48.675,1232.665639,,1232.665639,,,,
+1088,15,1577,15/12/2016,Goat Project,The Blackwood/Woodville Conference was previously Twinned with Lourde Matha Conference relinquished by India but still active.,P-02/KP/KR/16-17,INR,40000,48.675,821.777093,,821.777093,,,,
+1089,15,17237,15/12/2016,Sewing Machine Distribution,,P-12/TVM(M)/KR/16-17,INR,60000,48.675,1232.665639,,1232.665639,1,20/06/2017,,
+1090,15,155,15/12/2016,Tailoring Machines Project,,P-01/IR/KR/16-17,INR,60000,48.675,1232.665639,,1232.665639,,,,
+1091,15,137,15/12/2016,Drinking Water,"The project was sent to St Catherine, Mansfield because they were the previous Twin of SRN:137 St Joseph Conference that was surrendered by India but is still active.",P-06/TVM(L)/KR/16-17,INR,50000,48.675,1027.221366,,1027.221366,1,14/08/2017,,
+1092,15,16922,15/12/2016,Sewing Machine Project,,P-10/TVM(M)/KR/16-17,INR,60000,48.675,1232.665639,,1232.665639,,,,
+1094,15,5689,15/12/2016,Ozanam Karunya Bhavan (Old Age Home) Repairs,,P-05/TVM (L)/KR/16-17,INR,950000,48.675,19517.20596,,19517.20596,,,,
+1095,27,6725,24/02/2017,Education and Hygeine,Value is actually $1696 (havent worked out how to amend the original entry),,AUD,1662,1.29712,1281.300111,,1281.300111,,,,
+1096,27,6727,15/02/2017,Latrines,,,KHR,684200,,?,,?,,,,
+1097,15,16955,23/03/2017,Livestock - Goats,,P1/Bux/North/16-17,INR,60000,50.0992,1197.623914,,1197.623914,,,,
+1098,15,5933,23/03/2017,Livestock - Goats,,P2/BUX/NORTH/16-17,INR,60000,49.9677,1200.775701,,1200.775701,,,,
+1099,15,17214,23/03/2017,Agriculture - Milk Cattle,,P1/GNT/AP/16-17,INR,80000,49.9677,1601.034268,,1601.034268,,,,
+1100,15,17145,23/03/2017,Agriculture - Milk Buffalo,,P2/GNT/AP/16-17,INR,65000,49.9677,1300.840343,,1300.840343,1,14/08/2017,,
+1101,15,17046,23/03/2017,Transport - Bicycles,,P3/GNT/AP/16-17,INR,65000,49.9677,1300.840343,,1300.840343,,,,
+1103,15,17130,23/03/2017,Agriculture - Sheep Raring,,P4/GNT/AP/16-17,INR,66000,49.8799,1323.178274,,1323.178274,1,14/08/2017,,
+1104,15,17288,23/03/2017,Agriculture - Milk Cattle,,P5/GNT/AP/16-17,INR,70000,49.8799,1403.370897,,1403.370897,,,,
+1105,15,17257,23/03/2017,Mineral Water Plant,,P6/GNT/AP/16-17,INR,95000,49.9031,1903.68935,,1903.68935,,,,
+1106,15,17289,23/03/2017,Sewing Machines,,P7/GNT/AP/16-17,INR,65000,49.9031,1302.524292,,1302.524292,,,,
+1107,15,150,23/03/2017,Flat Rickshaws,,P1/NEL/AP/16-17,INR,60000,49.9031,1202.330116,,1202.330116,,,,
+1109,23,,27/03/2017,Grass Broom Project,,,BAHT,48888.33,26.284,1860.003424,,1860.003424,,,,
+1110,23,,27/03/2017,Lunch Support Program,,,BAHT,31694.31,26.4119,1200.001136,,1200.001136,,,,
+1111,15,143,18/04/2017,Fish Vending,,P.20/TM(L)/KR/16-17,INR,80000,48.7603,1640.678995,,1640.678995,,,,
+1112,15,17101,24/04/2017,Fish Vending,,P.21/TM(L)/KR/16-17,INR,60000,48.5293,1236.366484,,1236.366484,1,14/08/2017,,
+1113,15,16951,20/04/2017,Fish Vending,,P22/TM(L)/KR/16-17,INR,50000,48.5644,1029.560748,,1029.560748,1,14/08/2017,,
+1115,15,432,20/04/2017,Sewing Machines,,P26/TM(L)/KR/16-17,INR,65000,48.2743,1346.472139,,1346.472139,,,,
+1116,15,16913,10/05/2017,Fish Vending ,,P-30/TM(L)/KR/16-17,INR,75000,48.0601,1560.546066,,1560.546066,,,,
+1117,31,,21/07/2017,Tube Wells,"St Vincent de Paul Society 
+Kurunegala Diocese",,LKR,200000,121.648,1644.08786,,1644.08786,,,,
+1118,31,,21/07/2017,Electricity Project,"St Vincent de Paul Society
+Colombo Archdiocese
+Provision of electricity to the homes of 15 families",,LKR,300000,121.648,2466.13179,,2466.13179,,,,
+1119,31,,21/07/2017,Electricity Project,"St Vincent de Paul Society
+Trincomalee Diocesan Council
+Provision of electricity to the homes of 18 families",,LKR,450000,121.648,3699.197685,,3699.197685,,,,
+1121,15,,10/10/2017,Cow Project,This project is for an untwinned conference.,U/BER/NE/2017,INR,60000,50.8898,1179.018192,,1179.018192,,,,

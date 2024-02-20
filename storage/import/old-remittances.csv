@@ -1,0 +1,343 @@
+pk_remittances_in_ID,remittances_in_DateReceived,remittances_in_PaymentMethod,remittances_in_ChequeNumber,c_remittances_in_Quarter,c_remittances_in_ConcatenatedQuarterYear,remittances_in_RemittanceTotal,c_remittances_in_RemittanceTotalAllocated,c_remittances_in_RemittanceBalanceToAllocate,c_remittances_in_TwinningTotal,remittances_in_Comments,remittances_in_ReceivedFrom_LU,fk_oz_state_council_ID,oz_state_council_State_LU
+39,03/11/2006,Direct Debit,,Q4,Q4: 2006,87513,87513,0,507,"Apparently there is a credit from the previous quarter for $3,174.00??
+Not sure about this.......?
+
+",NSW State Council,2,NSW
+40,03/11/2006,Direct Debit,,Q4,Q4: 2006,3995,3995,0,42,,Tasmania State Council,4,TAS
+41,12/10/2006,Cheque,,Q4,Q4: 2006,850,850,0,10,,NT Council,7,NT
+42,08/11/2006,Direct Debit,,Q4,Q4: 2006,29140,29140,0,344,,Queensland State Council,1,QLD
+43,14/11/2006,Direct Debit,,Q4,Q4: 2006,91640,91640,0,1049,,NSW State Council,2,NSW
+44,31/10/2006,Direct Debit,,Q4,Q4: 2006,12921,12921,0,142,,South Aust State Council,5,SA
+45,06/11/2006,Direct Debit,,Q4,Q4: 2006,16972,16972,0,130,,WA State Council,6,WA
+46,16/01/2007,Cheque,400689,Q1,Q1: 2007,850,850,0,10,,NT Council,7,NT
+47,05/02/2007,Direct Debit,,Q1,Q1: 2007,96412,96412,0,1051,Wendy advised that she overpaid NC by $983 as they paid for a project they had funded last year. They will underpay next quarter by this much. Later realised that they had underpaid us by $100 for Christmas Grants - NSW will withhold $883 from next quarter remittance. ,NSW State Council,2,NSW
+48,02/02/2007,Direct Debit,,Q1,Q1: 2007,8995,8995,0,142,,South Aust State Council,5,SA
+49,02/02/2007,Direct Debit,,Q1,Q1: 2007,21840,21840,0,130,,WA State Council,6,WA
+50,02/02/2007,Direct Debit,,Q1,Q1: 2007,2795,2795,0,42,,Tasmania State Council,4,TAS
+51,05/02/2007,Direct Debit,,Q1,Q1: 2007,50744,50744,0,530,,Victoria State Council,3,VIC
+52,09/02/2007,Direct Debit,,Q1,Q1: 2007,25260,25260,0,421,Payment still actually not in bank 08/02/07 - Joan missed cheque run yesterday and will get paid as soon as possible. ,Queensland State Council,1,QLD
+53,24/04/2007,Direct Debit,,Q2,Q2: 2007,25380,25380,0,423,,Queensland State Council,1,QLD
+54,04/05/2007,Direct Debit,,Q2,Q2: 2007,76113,76113,0,1066,,NSW State Council,2,NSW
+55,10/04/2007,Cheque,,Q2,Q2: 2007,850,850,0,10,,NT Council,7,NT
+56,04/05/2007,Direct Debit,,Q2,Q2: 2007,23423,23423,0,130,,WA State Council,6,WA
+57,30/04/2007,Direct Debit,,Q2,Q2: 2007,10476,10476,0,141,,South Aust State Council,5,SA
+58,04/05/2007,Direct Debit,,Q2,Q2: 2007,83207,83207,0,530,,Victoria State Council,3,VIC
+59,04/05/2007,Direct Debit,,Q2,Q2: 2007,2795,2795,0,42,Missing data for one Philippine twin,Tasmania State Council,4,TAS
+60,03/08/2007,Direct Debit,,Q3,Q3: 2007,10420,10420,0,130,,WA State Council,6,WA
+61,03/08/2007,Direct Debit,,Q3,Q3: 2007,75058,75058,0,1081,,NSW State Council,2,NSW
+64,03/08/2007,Direct Debit,,Q3,Q3: 2007,40963,40963,0,537,"Vic submitted $1,000 as a private donation in Q3 07.  They requested $250 go to East Timor, India, Mynamar and Phillipines.  Jack Matsay advised that the $1000 be held until we receive about what it is for.  It has not been included in the Q3 amounts.  
+
+",Victoria State Council,3,VIC
+65,03/08/2007,Direct Debit,,Q3,Q3: 2007,8775,8775,0,140,,South Aust State Council,5,SA
+66,03/08/2007,Direct Debit,,Q3,Q3: 2007,5560,5560,0,42,,Tasmania State Council,4,TAS
+67,03/08/2007,Cheque,,Q3,Q3: 2007,850,850,0,10,,NT Council,7,NT
+68,03/08/2007,Direct Debit,,Q3,Q3: 2007,31423,31423,0,427,,Queensland State Council,1,QLD
+69,02/11/2007,Direct Debit,,Q4,Q4: 2007,23719,23719,0,130,$1520 is for special works - Cambodia ,WA State Council,6,WA
+71,02/11/2007,Direct Debit,,Q4,Q4: 2007,11797,11797,0,98,,ACT Council,8,ACT
+72,02/11/2007,Direct Debit,,Q4,Q4: 2007,76721,76721,0,987,"$250 submitted into bank but not reflected on spreadsheet, checking with Wendy when she returns from leave mid Nov. 
+23/5/08 - Chased up with Wendy, entered below... was Flood relief in Bahir region in India",NSW State Council,2,NSW
+73,02/11/2007,Direct Debit,,Q4,Q4: 2007,53160,53160,0,430,"$25,360 is for Pakistan Literacy Project ",Queensland State Council,1,QLD
+74,02/11/2007,Direct Debit,,Q4,Q4: 2007,2795,2795,0,42,,Tasmania State Council,4,TAS
+75,02/11/2007,Direct Debit,,Q4,Q4: 2007,15575,15575,0,140,"Ron Hoogland in hospital.  figures were same for council to council and twinning, used Q3 spreadsheets",South Aust State Council,5,SA
+76,02/11/2007,Direct Debit,,Q4,Q4: 2007,81207.95,81207.95,0,539,"$1000 from Q3 - $250 each for Bangladesh, Cambodia, Mynamar and India ",Victoria State Council,3,VIC
+77,02/11/2007,Cheque,,Q4,Q4: 2007,850,850,0,10,NT submitted a cheque for $850 and dd a project for $1342 ,NT Council,7,NT
+78,02/11/2007,Direct Debit,,Q4,Q4: 2007,1342,1342,0,,NT submitted a cheque for $850 and dd $1342 for a project ,NT Council,7,NT
+80,01/02/2008,Direct Debit,,Q1,Q1: 2008,12764,12764,0,98,"$3600 for the Pakistan Literacy Project was paid by EFT on 4/12/07  and included with Q1 remittances
+ACT also sent $700 for AAS with this remittance",ACT Council,8,ACT
+81,01/02/2008,Direct Debit,,Q1,Q1: 2008,96843,96843,0,988,"$250 was submitted separately for Bihar Region from Dapto Conference for flood relief
+$2500 was sent submitted separately from Lower estate 
+",NSW State Council,2,NSW
+84,01/02/2008,Cheque,,Q1,Q1: 2008,850,850,0,10,,NT Council,7,NT
+85,01/02/2008,Direct Debit,,Q1,Q1: 2008,110760,110760,0,429,"$500 has already been sent to Bangladesh per the request
+$2392 for two projects was submitted to NC with another payment but never sent to India
+ ",Queensland State Council,1,QLD
+86,01/02/2008,Direct Debit,,Q1,Q1: 2008,11873,11873,0,140,,South Aust State Council,5,SA
+87,01/02/2008,Direct Debit,,Q1,Q1: 2008,6344,6344,0,42,,Tasmania State Council,4,TAS
+89,01/02/2008,Direct Debit,,Q1,Q1: 2008,69783,69783,0,539,"$4800 was for Pakistan Literacy Project
+$200 submitted for East Timor - Br Doug advised to send to NT for East Timor AAS ",Victoria State Council,3,VIC
+90,01/02/2008,Direct Debit,,Q1,Q1: 2008,11100,11100,0,130,,WA State Council,6,WA
+91,01/05/2008,Direct Debit,,Q2,Q2: 2008,10916,10916,0,140,,South Aust State Council,5,SA
+92,01/05/2008,Direct Debit,,Q2,Q2: 2008,107074,107074,0,993,,NSW State Council,2,NSW
+93,02/05/2008,Direct Debit,,Q2,Q2: 2008,89647,89647,0,542,,Victoria State Council,3,VIC
+94,02/05/2008,Direct Debit,,Q2,Q2: 2008,6180,6180,0,98,,ACT Council,8,ACT
+95,02/05/2008,Cheque,,Q2,Q2: 2008,850,850,0,10,,NT Council,7,NT
+96,02/05/2008,Direct Debit,,Q2,Q2: 2008,18950,18950,0,131,,WA State Council,6,WA
+97,02/05/2008,Direct Debit,,Q2,Q2: 2008,3995,3995,0,42,,Tasmania State Council,4,TAS
+98,07/05/2008,Direct Debit,,Q2,Q2: 2008,45130,45130,0,437,,Queensland State Council,1,QLD
+102,01/08/2008,Direct Debit,,Q3,Q3: 2008,9189.5,9189.5,0,96,,ACT Council,8,ACT
+103,01/08/2008,Direct Debit,,Q3,Q3: 2008,98896,98896,0,982,,NSW State Council,2,NSW
+104,01/08/2008,Direct Debit,,Q3,Q3: 2008,1050,1050,0,10,,NT Council,7,NT
+105,01/08/2008,Direct Debit,,Q3,Q3: 2008,101594,101594,0,439,,Queensland State Council,1,QLD
+106,01/08/2008,Direct Debit,,Q3,Q3: 2008,13899,13899,0,140,,South Aust State Council,5,SA
+107,01/08/2008,Direct Debit,,Q3,Q3: 2008,3635,3635,0,42,,Tasmania State Council,4,TAS
+108,01/08/2008,Direct Debit,,Q3,Q3: 2008,50443,50443,0,547,,Victoria State Council,3,VIC
+109,01/08/2008,Direct Debit,,Q3,Q3: 2008,10920,10920,0,123,,WA State Council,6,WA
+111,31/10/2008,Direct Debit,,Q4,Q4: 2008,54321.3,54321.3,0,434,,Queensland State Council,1,QLD
+112,31/10/2008,Direct Debit,,Q4,Q4: 2008,12422,12422,0,96,,ACT Council,8,ACT
+113,31/10/2008,Direct Debit,,Q4,Q4: 2008,14723,14723,0,138,,South Aust State Council,5,SA
+114,31/10/2008,Direct Debit,,Q4,Q4: 2008,3635,3635,0,42,,Tasmania State Council,4,TAS
+115,31/10/2008,Direct Debit,,Q4,Q4: 2008,1050,1050,0,10,,NT Council,7,NT
+116,04/11/2008,Direct Debit,,Q4,Q4: 2008,108060,108060,0,985,,NSW State Council,2,NSW
+117,06/11/2008,Direct Debit,,Q4,Q4: 2008,115311.58,116164.58,-853,543,,Victoria State Council,3,VIC
+118,31/10/2008,Direct Debit,,Q4,Q4: 2008,17565,17565,0,123,,WA State Council,6,WA
+119,30/01/2009,Direct Debit,,Q1,Q1: 2009,14570,14570,0,140,,South Aust State Council,5,SA
+120,30/01/2009,Direct Debit,,Q1,Q1: 2009,9122,9122,0,96,,ACT Council,8,ACT
+121,30/01/2009,Direct Debit,,Q1,Q1: 2009,1050,1050,0,10,,NT Council,7,NT
+122,30/01/2009,Direct Debit,,Q1,Q1: 2009,17700,17700,0,123,,WA State Council,6,WA
+123,30/01/2009,Direct Debit,,Q1,Q1: 2009,122108,122108,0,431,,Queensland State Council,1,QLD
+124,30/01/2009,Direct Debit,,Q1,Q1: 2009,3635,3635,0,42,,Tasmania State Council,4,TAS
+125,30/01/2009,Direct Debit,,Q1,Q1: 2009,105747,105747,0,983,,NSW State Council,2,NSW
+126,31/01/2009,Direct Debit,,Q1,Q1: 2009,62360.16,62360.16,0,544,,Victoria State Council,3,VIC
+127,04/05/2009,Direct Debit,,Q2,Q2: 2009,98403.73,98403.73,0,544,,Victoria State Council,3,VIC
+128,04/05/2009,Direct Debit,,Q2,Q2: 2009,12562,12562,0,99,,ACT Council,8,ACT
+129,04/05/2009,Direct Debit,,Q2,Q2: 2009,21786,21786,0,124,,WA State Council,6,WA
+130,04/05/2009,Direct Debit,,Q2,Q2: 2009,99219,99219,0,983,,NSW State Council,2,NSW
+131,04/05/2009,Direct Debit,,Q2,Q2: 2009,16223,,16223,,,South Aust State Council,5,SA
+132,04/05/2009,Direct Debit,,Q2,Q2: 2009,60700,60700,0,435,,Queensland State Council,1,QLD
+133,04/05/2009,Direct Debit,,Q2,Q2: 2009,16223,16223,0,140,,South Aust State Council,5,SA
+134,04/05/2009,Cheque,,Q2,Q2: 2009,1050,1050,0,10,,NT Council,7,NT
+135,04/05/2009,Direct Debit,,Q2,Q2: 2009,3635,3635,0,42,,Tasmania State Council,4,TAS
+136,30/07/2009,,,Q3,Q3: 2009,16472,16472,0,101,,ACT Council,8,ACT
+137,30/07/2009,Direct Debit,,Q3,Q3: 2009,94402,94402,0,436,,Queensland State Council,1,QLD
+138,30/07/2009,Direct Debit,,Q3,Q3: 2009,15999,15999,0,142,,South Aust State Council,5,SA
+139,30/07/2009,Direct Debit,,Q3,Q3: 2009,1050,1050,0,10,,NT Council,7,NT
+140,30/07/2009,Direct Debit,,Q3,Q3: 2009,4835,4835,0,42,,Tasmania State Council,4,TAS
+141,31/07/2009,,,Q3,Q3: 2009,9860,9860,0,121,,WA State Council,6,WA
+142,31/07/2009,Direct Debit,,Q3,Q3: 2009,49643.58,49643.58,0,544,,Victoria State Council,3,VIC
+143,31/07/2009,Direct Debit,,Q3,Q3: 2009,87420,87420,0,985,,NSW State Council,2,NSW
+144,31/10/2009,Direct Debit,,Q4,Q4: 2009,95326.16,95326.16,0,557,,Victoria State Council,3,VIC
+145,31/10/2009,Direct Debit,,Q4,Q4: 2009,58400,58400,0,434,,Queensland State Council,1,QLD
+146,31/10/2009,Direct Debit,,Q4,Q4: 2009,11860,11860,0,121,,WA State Council,6,WA
+147,31/10/2009,Direct Debit,,Q4,Q4: 2009,8300,8300,0,100,,ACT Council,8,ACT
+148,31/10/2009,Direct Debit,,Q4,Q4: 2009,136990,136990,0,988,,NSW State Council,2,NSW
+149,31/10/2009,Direct Debit,,Q4,Q4: 2009,3475,3475,0,40,,Tasmania State Council,4,TAS
+150,31/10/2009,Direct Debit,,Q4,Q4: 2009,15795,15795,0,142,,South Aust State Council,5,SA
+151,31/10/2009,Direct Debit,,Q4,Q4: 2009,1050,1050,0,10,,NT Council,7,NT
+157,28/01/2010,Direct Debit,,Q1,Q1: 2010,23560,23560,0,121,,WA State Council,6,WA
+158,15/01/2010,Direct Debit,,Q1,Q1: 2010,3675,3675,0,40,,Tasmania State Council,4,TAS
+159,25/01/2010,Direct Debit,,Q1,Q1: 2010,8540,8540,0,100,,ACT Council,8,ACT
+160,27/01/2010,Direct Debit,,Q1,Q1: 2010,92208,92208,0,435,,Queensland State Council,1,QLD
+161,26/01/2010,Direct Debit,,Q1,Q1: 2010,61000,61000,0,561,,Victoria State Council,3,VIC
+162,28/01/2010,Direct Debit,,Q1,Q1: 2010,97567,97567,0,990,,NSW State Council,2,NSW
+163,04/01/2010,Cheque,406418,Q1,Q1: 2010,1050,1050,0,10,,NT Council,7,NT
+164,02/02/2010,Direct Debit,,Q1,Q1: 2010,13555,13555,0,142,,South Aust State Council,5,SA
+165,30/04/2010,Direct Debit,,Q2,Q2: 2010,14719,14719,0,142,,South Aust State Council,5,SA
+166,30/04/2010,Cheque,406691,Q2,Q2: 2010,1050,1050,0,10,,NT Council,7,NT
+167,21/04/2010,Direct Debit,,Q2,Q2: 2010,4878,4878,0,36,,Tasmania State Council,4,TAS
+168,30/04/2010,Direct Debit,,Q2,Q2: 2010,89704,89704,0,558,,Victoria State Council,3,VIC
+169,28/04/2010,Direct Debit,,Q2,Q2: 2010,15860,15860,0,124,,WA State Council,6,WA
+170,03/05/2010,Direct Debit,,Q2,Q2: 2010,60860,60860,0,373,,Queensland State Council,1,QLD
+171,03/05/2010,Direct Debit,,Q2,Q2: 2010,104190,104190,0,957,,NSW State Council,2,NSW
+172,30/04/2010,Direct Debit,,Q2,Q2: 2010,8460,8460,0,102,,ACT Council,8,ACT
+173,30/07/2010,Direct Debit,,Q3,Q3: 2010,,10560,-10560,102,,ACT Council,8,ACT
+174,30/07/2010,Direct Debit,,Q3,Q3: 2010,,62628,-62628,557,Shouldn’t have sent a remittance for Pakistan but sent funds anyway. To be held at NCA indefinitely,Victoria State Council,3,VIC
+175,30/07/2010,Direct Debit,,Q3,Q3: 2010,,89255,-89255,380,,Queensland State Council,1,QLD
+176,30/07/2010,Direct Debit,,Q3,Q3: 2010,,16393,-16393,124,,WA State Council,6,WA
+177,30/07/2010,Direct Debit,,Q3,Q3: 2010,,14354,-14354,142,,South Aust State Council,5,SA
+178,30/07/2010,Direct Debit,,Q3,Q3: 2010,,3755,-3755,36,,Tasmania State Council,4,TAS
+179,30/07/2010,Cheque,406864,Q3,Q3: 2010,,1050,-1050,10,,NT Council,7,NT
+180,11/08/2010,Direct Debit,,Q3,Q3: 2010,,110947,-110947,933,We allowed THIS ONE to be late as Megha Sharma (Wendy’s replacement) didn’t have the Remittance deadline date and needed extra time to process the remittances. ,NSW State Council,2,NSW
+181,29/10/2010,Direct Debit,,Q4,Q4: 2010,80551,80551,0,931,,NSW State Council,2,NSW
+182,19/10/2010,Direct Debit,,Q4,Q4: 2010,8760,8760,0,102,,ACT Council,8,ACT
+183,21/10/2010,Direct Debit,,Q4,Q4: 2010,53250,53250,0,544,,Victoria State Council,3,VIC
+184,29/10/2010,Direct Debit,,Q4,Q4: 2010,36740,36740,0,383,,Queensland State Council,1,QLD
+185,28/10/2010,Direct Debit,,Q4,Q4: 2010,24051,24051,0,126,,WA State Council,6,WA
+186,20/10/2010,Direct Debit,,Q4,Q4: 2010,13060,13060,0,142,,South Aust State Council,5,SA
+187,29/10/2010,Direct Debit,,Q4,Q4: 2010,4259,4259,0,36,,Tasmania State Council,4,TAS
+188,26/10/2010,Direct Debit,,Q4,Q4: 2010,1050,1050,0,10,,NT Council,7,NT
+189,24/01/2011,Direct Debit,,Q1,Q1: 2011,105182,105182,0,931,,NSW State Council,2,NSW
+190,24/01/2011,Direct Debit,,Q1,Q1: 2011,10060,10060,0,102,,ACT Council,8,ACT
+191,24/01/2011,Direct Debit,,Q1,Q1: 2011,101012,101012,0,544,Double check what was banked a figure of -$1200 threw out the calculations so banked could be $99812.00 which is incorrect and the state needs to be contacted.,Victoria State Council,3,VIC
+192,24/01/2011,Direct Debit,,Q1,Q1: 2011,76460,76460,0,383,,Queensland State Council,1,QLD
+193,24/01/2011,Direct Debit,,Q1,Q1: 2011,20791,20791,0,126,,WA State Council,6,WA
+194,24/01/2011,Direct Debit,,Q1,Q1: 2011,13100,13100,0,142,,South Aust State Council,5,SA
+195,24/01/2011,Direct Debit,,Q1,Q1: 2011,4355,4355,0,36,,Tasmania State Council,4,TAS
+196,24/01/2011,Direct Debit,,Q1,Q1: 2011,1050,1050,0,10,,NT Council,7,NT
+197,29/04/2011,Direct Debit,,Q2,Q2: 2011,84567,84567,0,929,,NSW State Council,2,NSW
+198,29/04/2011,Direct Debit,,Q2,Q2: 2011,8560,8560,0,102,,ACT Council,8,ACT
+199,29/04/2011,Direct Debit,,Q2,Q2: 2011,84224,84224,0,545,,Victoria State Council,3,VIC
+200,29/04/2011,Direct Debit,,Q2,Q2: 2011,47178,47178,0,389,,Queensland State Council,1,QLD
+201,29/04/2011,Direct Debit,,Q2,Q2: 2011,19134,19134,0,126,,WA State Council,6,WA
+202,29/04/2011,Direct Debit,,Q2,Q2: 2011,17140,17140,0,142,,South Aust State Council,5,SA
+203,29/04/2011,Direct Debit,,Q2,Q2: 2011,3075,3075,0,35,,Tasmania State Council,4,TAS
+204,09/05/2011,Direct Debit,,Q2,Q2: 2011,1050,1050,0,10,"This quarter’s spreadsheet details are coming from Q1 2011, no spreadsheet was forwarded as Erica is no longer working in this area.",NT Council,7,NT
+205,05/08/2011,Direct Debit,,Q3,Q3: 2011,115993,115993,0,922,,NSW State Council,2,NSW
+206,05/08/2011,Direct Debit,,Q3,Q3: 2011,9160,9160,0,102,,ACT Council,8,ACT
+207,05/08/2011,Direct Debit,,Q3,Q3: 2011,78353,78353,0,548,,Victoria State Council,3,VIC
+208,05/08/2011,Direct Debit,,Q3,Q3: 2011,93964,93964,0,393,Queensland has sent $120.00 for Pakistan for projects for some reason this quarter! Funds are still NOT being transferred to Pakistan. Hold $120 at NC,Queensland State Council,1,QLD
+209,05/08/2011,Direct Debit,,Q3,Q3: 2011,14980,14980,0,121,,WA State Council,6,WA
+210,05/08/2011,Direct Debit,,Q3,Q3: 2011,15340,15340,0,142,,South Aust State Council,5,SA
+211,05/08/2011,Direct Debit,,Q3,Q3: 2011,6275,6275,0,35,,Tasmania State Council,4,TAS
+212,05/08/2011,Direct Debit,,Q3,Q3: 2011,1050,1050,0,10,,NT Council,7,NT
+213,28/10/2011,Direct Debit,,Q4,Q4: 2011,88967,88967,0,932,,NSW State Council,2,NSW
+214,28/10/2011,Direct Debit,,Q4,Q4: 2011,8460,8460,0,102,,ACT Council,8,ACT
+215,28/10/2011,Direct Debit,,Q4,Q4: 2011,81880,81880,0,550,,Victoria State Council,3,VIC
+216,28/10/2011,Direct Debit,,Q4,Q4: 2011,56640,56640,0,393,,Queensland State Council,1,QLD
+217,28/10/2011,Direct Debit,,Q4,Q4: 2011,20040,20040,0,121,,WA State Council,6,WA
+218,28/10/2011,Direct Debit,,Q4,Q4: 2011,12440,12440,0,142,,South Aust State Council,5,SA
+219,28/10/2011,Direct Debit,,Q4,Q4: 2011,3075,3075,0,35,,Tasmania State Council,4,TAS
+220,28/10/2011,Direct Debit,,Q4,Q4: 2011,1050,1050,0,10,,NT Council,7,NT
+221,27/01/2012,Direct Debit,,Q1,Q1: 2012,108809,108809,0,938,,NSW State Council,2,NSW
+222,27/01/2012,Direct Debit,,Q1,Q1: 2012,8860,8860,0,102,,ACT Council,8,ACT
+223,27/01/2012,Direct Debit,,Q1,Q1: 2012,58278,58278,0,555,,Victoria State Council,3,VIC
+224,27/01/2012,Direct Debit,,Q1,Q1: 2012,113550,113550,0,393,,Queensland State Council,1,QLD
+225,27/01/2012,Direct Debit,,Q1,Q1: 2012,20315,20315,0,121,,WA State Council,6,WA
+226,27/01/2012,Direct Debit,,Q1,Q1: 2012,1050,1050,0,10,,NT Council,7,NT
+227,27/01/2012,Direct Debit,,Q1,Q1: 2012,12260,12260,0,142,,South Aust State Council,5,SA
+228,27/01/2012,Direct Debit,,Q1,Q1: 2012,4275,4275,0,35,,Tasmania State Council,4,TAS
+237,27/04/2012,Direct Debit,,Q2,Q2: 2012,9560,9560,0,102,,ACT Council,8,ACT
+238,27/04/2012,Direct Debit,,Q2,Q2: 2012,98842,98842,0,937,,NSW State Council,2,NSW
+239,27/07/2012,Direct Debit,,Q3,Q3: 2012,9760,9760,0,102,,ACT Council,8,ACT
+240,27/07/2012,Direct Debit,,Q3,Q3: 2012,97750,97750,0,929,,NSW State Council,2,NSW
+241,17/07/2012,Direct Debit,,Q3,Q3: 2012,1050,1050,0,10,,NT Council,7,NT
+242,26/07/2012,Direct Debit,,Q3,Q3: 2012,88052,88752,-700,398,Hold Pakistan Literacy this quarter,Queensland State Council,1,QLD
+243,19/07/2012,Direct Debit,,Q3,Q3: 2012,12560,12560,0,142,,South Aust State Council,5,SA
+244,24/07/2012,Direct Debit,,Q3,Q3: 2012,3075,3075,0,35,,Tasmania State Council,4,TAS
+245,20/07/2012,Direct Debit,,Q3,Q3: 2012,152053.2,152053,0.2,557,Pakistan Project 362...364 to go on a separate Cheq Req to Fr Robert McCulloch’s Account,Victoria State Council,3,VIC
+246,26/07/2012,Direct Debit,,Q3,Q3: 2012,10240,10240,0,122,,WA State Council,6,WA
+247,26/10/2012,Direct Debit,,Q4,Q4: 2012,8460,8460,0,102,,ACT Council,8,ACT
+248,26/10/2012,Direct Debit,,Q4,Q4: 2012,92132,92132,0,932,,NSW State Council,2,NSW
+249,26/10/2012,Direct Debit,,Q4,Q4: 2012,1050,1050,0,10,,NT Council,7,NT
+250,26/10/2012,Direct Debit,,Q4,Q4: 2012,37546,37546,0,401,,Queensland State Council,1,QLD
+251,26/10/2012,Direct Debit,,Q4,Q4: 2012,12260,12260,0,142,,South Aust State Council,5,SA
+252,26/10/2012,Direct Debit,,Q4,Q4: 2012,3075,3075,0,35,,Tasmania State Council,4,TAS
+253,26/10/2012,Direct Debit,,Q4,Q4: 2012,88367,88367,0,569,,Victoria State Council,3,VIC
+254,26/10/2012,Direct Debit,,Q4,Q4: 2012,20896.67,20896.67,0,123,,WA State Council,6,WA
+256,25/01/2013,Direct Debit,,Q1,Q1: 2013,8600,8600,0,100,,ACT Council,8,ACT
+257,25/01/2013,Direct Debit,,Q1,Q1: 2013,102940,102940,0,1026.25,,NSW State Council,2,NSW
+258,25/01/2013,Direct Debit,,Q1,Q1: 2013,1050,1050,0,10,,NT Council,7,NT
+259,25/01/2013,Direct Debit,,Q1,Q1: 2013,64140,64140,0,401,,Queensland State Council,1,QLD
+260,25/01/2013,Direct Debit,,Q1,Q1: 2013,12260,12260,0,142,,South Aust State Council,5,SA
+261,25/01/2013,Direct Debit,,Q1,Q1: 2013,3075,3075,0,35,,Tasmania State Council,4,TAS
+262,25/01/2013,Direct Debit,,Q1,Q1: 2013,95020,94000,1020,570,"$1020 is for Sri Lanka: $320 Twinning, $300 Easter Grants, $400 CC Grants",Victoria State Council,3,VIC
+263,25/01/2013,Direct Debit,,Q1,Q1: 2013,18020,18020,0,122,,WA State Council,6,WA
+264,26/04/2013,Direct Debit,,Q2,Q2: 2013,8120,8120,0,99,,ACT Council,8,ACT
+265,26/04/2013,Direct Debit,,Q2,Q2: 2013,89854,89854,0,932,,NSW State Council,2,NSW
+266,26/04/2013,Direct Debit,,Q2,Q2: 2013,1050,1050,0,10,,NT Council,7,NT
+267,26/04/2013,Direct Debit,,Q2,Q2: 2013,47465,47465,0,399,,Queensland State Council,1,QLD
+268,26/04/2013,Direct Debit,,Q2,Q2: 2013,12860,12860,0,142,,South Aust State Council,5,SA
+269,26/04/2013,Direct Debit,,Q2,Q2: 2013,3969,3969,0,35,,Tasmania State Council,4,TAS
+270,26/04/2013,Direct Debit,,Q2,Q2: 2013,122886,121766,1120,571,,Victoria State Council,3,VIC
+271,26/04/2013,Direct Debit,,Q2,Q2: 2013,22805,22805,0,122,,WA State Council,6,WA
+272,26/07/2013,Direct Debit,,Q3,Q3: 2013,9620,9620,0,99,,ACT Council,8,ACT
+273,26/07/2013,Direct Debit,,Q3,Q3: 2013,108562,108562,0,931,,NSW State Council,2,NSW
+274,26/07/2013,Direct Debit,,Q3,Q3: 2013,1050,1050,0,10,,NT Council,7,NT
+275,26/07/2013,Direct Debit,,Q3,Q3: 2013,82008,82008,0,398,,Queensland State Council,1,QLD
+276,30/07/2013,Direct Debit,,Q3,Q3: 2013,14030,14030,0,142,,South Aust State Council,5,SA
+277,26/07/2013,Direct Debit,,Q3,Q3: 2013,3075,3075,0,35,,Tasmania State Council,4,TAS
+278,26/07/2013,Direct Debit,,Q3,Q3: 2013,80937,80937,0,571,,Victoria State Council,3,VIC
+279,26/07/2013,Direct Debit,,Q3,Q3: 2013,18396,18396,0,121,,WA State Council,6,WA
+280,25/10/2013,Direct Debit,,Q4,Q4: 2013,8320,8320,0,99,,ACT Council,8,ACT
+281,25/10/2013,Direct Debit,,Q4,Q4: 2013,91470,91470,0,928,,NSW State Council,2,NSW
+282,25/10/2013,Direct Debit,,Q4,Q4: 2013,1050,1050,0,10,,NT Council,7,NT
+283,25/10/2013,Direct Debit,,Q4,Q4: 2013,39880,39880,0,391,,Queensland State Council,1,QLD
+284,25/10/2013,Direct Debit,,Q4,Q4: 2013,12800,12800,0,142,,South Aust State Council,5,SA
+285,25/10/2013,Direct Debit,,Q4,Q4: 2013,3075,3075,0,35,,Tasmania State Council,4,TAS
+286,25/10/2013,Direct Debit,,Q4,Q4: 2013,96185,96185,0,574,,Victoria State Council,3,VIC
+287,25/10/2013,Direct Debit,,Q4,Q4: 2013,18580,18580,0,119,,WA State Council,6,WA
+288,31/01/2014,Direct Debit,,Q1,Q1: 2014,7920,7920,0,99,,ACT Council,8,ACT
+289,24/01/2014,Direct Debit,,Q1,Q1: 2014,99549,99549,0,918,,NSW State Council,2,NSW
+290,24/01/2014,Direct Debit,,Q1,Q1: 2014,1050,1050,0,10,,NT Council,7,NT
+291,31/01/2014,Direct Debit,,Q1,Q1: 2014,69780,69780,0,393,,Queensland State Council,1,QLD
+292,24/01/2014,Direct Debit,,Q1,Q1: 2014,13698,13698,0,138,,South Aust State Council,5,SA
+293,24/01/2014,Direct Debit,,Q1,Q1: 2014,3275,3275,0,35,,Tasmania State Council,4,TAS
+294,24/01/2014,Direct Debit,,Q1,Q1: 2014,88260,88260,0,592,,Victoria State Council,3,VIC
+295,31/01/2014,Direct Debit,,Q1,Q1: 2014,16718,16718,0,119,,WA State Council,6,WA
+296,,,,,,,,,,Canberra Goulburn did not submit a remittance for Q2 14 and it has been requested that they please add Q2 14 to Q3 14.,ACT Council,8,ACT
+297,25/04/2014,Direct Debit,,Q2,Q2: 2014,89886,89886,0,918,,NSW State Council,2,NSW
+298,25/04/2014,Direct Debit,,Q2,Q2: 2014,1050,1050,0,10,,NT Council,7,NT
+299,25/04/2014,Direct Debit,,Q2,Q2: 2014,40962,40962,0,388,,Queensland State Council,1,QLD
+300,25/04/2014,Direct Debit,,Q2,Q2: 2014,13680,13680,0,139,,South Aust State Council,5,SA
+301,25/04/2014,Direct Debit,,Q2,Q2: 2014,3075,3075,0,35,,Tasmania State Council,4,TAS
+302,25/04/2014,Direct Debit,,Q2,Q2: 2014,213092.95,213092.95,0,580,,Victoria State Council,3,VIC
+303,25/04/2014,Direct Debit,,Q2,Q2: 2014,17676,17676,0,120,,WA State Council,6,WA
+304,25/07/2014,Direct Debit,,Q3,Q3: 2014,8302,8302,0,99,Q2 14: This payment and spreadsheet was for Q2 14 but was actually only received in June 2014,ACT Council,8,ACT
+305,25/07/2014,Direct Debit,,Q3,Q3: 2014,73810,73810,0,390,,Queensland State Council,1,QLD
+306,25/07/2014,Direct Debit,,Q3,Q3: 2014,13508,13508,0,138,,South Aust State Council,5,SA
+307,25/07/2014,Direct Debit,,Q3,Q3: 2014,9260,9260,0,99,,ACT Council,8,ACT
+308,25/07/2014,Direct Debit,,Q3,Q3: 2014,4275,4275,0,35,,Tasmania State Council,4,TAS
+309,25/07/2014,Direct Debit,,Q3,Q3: 2014,59360,59360,0,582,,Victoria State Council,3,VIC
+310,25/07/2014,Direct Debit,,Q3,Q3: 2014,18020,18020,0,119,,WA State Council,6,WA
+311,25/07/2014,Direct Debit,,Q3,Q3: 2014,1050,1050,0,10,,NT Council,7,NT
+312,28/07/2014,Direct Debit,,Q3,Q3: 2014,86139,86139,0,910,,NSW State Council,2,NSW
+313,24/10/2014,Direct Debit,,Q4,Q4: 2014,93233,93233,0,909,,NSW State Council,2,NSW
+314,24/10/2014,Direct Debit,,Q4,Q4: 2014,1050,1050,0,10,,NT Council,7,NT
+315,24/10/2014,Direct Debit,,Q4,Q4: 2014,34825,34825,0,367,,Queensland State Council,1,QLD
+316,24/10/2014,Direct Debit,,Q4,Q4: 2014,12520,12520,0,139,,South Aust State Council,5,SA
+317,24/10/2014,Direct Debit,,Q4,Q4: 2014,2995,2995,0,34,,Tasmania State Council,4,TAS
+318,24/10/2014,Direct Debit,,Q4,Q4: 2014,161434,161434,0,582,,Victoria State Council,3,VIC
+319,24/10/2014,Direct Debit,,Q4,Q4: 2014,13880,13880,0,118,,WA State Council,6,WA
+320,24/10/2014,Direct Debit,,Q4,Q4: 2014,7920,7920,0,99,Actually received on 03/11/14 ,ACT Council,8,ACT
+321,24/04/2015,Direct Debit,,Q2,Q2: 2015,7920,7920,0,99,,ACT Council,8,ACT
+322,07/05/2015,Direct Debit,,Q2,Q2: 2015,78240,78240,0,867,,NSW State Council,2,NSW
+323,24/04/2015,Direct Debit,,Q2,Q2: 2015,810,810,0,7,,NT Council,7,NT
+324,24/04/2015,Direct Debit,,Q2,Q2: 2015,33420,33420,0,365,,Queensland State Council,1,QLD
+325,24/04/2015,Direct Debit,,Q2,Q2: 2015,14120,14120,0,139,In this remittance the Cover Sheet said $5600.00 for 70 Indian Twins but the Twinning Sheet only listed 69 Twins at $5520 and $3360 for 42 Philippine Twins but the Sheet only listed 41 Twins  the adjustments were made in order to balance the remittances.,South Aust State Council,5,SA
+326,24/04/2015,Direct Debit,,Q2,Q2: 2015,3075,3075,0,35,,Tasmania State Council,4,TAS
+327,24/04/2015,Direct Debit,,Q2,Q2: 2015,108340,108340,0,583,,Victoria State Council,3,VIC
+328,24/04/2015,Direct Debit,,Q2,Q2: 2015,14900,14900,0,120,,WA State Council,6,WA
+329,30/07/2015,Direct Debit,,Q3,Q3: 2015,810,810,0,7,,NT Council,7,NT
+330,30/07/2015,Direct Debit,,Q3,Q3: 2015,29280,29280,0,366,,Queensland State Council,1,QLD
+331,30/07/2015,Direct Debit,,Q3,Q3: 2015,8240,8240,0,98,,ACT Council,8,ACT
+332,30/07/2015,Direct Debit,,Q3,Q3: 2015,92507,92507,0,869,,NSW State Council,2,NSW
+333,30/07/2015,Direct Debit,,Q3,Q3: 2015,16354,16354,0,139,,South Aust State Council,5,SA
+334,30/07/2015,Direct Debit,,Q3,Q3: 2015,3075,3075,0,35,,Tasmania State Council,4,TAS
+335,30/07/2015,Direct Debit,,Q3,Q3: 2015,60620,60620,0,589,,Victoria State Council,3,VIC
+336,30/07/2015,Direct Debit,,Q3,Q3: 2015,20098,20098,0,119,,WA State Council,6,WA
+338,13/11/2015,Direct Debit,,Q4,Q4: 2015,7840,7840,0,98,,ACT Council,8,ACT
+339,31/10/2015,Direct Debit,,Q4,Q4: 2015,77560,77560,0,866,,NSW State Council,2,NSW
+340,15/10/2015,Direct Debit,,Q4,Q4: 2015,890,890,0,8,,NT Council,7,NT
+341,10/11/2015,Direct Debit,,Q4,Q4: 2015,49521,49521,0,365,,Queensland State Council,1,QLD
+342,31/10/2015,Direct Debit,,Q4,Q4: 2015,18440,18520,-80,139,,South Aust State Council,5,SA
+343,31/10/2015,Direct Debit,,Q4,Q4: 2015,3675,3675,0,35,,Tasmania State Council,4,TAS
+344,31/10/2015,Direct Debit,,Q4,Q4: 2015,224944.75,224944.75,0,590,,Victoria State Council,3,VIC
+345,31/10/2015,Direct Debit,,Q4,Q4: 2015,16787,16787,0,119,,WA State Council,6,WA
+346,29/01/2016,Direct Debit,,Q1,Q1: 2016,8480,8480,0,91,,ACT Council,8,ACT
+347,29/01/2016,Direct Debit,,Q1,Q1: 2016,88659.5,88659.5,0,866,,NSW State Council,2,NSW
+348,29/01/2016,,,Q1,Q1: 2016,890,890,0,8,,NT Council,7,NT
+349,29/01/2016,Direct Debit,,Q1,Q1: 2016,66898,66898,0,365,,Queensland State Council,1,QLD
+350,29/01/2016,Direct Debit,,Q1,Q1: 2016,13837,13837,0,139,,South Aust State Council,5,SA
+351,29/01/2016,Direct Debit,,Q1,Q1: 2016,3875,3875,0,35,,Tasmania State Council,4,TAS
+352,29/01/2016,Direct Debit,,Q1,Q1: 2016,84458,84458,0,590,,Victoria State Council,3,VIC
+353,29/01/2016,Direct Debit,,Q1,Q1: 2016,14207,14207,0,119,,WA State Council,6,WA
+354,29/04/2016,Direct Debit,,Q2,Q2: 2016,7120,7120,0,89,,ACT Council,8,ACT
+355,29/04/2016,Direct Debit,,Q2,Q2: 2016,77520,77520,0,854,,NSW State Council,2,NSW
+356,29/04/2016,Direct Debit,,Q2,Q2: 2016,890,890,0,8,,NT Council,7,NT
+357,29/04/2016,Direct Debit,,Q2,Q2: 2016,31160,31160,0,360,,Queensland State Council,1,QLD
+358,29/04/2016,,,Q2,Q2: 2016,12570,12570,0,139,There was an $80 discrepancy on this remittance in Twinning that was labelled for India on the cover page but should’ve been labelled for Indonesia,South Aust State Council,5,SA
+359,29/04/2016,,,Q2,Q2: 2016,3395,3395,0,34,,Tasmania State Council,4,TAS
+360,29/04/2016,,,Q2,Q2: 2016,132522,132522,0,591,,Victoria State Council,3,VIC
+361,29/04/2016,Direct Debit,,Q2,Q2: 2016,14520,14520,0,116,,WA State Council,6,WA
+362,26/07/2016,Direct Debit,,Q3,Q3: 2016,111018,111018,0,591,,Victoria State Council,3,VIC
+363,01/07/2016,Direct Debit,,Q3,Q3: 2016,890,890,0,8,,NT Council,7,NT
+364,29/07/2016,Direct Debit,,Q3,Q3: 2016,7620,7620,0,89,,ACT Council,8,ACT
+365,29/07/2016,Direct Debit,,Q3,Q3: 2016,81520,81520,0,851,,NSW State Council,2,NSW
+366,29/07/2016,Direct Debit,,Q3,Q3: 2016,31160,31160,0,360,,Queensland State Council,1,QLD
+367,29/07/2016,Direct Debit,,Q3,Q3: 2016,10320,10320,0,124,,South Aust State Council,5,SA
+368,01/08/2016,Direct Debit,,Q3,Q3: 2016,3075,3075,0,35,,Tasmania State Council,4,TAS
+369,01/08/2016,Direct Debit,,Q3,Q3: 2016,15900,15900,0,117,,WA State Council,6,WA
+370,28/10/2016,Direct Debit,,Q4,Q4: 2016,84460,84460,0,851,,NSW State Council,2,NSW
+371,15/10/2016,Direct Debit,,Q4,Q4: 2016,890,890,0,8,,NT Council,7,NT
+372,28/10/2016,Direct Debit,,Q4,Q4: 2016,34037,34037,0,354,,Queensland State Council,1,QLD
+373,28/10/2016,Direct Debit,,Q4,Q4: 2016,3075,3075,0,35,,Tasmania State Council,4,TAS
+374,28/10/2016,Direct Debit,,Q4,Q4: 2016,7120,7120,0,89,,ACT Council,8,ACT
+375,04/11/2016,Direct Debit,,Q4,Q4: 2016,10320,10320,0,124,,South Aust State Council,5,SA
+376,04/11/2016,,,Q4,Q4: 2016,15900,15900,0,117,We used Q3 16 data because WA didn’t send in their Q4 16 due to illness of the administrator,WA State Council,6,WA
+377,04/11/2016,Direct Debit,,Q4,Q4: 2016,184581.25,184581,0.25,529,,Victoria State Council,3,VIC
+380,27/01/2017,Direct Debit,,Q1,Q1: 2017,77156,77156,0,851,,NSW State Council,2,NSW
+381,26/01/2017,Direct Debit,,Q1,Q1: 2017,7120,7120,0,89,,ACT Council,8,ACT
+382,27/01/2017,Direct Debit,,Q1,Q1: 2017,890,890,0,8,,NT Council,7,NT
+383,27/01/2017,Direct Debit,,Q1,Q1: 2017,62990,62990,0,354,,Queensland State Council,1,QLD
+384,25/01/2017,Direct Debit,,Q1,Q1: 2017,16352,16352,0,131,,South Aust State Council,5,SA
+385,27/01/2017,Direct Debit,,Q1,Q1: 2017,3635,3635,0,32,,Tasmania State Council,4,TAS
+386,27/01/2017,Direct Debit,,Q1,Q1: 2017,75831,75831,0,528,,Victoria State Council,3,VIC
+387,25/01/2017,Direct Debit,,Q1,Q1: 2017,14645,14645,0,114,,WA State Council,6,WA
+388,27/05/2017,Direct Debit,,Q2,Q2: 2017,4960,4960,0,62,,ACT Council,8,ACT
+389,01/06/2017,Direct Debit,,Q2,Q2: 2017,890,890,0,8,,NT Council,7,NT
+390,25/04/2017,Direct Debit,,Q2,Q2: 2017,11220,11220,0,134,,South Aust State Council,5,SA
+391,11/05/2017,Direct Debit,,Q2,Q2: 2017,,10048,-10048,32,,Tasmania State Council,4,TAS
+392,21/04/2017,Direct Debit,,Q2,Q2: 2017,30360,30360,0,354,,Queensland State Council,1,QLD
+393,28/04/2017,Direct Debit,,Q2,Q2: 2017,119027,119027,0,529,,Victoria State Council,3,VIC
+394,27/04/2017,Direct Debit,,Q2,Q2: 2017,23544,23544,0,114,,WA State Council,6,WA
+395,26/06/2017,Direct Debit,,Q2,Q2: 2017,85447,85447,0,851,,NSW State Council,2,NSW
+396,25/07/2017,,,Q3,Q3: 2017,75831,1360,74471,17,,Victoria State Council,3,VIC
